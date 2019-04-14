@@ -14,4 +14,5 @@ import Foundation
 //PathSumSolution.init().test()
 //PalindromeNumberSolution.init().test()
 //ReverseIntegerSolution.init().test()
-RomanToIntegerSolution.init().test()
+//RomanToIntegerSolution.init().test()
+LongestCommonPrefixSolution.init().test()
