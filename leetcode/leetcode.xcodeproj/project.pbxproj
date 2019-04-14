@@ -21,6 +21,7 @@
 		BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */; };
 		BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
+		BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724392263BEE200AC8930 /* PowerOfThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
+		BA5724392263BEE200AC8930 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
 				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
 				BA5724372263BC0600AC8930 /* AddDigits.swift */,
+				BA5724392263BEE200AC8930 /* PowerOfThree.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
+				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 			);

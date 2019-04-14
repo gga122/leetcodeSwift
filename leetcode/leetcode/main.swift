@@ -20,4 +20,5 @@ import Foundation
 //AddBinarySolution.init().test()
 //InvertBinaryTreeSolution.init().test()
 //SqrtXSolution.init().test()
-AddDigitsSolution.init().test()
+//AddDigitsSolution.init().test()
+PowerOfThreeSolution.init().test()
