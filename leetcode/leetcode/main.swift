@@ -19,4 +19,5 @@ import Foundation
 //MaximumDepthOfBinaryTreeSolution.init().test()
 //AddBinarySolution.init().test()
 //InvertBinaryTreeSolution.init().test()
-SqrtXSolution.init().test()
+//SqrtXSolution.init().test()
+AddDigitsSolution.init().test()

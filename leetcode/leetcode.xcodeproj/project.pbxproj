@@ -20,6 +20,7 @@
 		BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */; };
 		BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */; };
 		BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */; };
+		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX.swift; sourceTree = "<group>"; };
+		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */,
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
 				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
+				BA5724372263BC0600AC8930 /* AddDigits.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 				TargetAttributes = {
 					BA20A5B1226338AF00CBD9D4 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -164,6 +168,7 @@
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
+				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
@@ -292,9 +297,17 @@
 		BA20A5BA226338AF00CBD9D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24QJT553GT;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
@@ -302,9 +315,16 @@
 		BA20A5BB226338AF00CBD9D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24QJT553GT;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
