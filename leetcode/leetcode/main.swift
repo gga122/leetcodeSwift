@@ -16,4 +16,5 @@ import Foundation
 //ReverseIntegerSolution.init().test()
 //RomanToIntegerSolution.init().test()
 //LongestCommonPrefixSolution.init().test()
-MaximumDepthOfBinaryTreeSolution.init().test()
+//MaximumDepthOfBinaryTreeSolution.init().test()
+AddBinarySolution.init().test()
