@@ -13,6 +13,7 @@
 		BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C02263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C222636CC500CBD9D4 /* PathSum.swift */; };
 		BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C4226374FE00CBD9D4 /* PalindromeNumber.swift */; };
+		BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		BA20A5C02263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		BA20A5C222636CC500CBD9D4 /* PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum.swift; sourceTree = "<group>"; };
 		BA20A5C4226374FE00CBD9D4 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
+		BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				BA20A5C02263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift */,
 				BA20A5C222636CC500CBD9D4 /* PathSum.swift */,
 				BA20A5C4226374FE00CBD9D4 /* PalindromeNumber.swift */,
+				BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
