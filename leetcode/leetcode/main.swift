@@ -11,4 +11,5 @@ import Foundation
 //TwoSumSolution.init().test()
 //AddTwoNumbersSolution.init().test()
 //LongestSubstringWithoutRepeatingCharactersSolution.init().test()
-PathSumSolution.init().test()
+//PathSumSolution.init().test()
+PalindromeNumberSolution.init().test()
