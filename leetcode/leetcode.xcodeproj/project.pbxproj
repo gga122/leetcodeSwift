@@ -19,6 +19,7 @@
 		BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */; };
 		BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */; };
 		BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */; };
+		BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
 		BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
+		BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */,
 				BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */,
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
+				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
+				BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,

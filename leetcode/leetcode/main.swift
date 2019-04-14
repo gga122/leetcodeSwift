@@ -18,4 +18,5 @@ import Foundation
 //LongestCommonPrefixSolution.init().test()
 //MaximumDepthOfBinaryTreeSolution.init().test()
 //AddBinarySolution.init().test()
-InvertBinaryTreeSolution.init().test()
+//InvertBinaryTreeSolution.init().test()
+SqrtXSolution.init().test()
