@@ -16,6 +16,7 @@
 		BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */; };
 		BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5C8226382E800CBD9D4 /* RomanToInteger.swift */; };
 		BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CA2263889F00CBD9D4 /* LongestCommonPrefix.swift */; };
+		BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 		BA20A5C8226382E800CBD9D4 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
 		BA20A5CA2263889F00CBD9D4 /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
+		BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				BA20A5C62263806200CBD9D4 /* ReverseInteger.swift */,
 				BA20A5C8226382E800CBD9D4 /* RomanToInteger.swift */,
 				BA20A5CA2263889F00CBD9D4 /* LongestCommonPrefix.swift */,
+				BA20A5CC226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
+				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -15,4 +15,5 @@ import Foundation
 //PalindromeNumberSolution.init().test()
 //ReverseIntegerSolution.init().test()
 //RomanToIntegerSolution.init().test()
-LongestCommonPrefixSolution.init().test()
+//LongestCommonPrefixSolution.init().test()
+MaximumDepthOfBinaryTreeSolution.init().test()
