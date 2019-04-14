@@ -13,4 +13,5 @@ import Foundation
 //LongestSubstringWithoutRepeatingCharactersSolution.init().test()
 //PathSumSolution.init().test()
 //PalindromeNumberSolution.init().test()
-ReverseIntegerSolution.init().test()
+//ReverseIntegerSolution.init().test()
+RomanToIntegerSolution.init().test()
