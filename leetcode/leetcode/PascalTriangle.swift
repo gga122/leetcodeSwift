@@ -9,21 +9,13 @@
 import Foundation
 
 class PascalTriangleSolution {
-    func getElement(_ rowIndex: Int, _ index: Int) -> Int {
-        if rowIndex == 0 {
-            return 1
-        }
-        if index == 0 || index == rowIndex {
-            return 1
-        }
-        
-        return getElement(rowIndex - 1, index - 1) + getElement(rowIndex - 1, index)
-    }
     
     func getRow(_ rowIndex: Int) -> [Int] {
         var row = Array<Int>.init()
+        var cur = 1
         for idx in 0...rowIndex {
-            row.insert(getElement(rowIndex, idx), at: idx)
+            row.append(cur)
+            cur = cur * (rowIndex - idx) / (idx + 1)
         }
         
         return row
@@ -55,5 +47,9 @@ class PascalTriangleSolution {
     
     func testGenerator() -> Void {
         print(generate(5))
+    }
+    
+    func testGetRow() -> Void {
+        print(getRow(28))
     }
 }
