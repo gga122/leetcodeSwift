@@ -24,4 +24,5 @@ import Foundation
 //PowerOfThreeSolution.init().test()
 //ValidParenthesesSolution.init().test()
 //PascalTriangleSolution.init().testGenerator()
-PascalTriangleSolution.init().testGetRow()
+//PascalTriangleSolution.init().testGetRow()
+PlusOneSolution.init().test()
