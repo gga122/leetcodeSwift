@@ -26,4 +26,5 @@ import Foundation
 //PascalTriangleSolution.init().testGenerator()
 //PascalTriangleSolution.init().testGetRow()
 //PlusOneSolution.init().test()
-ClimbingStairsSolution.init().test()
+//ClimbingStairsSolution.init().test()
+FibonacciNumberSolution.init().test()

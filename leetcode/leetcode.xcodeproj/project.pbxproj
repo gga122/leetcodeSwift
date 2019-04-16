@@ -20,6 +20,7 @@
 		BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */; };
 		BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */; };
 		BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */; };
+		BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A23612266302D002865A2 /* FibonacciNumber.swift */; };
 		BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */; };
 		BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
@@ -55,6 +56,7 @@
 		BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX.swift; sourceTree = "<group>"; };
+		BA2A23612266302D002865A2 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				BA57243D2263F39700AC8930 /* PascalTriangle.swift */,
 				BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */,
 				BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */,
+				BA2A23612266302D002865A2 /* FibonacciNumber.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
+				BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
