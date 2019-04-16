@@ -25,4 +25,5 @@ import Foundation
 //ValidParenthesesSolution.init().test()
 //PascalTriangleSolution.init().testGenerator()
 //PascalTriangleSolution.init().testGetRow()
-PlusOneSolution.init().test()
+//PlusOneSolution.init().test()
+ClimbingStairsSolution.init().test()
