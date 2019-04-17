@@ -29,4 +29,5 @@ import Foundation
 //ClimbingStairsSolution.init().test()
 //FibonacciNumberSolution.init().test()
 //Base7Solution.init().test()
-AddToArrayFormOfIntegerSolution.init().test()
+//AddToArrayFormOfIntegerSolution.init().test()
+BinaryNumberWithAlternatingBitsSolution.init().test()

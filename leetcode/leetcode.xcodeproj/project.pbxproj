@@ -29,6 +29,7 @@
 		BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243B2263C03500AC8930 /* ValidParentheses.swift */; };
 		BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243D2263F39700AC8930 /* PascalTriangle.swift */; };
 		BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */; };
+		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +68,7 @@
 		BA57243B2263C03500AC8930 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		BA57243D2263F39700AC8930 /* PascalTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalTriangle.swift; sourceTree = "<group>"; };
 		BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
+		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				BA2A23612266302D002865A2 /* FibonacciNumber.swift */,
 				BA2A236322663157002865A2 /* Base7.swift */,
 				BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */,
+				BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
+				BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
