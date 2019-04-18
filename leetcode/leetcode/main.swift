@@ -30,4 +30,6 @@ import Foundation
 //FibonacciNumberSolution.init().test()
 //Base7Solution.init().test()
 //AddToArrayFormOfIntegerSolution.init().test()
-BinaryNumberWithAlternatingBitsSolution.init().test()
+//BinaryNumberWithAlternatingBitsSolution.init().test()
+BinarySearchSolution.init().test()
+//ArrangingCoinsSolution.init().test()
