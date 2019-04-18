@@ -11,7 +11,13 @@ import Foundation
 class BinarySearchSolution {
     func search(_ nums: [Int], _ target: Int) -> Int {
         var l = 0
-        var r = nums.count - 1 
+        var r = nums.count - 1
+        if target < nums[l] {
+            return -1
+        }
+        if target > nums[r] {
+            return -1
+        }
         
         while l <= r {
             let m = (l + r) / 2
