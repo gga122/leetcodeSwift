@@ -10,16 +10,12 @@ import Foundation
 
 class ArrangingCoinsSolution {
     func arrangeCoins(_ n: Int) -> Int {
-        var n = n
-        var idx = 1
-        while n > idx {
-            n -= idx
-            idx += 1
-        }
-        return idx - 1
+        let k = sqrt(Double(2 * n) + 0.25) - 0.5
+        return Int(k)
     }
     
     func test() -> Void {
+        print(arrangeCoins(3))
         print(arrangeCoins(5))
         print(arrangeCoins(8))
     }
