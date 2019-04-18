@@ -10,7 +10,21 @@ import Foundation
 
 class ArrayPartitionSolution {
     func arrayPairSum(_ nums: [Int]) -> Int {
-        return 0
+        let count = nums.count
+        if count == 1 {
+            return nums.first!
+        }
+        
+        var nums = nums
+        nums.sort()
+        var idx = 0
+        var result = 0
+        repeat {
+            result += nums[idx]
+            idx += 2
+        } while idx < count
+        
+        return result
     }
     
     func testArrayPairSum() -> Void {
