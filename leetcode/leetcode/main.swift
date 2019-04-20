@@ -33,4 +33,5 @@ import Foundation
 //BinaryNumberWithAlternatingBitsSolution.init().test()
 //BinarySearchSolution.init().test()
 //ArrangingCoinsSolution.init().test()
-ArrayPartitionSolution.init().testArrayPairSum()
+//ArrayPartitionSolution.init().testArrayPairSum()
+AddStringsSolution.init().test()
