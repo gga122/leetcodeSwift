@@ -41,4 +41,5 @@ import Foundation
 //oneBitAndTwoBitCharactersSolution.init().test()
 //AssignCookiesSolution.init().test()
 //AvailableCapturesForRookSolution.init().test()
-AverageOfLevelInBinaryTreeSolution.init().test()
+//AverageOfLevelInBinaryTreeSolution.init().test()
+BackspaceStringCompareSolution.init().test()
