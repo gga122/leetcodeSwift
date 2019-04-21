@@ -40,4 +40,5 @@ import Foundation
 //BinaryPrefixDivisibleBy5Solution.init().test()
 //oneBitAndTwoBitCharactersSolution.init().test()
 //AssignCookiesSolution.init().test()
-AvailableCapturesForRookSolution.init().test()
+//AvailableCapturesForRookSolution.init().test()
+AverageOfLevelInBinaryTreeSolution.init().test()
