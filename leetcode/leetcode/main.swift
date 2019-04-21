@@ -37,4 +37,5 @@ import Foundation
 //AddStringsSolution.init().test()
 //CountPrimesSolution.init().test()
 //ConvertSortedArrayToBinarySearchTreeSolution.init().test()
-BinaryPrefixDivisibleBy5Solution.init().test()
+//BinaryPrefixDivisibleBy5Solution.init().test()
+oneBitAndTwoBitCharactersSolution.init().test()
