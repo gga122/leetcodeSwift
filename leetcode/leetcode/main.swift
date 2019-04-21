@@ -42,4 +42,5 @@ import Foundation
 //AssignCookiesSolution.init().test()
 //AvailableCapturesForRookSolution.init().test()
 //AverageOfLevelInBinaryTreeSolution.init().test()
-BackspaceStringCompareSolution.init().test()
+//BackspaceStringCompareSolution.init().test()
+BalancedBinaryTreeSolution.init().test()
