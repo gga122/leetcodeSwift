@@ -46,4 +46,5 @@ import Foundation
 //BalancedBinaryTreeSolution.init().test()
 //BaseballGameSolution.init().test()
 //BestTimeToBuyAndSellStockSolution.init().testOnce()
-BestTimeToBuyAndSellStockSolution.init().testMultiple()
+//BestTimeToBuyAndSellStockSolution.init().testMultiple()
+BinaryGapSolution.init().test()
