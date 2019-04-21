@@ -44,4 +44,6 @@ import Foundation
 //AverageOfLevelInBinaryTreeSolution.init().test()
 //BackspaceStringCompareSolution.init().test()
 //BalancedBinaryTreeSolution.init().test()
-BaseballGameSolution.init().test()
+//BaseballGameSolution.init().test()
+//BestTimeToBuyAndSellStockSolution.init().testOnce()
+BestTimeToBuyAndSellStockSolution.init().testMultiple()
