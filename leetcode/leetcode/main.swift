@@ -39,4 +39,5 @@ import Foundation
 //ConvertSortedArrayToBinarySearchTreeSolution.init().test()
 //BinaryPrefixDivisibleBy5Solution.init().test()
 //oneBitAndTwoBitCharactersSolution.init().test()
-AssignCookiesSolution.init().test()
+//AssignCookiesSolution.init().test()
+AvailableCapturesForRookSolution.init().test()
