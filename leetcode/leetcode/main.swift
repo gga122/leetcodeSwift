@@ -36,4 +36,5 @@ import Foundation
 //ArrayPartitionSolution.init().testArrayPairSum()
 //AddStringsSolution.init().test()
 //CountPrimesSolution.init().test()
-ConvertSortedArrayToBinarySearchTreeSolution.init().test()
+//ConvertSortedArrayToBinarySearchTreeSolution.init().test()
+BinaryPrefixDivisibleBy5Solution.init().test()
