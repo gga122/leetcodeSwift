@@ -33,11 +33,11 @@ class BalancedBinaryTreeSolution {
         let lb = isBST(node?.left)
         let rb = isBST(node?.right)
         if !lb.isbalance || !rb.isbalance {
-            return (lb.height, false)
+            return (0, false)
         }
         
         if abs(lb.height - rb.height) > 1 {
-            return (lb.height, false)
+            return (0, false)
         }
         
         return (max(lb.height, rb.height) + 1, true)

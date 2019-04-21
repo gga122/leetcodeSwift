@@ -43,4 +43,5 @@ import Foundation
 //AvailableCapturesForRookSolution.init().test()
 //AverageOfLevelInBinaryTreeSolution.init().test()
 //BackspaceStringCompareSolution.init().test()
-BalancedBinaryTreeSolution.init().test()
+//BalancedBinaryTreeSolution.init().test()
+BaseballGameSolution.init().test()
