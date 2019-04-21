@@ -48,4 +48,5 @@ import Foundation
 //BestTimeToBuyAndSellStockSolution.init().testOnce()
 //BestTimeToBuyAndSellStockSolution.init().testMultiple()
 //BinaryGapSolution.init().test()
-BinaryTreeLevelOrderTraversalSolution.init().test()
+//BinaryTreeLevelOrderTraversalSolution.init().test()
+BinaryTreePathsSolution.init().test()
