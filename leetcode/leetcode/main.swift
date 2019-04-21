@@ -35,4 +35,5 @@ import Foundation
 //ArrangingCoinsSolution.init().test()
 //ArrayPartitionSolution.init().testArrayPairSum()
 //AddStringsSolution.init().test()
-CountPrimesSolution.init().test()
+//CountPrimesSolution.init().test()
+ConvertSortedArrayToBinarySearchTreeSolution.init().test()

@@ -29,6 +29,7 @@
 		BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */; };
 		BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */; };
 		BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */; };
+		BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3ACE7E226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
 		BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724392263BEE200AC8930 /* PowerOfThree.swift */; };
 		BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243B2263C03500AC8930 /* ValidParentheses.swift */; };
@@ -73,6 +74,7 @@
 		BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
+		BA3ACE7E226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSortedArrayToBinarySearchTree.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		BA5724392263BEE200AC8930 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
 		BA57243B2263C03500AC8930 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				BA2CC02B2268CEC200B3AF4D /* ArrayPartition.swift */,
 				BA2CC02D2268D96B00B3AF4D /* AddStrings.swift */,
 				BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */,
+				BA3ACE7E226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
+				BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
