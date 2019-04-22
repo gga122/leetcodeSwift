@@ -51,4 +51,5 @@ import Foundation
 //BinaryTreeLevelOrderTraversalSolution.init().test()
 //BinaryTreePathsSolution.init().test()
 //RemoveDuplicatesFromSortedArraySolution.init().test()
-MergeTwoSortedListsSolution.init().test()
+//MergeTwoSortedListsSolution.init().test()
+RemoveElementSolution.init().test()
