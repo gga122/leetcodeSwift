@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA15F516226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -63,6 +64,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BA15F516226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BA15F516226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift */,
 				BA3ACE92226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift */,
 				BA3ACE9C226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift */,
 				BA3ACE90226CB5A60065FA51 /* BaseballGame.swift */,
@@ -274,6 +277,7 @@
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
+				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BA2A236422663157002865A2 /* Base7.swift in Sources */,
