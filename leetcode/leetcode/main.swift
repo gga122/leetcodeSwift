@@ -53,4 +53,5 @@ import Foundation
 //RemoveDuplicatesFromSortedArraySolution.init().test()
 //MergeTwoSortedListsSolution.init().test()
 //RemoveElementSolution.init().test()
-ImplementStrStrSolution.init().test()
+//ImplementStrStrSolution.init().test()
+SearchInsertPositionSolution.init().test()
