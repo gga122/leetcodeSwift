@@ -52,4 +52,5 @@ import Foundation
 //BinaryTreePathsSolution.init().test()
 //RemoveDuplicatesFromSortedArraySolution.init().test()
 //MergeTwoSortedListsSolution.init().test()
-RemoveElementSolution.init().test()
+//RemoveElementSolution.init().test()
+ImplementStrStrSolution.init().test()
