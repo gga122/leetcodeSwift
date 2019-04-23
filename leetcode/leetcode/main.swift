@@ -54,4 +54,5 @@ import Foundation
 //MergeTwoSortedListsSolution.init().test()
 //RemoveElementSolution.init().test()
 //ImplementStrStrSolution.init().test()
-SearchInsertPositionSolution.init().test()
+//SearchInsertPositionSolution.init().test()
+CountAndSaySolution.init().test()
