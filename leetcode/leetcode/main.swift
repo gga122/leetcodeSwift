@@ -56,4 +56,5 @@ import Foundation
 //ImplementStrStrSolution.init().test()
 //SearchInsertPositionSolution.init().test()
 //CountAndSaySolution.init().test()
-MaximumSubarraySolution.init().test()
+//MaximumSubarraySolution.init().test()
+LengthOfLastWordSolution.init().test()
