@@ -60,4 +60,5 @@ import Foundation
 //LengthOfLastWordSolution.init().test()
 //RemoveDuplicatesFromSortedListSolution.init().test()
 //MergeSortedArraySolution.init().test()
-SameTreeSolution.init().test()
+//SameTreeSolution.init().test()
+SymmetricTreeSolution.init().test()
