@@ -59,4 +59,5 @@ import Foundation
 //MaximumSubarraySolution.init().test()
 //LengthOfLastWordSolution.init().test()
 //RemoveDuplicatesFromSortedListSolution.init().test()
-MergeSortedArraySolution.init().test()
+//MergeSortedArraySolution.init().test()
+SameTreeSolution.init().test()

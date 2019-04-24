@@ -19,10 +19,12 @@ class MergeSortedArraySolution {
             return
         }
         
+        /* search from the end */
         var i = n - 1
         var j = m - 1
         var k = m + n - 1
         while i >= 0 && j >= 0 {
+            /* make the end part ordered! */
             if nums1[j] < nums2[i] {
                 nums1[k] = nums2[i]
                 i -= 1
@@ -33,6 +35,7 @@ class MergeSortedArraySolution {
             k -= 1
         }
         
+        /* insert remain nums */
         while i >= 0 {
             nums1[k] = nums2[i]
             k -= 1
