@@ -55,4 +55,5 @@ import Foundation
 //RemoveElementSolution.init().test()
 //ImplementStrStrSolution.init().test()
 //SearchInsertPositionSolution.init().test()
-CountAndSaySolution.init().test()
+//CountAndSaySolution.init().test()
+MaximumSubarraySolution.init().test()
