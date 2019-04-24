@@ -62,4 +62,5 @@ import Foundation
 //MergeSortedArraySolution.init().test()
 //SameTreeSolution.init().test()
 //SymmetricTreeSolution.init().test()
-MinStack.init().test()
+//MinStack.init().test()
+ExcelSheetColumnNumberSolution.init().test()
