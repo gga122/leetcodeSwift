@@ -61,4 +61,5 @@ import Foundation
 //RemoveDuplicatesFromSortedListSolution.init().test()
 //MergeSortedArraySolution.init().test()
 //SameTreeSolution.init().test()
-SymmetricTreeSolution.init().test()
+//SymmetricTreeSolution.init().test()
+MinStack.init().test()
