@@ -68,4 +68,5 @@ import Foundation
 //ValidPalindromeSolution.init().test()
 //ExcelSheetColumnTitleSolution.init().test()
 //TwoSumII_InputArrayIsSortedSolution.init().test()
-FactorialTrailingZeroesSolution.init().test()
+//FactorialTrailingZeroesSolution.init().test()
+MajorityElementSolution.init().test()
