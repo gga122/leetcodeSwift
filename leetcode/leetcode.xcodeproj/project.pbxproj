@@ -43,6 +43,7 @@
 		BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC02B2268CEC200B3AF4D /* ArrayPartition.swift */; };
 		BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC02D2268D96B00B3AF4D /* AddStrings.swift */; };
 		BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */; };
+		BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */; };
 		BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */; };
 		BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */; };
 		BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */; };
@@ -117,6 +118,7 @@
 		BA2CC02B2268CEC200B3AF4D /* ArrayPartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayPartition.swift; sourceTree = "<group>"; };
 		BA2CC02D2268D96B00B3AF4D /* AddStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStrings.swift; sourceTree = "<group>"; };
 		BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
+		BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSumII-InputArrayIsSorted.swift"; sourceTree = "<group>"; };
 		BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */,
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
 				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
+				BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */,
 				BA5724372263BC0600AC8930 /* AddDigits.swift */,
 				BA5724392263BEE200AC8930 /* PowerOfThree.swift */,
 				BA3ACE98226CD8AA0065FA51 /* BinaryGap.swift */,
@@ -325,6 +328,7 @@
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA15F5332270BCD9008B5516 /* SymmetricTree.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
+				BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */,
 				BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */,
