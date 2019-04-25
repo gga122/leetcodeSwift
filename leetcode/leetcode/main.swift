@@ -65,4 +65,5 @@ import Foundation
 //MinStack.init().test()
 //ExcelSheetColumnNumberSolution.init().test()
 //MinimumDepthOfBinaryTreeSolution.init().test()
-ValidPalindromeSolution.init().test()
+//ValidPalindromeSolution.init().test()
+ExcelSheetColumnTitleSolution.init().test()
