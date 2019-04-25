@@ -9,9 +9,11 @@
 #include <stdio.h>
 #include "NumberOf1Bits.h"
 #include "LinkedListCycle.h"
+#include "ReverseBits.h"
 
 int main(int argc, const char * argv[]) {
 //    testHammingWeight();
-    testHasCycle();
+//    testHasCycle();
+    testReverseBits();
     return 0;
 }

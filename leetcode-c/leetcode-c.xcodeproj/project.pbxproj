@@ -10,6 +10,7 @@
 		BA15F5412270C278008B5516 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5402270C278008B5516 /* main.c */; };
 		BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5482270C296008B5516 /* NumberOf1Bits.c */; };
 		BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */; };
+		BA2DE13A22721D2400FD620A /* ReverseBits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13922721D2400FD620A /* ReverseBits.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		BA15F5482270C296008B5516 /* NumberOf1Bits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = NumberOf1Bits.c; sourceTree = "<group>"; };
 		BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LinkedListCycle.c; sourceTree = "<group>"; };
 		BA2DE12C22720A1D00FD620A /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
+		BA2DE13822721D2400FD620A /* ReverseBits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseBits.h; sourceTree = "<group>"; };
+		BA2DE13922721D2400FD620A /* ReverseBits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseBits.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				BA15F5482270C296008B5516 /* NumberOf1Bits.c */,
 				BA2DE12C22720A1D00FD620A /* LinkedListCycle.h */,
 				BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */,
+				BA2DE13822721D2400FD620A /* ReverseBits.h */,
+				BA2DE13922721D2400FD620A /* ReverseBits.c */,
 			);
 			path = "leetcode-c";
 			sourceTree = "<group>";
@@ -128,6 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA2DE13A22721D2400FD620A /* ReverseBits.c in Sources */,
 				BA15F5412270C278008B5516 /* main.c in Sources */,
 				BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */,
 				BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */,
