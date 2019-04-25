@@ -70,4 +70,5 @@ import Foundation
 //TwoSumII_InputArrayIsSortedSolution.init().test()
 //FactorialTrailingZeroesSolution.init().test()
 //MajorityElementSolution.init().test()
-PowerOfTwoSolution.init().test()
+//PowerOfTwoSolution.init().test()
+ReverseLinkedListSolution.init().test()

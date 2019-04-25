@@ -47,6 +47,7 @@
 		BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */; };
 		BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE1342272194100FD620A /* MajorityElement.swift */; };
 		BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13B2272211300FD620A /* PowerOfTwo.swift */; };
+		BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */; };
 		BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */; };
 		BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */; };
 		BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */; };
@@ -125,6 +126,7 @@
 		BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroes.swift; sourceTree = "<group>"; };
 		BA2DE1342272194100FD620A /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
 		BA2DE13B2272211300FD620A /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
+		BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList.swift; sourceTree = "<group>"; };
 		BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
@@ -188,6 +190,7 @@
 				BA15F51E226F5BD0008B5516 /* SearchInsertPosition.swift */,
 				BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */,
 				BA15F51C226E2F9C008B5516 /* ImplementStrStr.swift */,
+				BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */,
 				BA15F518226E22D6008B5516 /* MergeTwoSortedLists.swift */,
 				BA15F5242270AF58008B5516 /* LengthOfLastWord.swift */,
 				BA15F52E2270B3FE008B5516 /* MergeSortedArray.swift */,
@@ -322,6 +325,7 @@
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
+				BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
 				BA15F5312270BBA3008B5516 /* SameTree.swift in Sources */,
