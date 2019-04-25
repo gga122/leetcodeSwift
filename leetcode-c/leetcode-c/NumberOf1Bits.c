@@ -19,3 +19,8 @@ int hammingWeight(uint32_t n) {
     }
     return c;
 }
+
+void testHammingWeight(void) {
+    int c = hammingWeight(0x00000000000000000000000000001011);
+    printf("%d\n", c);
+}

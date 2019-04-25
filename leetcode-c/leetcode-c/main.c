@@ -8,8 +8,10 @@
 
 #include <stdio.h>
 #include "NumberOf1Bits.h"
+#include "LinkedListCycle.h"
 
 int main(int argc, const char * argv[]) {
-    int c = hammingWeight(0x00000000000000000000000000001011);
+//    testHammingWeight();
+    testHasCycle();
     return 0;
 }

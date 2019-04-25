@@ -13,4 +13,6 @@
 
 extern int hammingWeight(uint32_t n);
 
+extern void testHammingWeight(void);
+
 #endif /* NumberOf1Bits_h */
