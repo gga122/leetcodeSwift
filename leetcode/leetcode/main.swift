@@ -69,4 +69,5 @@ import Foundation
 //ExcelSheetColumnTitleSolution.init().test()
 //TwoSumII_InputArrayIsSortedSolution.init().test()
 //FactorialTrailingZeroesSolution.init().test()
-MajorityElementSolution.init().test()
+//MajorityElementSolution.init().test()
+PowerOfTwoSolution.init().test()
