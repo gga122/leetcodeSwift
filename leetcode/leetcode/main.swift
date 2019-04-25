@@ -67,4 +67,5 @@ import Foundation
 //MinimumDepthOfBinaryTreeSolution.init().test()
 //ValidPalindromeSolution.init().test()
 //ExcelSheetColumnTitleSolution.init().test()
-TwoSumII_InputArrayIsSortedSolution.init().test()
+//TwoSumII_InputArrayIsSortedSolution.init().test()
+FactorialTrailingZeroesSolution.init().test()
