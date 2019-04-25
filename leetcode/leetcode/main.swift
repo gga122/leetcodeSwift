@@ -64,4 +64,5 @@ import Foundation
 //SymmetricTreeSolution.init().test()
 //MinStack.init().test()
 //ExcelSheetColumnNumberSolution.init().test()
-MinimumDepthOfBinaryTreeSolution.init().test()
+//MinimumDepthOfBinaryTreeSolution.init().test()
+ValidPalindromeSolution.init().test()
