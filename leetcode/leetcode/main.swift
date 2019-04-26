@@ -73,4 +73,5 @@ import Foundation
 //PowerOfTwoSolution.init().test()
 //ReverseLinkedListSolution.init().test()
 //RotateArraySolution.init().test()
-HappyNumberSolution.init().test()
+//HappyNumberSolution.init().test()
+HouseRobberSolution.init().test()
