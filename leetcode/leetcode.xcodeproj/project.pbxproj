@@ -71,6 +71,7 @@
 		BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243D2263F39700AC8930 /* PascalTriangle.swift */; };
 		BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */; };
 		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
+		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,6 +152,7 @@
 		BA57243D2263F39700AC8930 /* PascalTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalTriangle.swift; sourceTree = "<group>"; };
 		BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
 		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
+		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				BA15F518226E22D6008B5516 /* MergeTwoSortedLists.swift */,
 				BA15F5242270AF58008B5516 /* LengthOfLastWord.swift */,
 				BA15F52E2270B3FE008B5516 /* MergeSortedArray.swift */,
+				BAA3E89822736FF9003A9F4B /* HappyNumber.swift */,
 				BA2DE1342272194100FD620A /* MajorityElement.swift */,
 				BA15F516226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift */,
 				BA2DE13B2272211300FD620A /* PowerOfTwo.swift */,
@@ -366,6 +369,7 @@
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
+				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
 				BA15F521226F609D008B5516 /* CountAndSay.swift in Sources */,
 				BA2A236422663157002865A2 /* Base7.swift in Sources */,
 				BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */,

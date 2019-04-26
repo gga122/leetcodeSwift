@@ -72,4 +72,5 @@ import Foundation
 //MajorityElementSolution.init().test()
 //PowerOfTwoSolution.init().test()
 //ReverseLinkedListSolution.init().test()
-RotateArraySolution.init().test()
+//RotateArraySolution.init().test()
+HappyNumberSolution.init().test()
