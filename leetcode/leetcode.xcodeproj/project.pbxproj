@@ -73,6 +73,7 @@
 		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
+		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -155,6 +156,7 @@
 		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
+		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -200,6 +202,7 @@
 				BA15F51C226E2F9C008B5516 /* ImplementStrStr.swift */,
 				BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */,
 				BA15F5242270AF58008B5516 /* LengthOfLastWord.swift */,
+				BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */,
 				BA15F518226E22D6008B5516 /* MergeTwoSortedLists.swift */,
 				BA15F52E2270B3FE008B5516 /* MergeSortedArray.swift */,
 				BAA3E89822736FF9003A9F4B /* HappyNumber.swift */,
@@ -376,6 +379,7 @@
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
 				BA15F521226F609D008B5516 /* CountAndSay.swift in Sources */,
 				BA2A236422663157002865A2 /* Base7.swift in Sources */,
+				BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */,
 				BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */,
 				BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */,
 				BA3ACE87226C662C0065FA51 /* AvailableCapturesForRook.swift in Sources */,

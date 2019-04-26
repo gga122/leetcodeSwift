@@ -74,4 +74,5 @@ import Foundation
 //ReverseLinkedListSolution.init().test()
 //RotateArraySolution.init().test()
 //HappyNumberSolution.init().test()
-HouseRobberSolution.init().test()
+//HouseRobberSolution.init().test()
+RemoveLinkedListElementsSolution.init().test()
