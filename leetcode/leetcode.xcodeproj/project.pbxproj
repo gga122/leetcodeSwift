@@ -48,6 +48,7 @@
 		BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE1342272194100FD620A /* MajorityElement.swift */; };
 		BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13B2272211300FD620A /* PowerOfTwo.swift */; };
 		BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */; };
+		BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13F22735BC100FD620A /* RotateArray.swift */; };
 		BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */; };
 		BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */; };
 		BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */; };
@@ -127,6 +128,7 @@
 		BA2DE1342272194100FD620A /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
 		BA2DE13B2272211300FD620A /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList.swift; sourceTree = "<group>"; };
+		BA2DE13F22735BC100FD620A /* RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray.swift; sourceTree = "<group>"; };
 		BA2EDDA22264CAAB00DDAAEF /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		BA2EDDA42264CFC500DDAAEF /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		BA3ACE7C226B32B00065FA51 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
@@ -333,6 +336,7 @@
 				BA15F54D2270D322008B5516 /* ExcelSheetColumnNumber.swift in Sources */,
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
+				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,
@@ -495,6 +499,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24QJT553GT;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -503,6 +508,7 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
@@ -513,6 +519,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24QJT553GT;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -521,6 +528,7 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 4.2;
 			};

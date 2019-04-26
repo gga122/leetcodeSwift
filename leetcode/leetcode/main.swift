@@ -71,4 +71,5 @@ import Foundation
 //FactorialTrailingZeroesSolution.init().test()
 //MajorityElementSolution.init().test()
 //PowerOfTwoSolution.init().test()
-ReverseLinkedListSolution.init().test()
+//ReverseLinkedListSolution.init().test()
+RotateArraySolution.init().test()
