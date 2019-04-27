@@ -79,4 +79,5 @@ import Foundation
 //IsomorphicStringsSolution.init().test()
 //ContainsDuplicateSolution.init().test()
 //PalindromeLinkedListSolution.init().test()
-ImplementQueueUsingStacksMyQueue.init().test()
+//ImplementQueueUsingStacksMyQueue.init().test()
+ImplementStackUsingQueuesMyStack.init().test()

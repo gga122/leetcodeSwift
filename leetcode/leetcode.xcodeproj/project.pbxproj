@@ -78,6 +78,7 @@
 		BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */; };
 		BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */; };
 		BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */; };
+		BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -165,6 +166,7 @@
 		BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate.swift; sourceTree = "<group>"; };
 		BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
 		BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
+		BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStackUsingQueues.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +207,7 @@
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
 				BA15F522226F6AED008B5516 /* MaximumSubarray.swift */,
 				BA15F54C2270D322008B5516 /* ExcelSheetColumnNumber.swift */,
+				BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */,
 				BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */,
 				BA15F51E226F5BD0008B5516 /* SearchInsertPosition.swift */,
 				BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */,
@@ -356,6 +359,7 @@
 				BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */,
 				BA15F54D2270D322008B5516 /* ExcelSheetColumnNumber.swift in Sources */,
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,
+				BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
 				BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */,
