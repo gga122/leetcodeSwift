@@ -82,6 +82,7 @@
 		BAA3E8AD227467A2003A9F4B /* ContainsDuplicateII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AC227467A2003A9F4B /* ContainsDuplicateII.swift */; };
 		BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */; };
 		BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */; };
+		BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -173,6 +174,7 @@
 		BAA3E8AC227467A2003A9F4B /* ContainsDuplicateII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicateII.swift; sourceTree = "<group>"; };
 		BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfASortedArray.swift; sourceTree = "<group>"; };
+		BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPerimeterTriangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +208,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
@@ -397,6 +400,7 @@
 				BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */,
 				BA3ACE93226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
+				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */,
