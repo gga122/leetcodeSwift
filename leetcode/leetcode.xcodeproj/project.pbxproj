@@ -83,6 +83,7 @@
 		BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */; };
 		BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */; };
 		BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */; };
+		BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -175,6 +176,7 @@
 		BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfASortedArray.swift; sourceTree = "<group>"; };
 		BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPerimeterTriangle.swift; sourceTree = "<group>"; };
+		BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
 				BA15F522226F6AED008B5516 /* MaximumSubarray.swift */,
+				BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */,
 				BA15F54C2270D322008B5516 /* ExcelSheetColumnNumber.swift */,
 				BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */,
 				BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */,
@@ -400,6 +403,7 @@
 				BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */,
 				BA3ACE93226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
+				BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */,
 				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,

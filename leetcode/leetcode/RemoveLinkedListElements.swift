@@ -52,6 +52,6 @@ class RemoveLinkedListElementsSolution {
         a4.next = a5
         let a6 = ListNode.init(6)
         a5.next = a6
-        print(removeElements(a0, 6))
+        print(removeElements(a0, 6)!)
     }
 }
