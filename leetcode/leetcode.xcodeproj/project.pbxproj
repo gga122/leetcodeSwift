@@ -77,6 +77,7 @@
 		BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */; };
 		BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */; };
 		BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */; };
+		BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -163,6 +164,7 @@
 		BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate.swift; sourceTree = "<group>"; };
 		BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
+		BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +210,7 @@
 				BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */,
 				BA15F51C226E2F9C008B5516 /* ImplementStrStr.swift */,
 				BA2DE13D22722A4300FD620A /* ReverseLinkedList.swift */,
+				BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */,
 				BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */,
 				BA15F5242270AF58008B5516 /* LengthOfLastWord.swift */,
 				BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */,
@@ -387,6 +390,7 @@
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
+				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
 				BA15F521226F609D008B5516 /* CountAndSay.swift in Sources */,

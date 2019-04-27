@@ -78,4 +78,5 @@ import Foundation
 //RemoveLinkedListElementsSolution.init().test()
 //IsomorphicStringsSolution.init().test()
 //ContainsDuplicateSolution.init().test()
-PalindromeLinkedListSolution.init().test()
+//PalindromeLinkedListSolution.init().test()
+ImplementQueueUsingStacksMyQueue.init().test()
