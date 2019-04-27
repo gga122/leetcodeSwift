@@ -75,4 +75,5 @@ import Foundation
 //RotateArraySolution.init().test()
 //HappyNumberSolution.init().test()
 //HouseRobberSolution.init().test()
-RemoveLinkedListElementsSolution.init().test()
+//RemoveLinkedListElementsSolution.init().test()
+IsomorphicStringsSolution.init().test()

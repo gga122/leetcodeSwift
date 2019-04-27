@@ -24,22 +24,18 @@ class RemoveLinkedListElementsSolution {
             return nil
         }
         
-        var head = head
-        var header: ListNode? = nil
-        var previous: ListNode? = nil
-        while head != nil {
-            if head!.val != val {
-                if header == nil {
-                    header = head
-                }
-                previous = head
+        let header: ListNode = ListNode.init(-1)
+        header.next = head
+        var current = header
+        while current.next != nil {
+            if current.next?.val == val {
+                current.next = current.next!.next
             } else {
-                previous?.next = head?.next
+                current = current.next!
             }
-            head = head!.next
         }
         
-        return header
+        return header.next
     }
     
     func test() -> Void {
