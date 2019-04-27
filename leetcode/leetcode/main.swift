@@ -76,4 +76,5 @@ import Foundation
 //HappyNumberSolution.init().test()
 //HouseRobberSolution.init().test()
 //RemoveLinkedListElementsSolution.init().test()
-IsomorphicStringsSolution.init().test()
+//IsomorphicStringsSolution.init().test()
+ContainsDuplicateSolution.init().test()

@@ -75,6 +75,7 @@
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
 		BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */; };
+		BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -159,6 +160,7 @@
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
+		BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +208,7 @@
 				BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */,
 				BA15F5242270AF58008B5516 /* LengthOfLastWord.swift */,
 				BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */,
+				BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */,
 				BA15F518226E22D6008B5516 /* MergeTwoSortedLists.swift */,
 				BA15F52E2270B3FE008B5516 /* MergeSortedArray.swift */,
 				BAA3E89822736FF9003A9F4B /* HappyNumber.swift */,
@@ -352,6 +355,7 @@
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,
+				BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */,
 				BA15F523226F6AED008B5516 /* MaximumSubarray.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */,
