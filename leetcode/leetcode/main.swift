@@ -82,4 +82,5 @@ import Foundation
 //ImplementQueueUsingStacksMyQueue.init().test()
 //ImplementStackUsingQueuesMyStack.init().test()
 //ContainsDuplicateIISolution.init().test()
-MissingNumberSolution.init().test()
+//MissingNumberSolution.init().test()
+SquaresOfASortedArraySolution.init().test()
