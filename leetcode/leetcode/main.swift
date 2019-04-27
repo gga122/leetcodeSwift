@@ -86,4 +86,5 @@ import Foundation
 //SquaresOfASortedArraySolution.init().test()
 //LargestPerimeterTriangleSolution.init().test()
 //JewelsAndStonesSolution.init().test()
-UglyNumberSolution.init().test()
+//UglyNumberSolution.init().test()
+ValidAnagramSolution.init().test()
