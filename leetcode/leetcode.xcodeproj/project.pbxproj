@@ -84,6 +84,7 @@
 		BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */; };
 		BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */; };
 		BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */; };
+		BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -177,6 +178,7 @@
 		BAA3E8B0227491D7003A9F4B /* SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfASortedArray.swift; sourceTree = "<group>"; };
 		BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPerimeterTriangle.swift; sourceTree = "<group>"; };
 		BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
+		BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -217,6 +219,7 @@
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
+				BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */,
 				BA15F522226F6AED008B5516 /* MaximumSubarray.swift */,
 				BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */,
 				BA15F54C2270D322008B5516 /* ExcelSheetColumnNumber.swift */,
@@ -370,6 +373,7 @@
 				BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
+				BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */,
 				BA15F5312270BBA3008B5516 /* SameTree.swift in Sources */,
 				BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */,
 				BA15F54D2270D322008B5516 /* ExcelSheetColumnNumber.swift in Sources */,
