@@ -76,6 +76,7 @@
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
 		BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */; };
 		BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */; };
+		BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -161,6 +162,7 @@
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		BAA3E8A022737F41003A9F4B /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		BAA3E8A22274411B003A9F4B /* ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate.swift; sourceTree = "<group>"; };
+		BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +203,7 @@
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
 				BA15F522226F6AED008B5516 /* MaximumSubarray.swift */,
 				BA15F54C2270D322008B5516 /* ExcelSheetColumnNumber.swift */,
+				BAA3E8A622744A8D003A9F4B /* PalindromeLinkedList.swift */,
 				BA15F51E226F5BD0008B5516 /* SearchInsertPosition.swift */,
 				BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */,
 				BA15F51C226E2F9C008B5516 /* ImplementStrStr.swift */,
@@ -352,6 +355,7 @@
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
+				BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */,
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,

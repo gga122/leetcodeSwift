@@ -77,4 +77,5 @@ import Foundation
 //HouseRobberSolution.init().test()
 //RemoveLinkedListElementsSolution.init().test()
 //IsomorphicStringsSolution.init().test()
-ContainsDuplicateSolution.init().test()
+//ContainsDuplicateSolution.init().test()
+PalindromeLinkedListSolution.init().test()
