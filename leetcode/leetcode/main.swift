@@ -81,4 +81,5 @@ import Foundation
 //PalindromeLinkedListSolution.init().test()
 //ImplementQueueUsingStacksMyQueue.init().test()
 //ImplementStackUsingQueuesMyStack.init().test()
-ContainsDuplicateIISolution.init().test()
+//ContainsDuplicateIISolution.init().test()
+MissingNumberSolution.init().test()

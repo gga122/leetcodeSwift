@@ -80,6 +80,7 @@
 		BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */; };
 		BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */; };
 		BAA3E8AD227467A2003A9F4B /* ContainsDuplicateII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AC227467A2003A9F4B /* ContainsDuplicateII.swift */; };
+		BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -169,6 +170,7 @@
 		BAA3E8A822745A35003A9F4B /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
 		BAA3E8AA22745DF3003A9F4B /* ImplementStackUsingQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStackUsingQueues.swift; sourceTree = "<group>"; };
 		BAA3E8AC227467A2003A9F4B /* ContainsDuplicateII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicateII.swift; sourceTree = "<group>"; };
+		BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
+				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
@@ -398,6 +401,7 @@
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
+				BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */,
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
