@@ -87,6 +87,7 @@
 		BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */; };
 		BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B822749C65003A9F4B /* ValidAnagram.swift */; };
 		BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */; };
+		BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -183,6 +184,7 @@
 		BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber.swift; sourceTree = "<group>"; };
 		BAA3E8B822749C65003A9F4B /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
 		BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfEvenNumbersAfterQueries.swift; sourceTree = "<group>"; };
+		BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumOfBST.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
+				BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */,
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
 				BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */,
@@ -438,6 +441,7 @@
 				BA15F519226E22D6008B5516 /* MergeTwoSortedLists.swift in Sources */,
 				BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */,
 				BA15F54B2270C5F1008B5516 /* MinStack.swift in Sources */,
+				BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
