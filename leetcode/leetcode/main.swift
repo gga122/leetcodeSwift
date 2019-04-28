@@ -89,4 +89,5 @@ import Foundation
 //UglyNumberSolution.init().test()
 //ValidAnagramSolution.init().test()
 //SumOfEvenNumbersAfterQueriesSolution.init().test()
-RangeSumOfBSTSolution.init().test()
+//RangeSumOfBSTSolution.init().test()
+ToLowerCaseSolution.init().test()
