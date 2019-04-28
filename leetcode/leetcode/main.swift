@@ -90,4 +90,5 @@ import Foundation
 //ValidAnagramSolution.init().test()
 //SumOfEvenNumbersAfterQueriesSolution.init().test()
 //RangeSumOfBSTSolution.init().test()
-ToLowerCaseSolution.init().test()
+//ToLowerCaseSolution.init().test()
+FlippingAnImageSolution.init().test()
