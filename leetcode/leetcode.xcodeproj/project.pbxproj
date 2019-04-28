@@ -86,6 +86,7 @@
 		BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */; };
 		BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */; };
 		BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8B822749C65003A9F4B /* ValidAnagram.swift */; };
+		BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -181,6 +182,7 @@
 		BAA3E8B4227497D8003A9F4B /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		BAA3E8B622749A5F003A9F4B /* UglyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber.swift; sourceTree = "<group>"; };
 		BAA3E8B822749C65003A9F4B /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
+		BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfEvenNumbersAfterQueries.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +216,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
@@ -424,6 +427,7 @@
 				BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */,
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
+				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
 				BA15F521226F609D008B5516 /* CountAndSay.swift in Sources */,
 				BA2A236422663157002865A2 /* Base7.swift in Sources */,

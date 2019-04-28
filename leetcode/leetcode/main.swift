@@ -87,4 +87,5 @@ import Foundation
 //LargestPerimeterTriangleSolution.init().test()
 //JewelsAndStonesSolution.init().test()
 //UglyNumberSolution.init().test()
-ValidAnagramSolution.init().test()
+//ValidAnagramSolution.init().test()
+SumOfEvenNumbersAfterQueriesSolution.init().test()
