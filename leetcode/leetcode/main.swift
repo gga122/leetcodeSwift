@@ -93,4 +93,5 @@ import Foundation
 //ToLowerCaseSolution.init().test()
 //FlippingAnImageSolution.init().test()
 //RemoveOutermostParenthesesSolution.init().test()
-UniqueMorseCodeWordsSolution.init().test()
+//UniqueMorseCodeWordsSolution.init().test()
+RobotReturnToOriginSolution.init().test()
