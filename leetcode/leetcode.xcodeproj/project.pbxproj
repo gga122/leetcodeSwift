@@ -91,6 +91,7 @@
 		BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */; };
 		BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C0227607A0003A9F4B /* FlippingAnImage.swift */; };
 		BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */; };
+		BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -191,6 +192,7 @@
 		BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCase.swift; sourceTree = "<group>"; };
 		BAA3E8C0227607A0003A9F4B /* FlippingAnImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippingAnImage.swift; sourceTree = "<group>"; };
 		BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveOutermostParentheses.swift; sourceTree = "<group>"; };
+		BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCodeWords.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +235,7 @@
 				BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
 				BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */,
+				BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */,
 				BAA3E8C0227607A0003A9F4B /* FlippingAnImage.swift */,
 				BA15F54A2270C5F1008B5516 /* MinStack.swift */,
 				BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */,
@@ -380,6 +383,7 @@
 				BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
 				BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */,
+				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
 				BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */,
