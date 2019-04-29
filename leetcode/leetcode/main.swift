@@ -101,4 +101,5 @@ import Foundation
 //SortArrayByParitySolution.init().test()
 //NimGameSolution.init().test()
 //PeakIndexInAMountainArraySolution.init().test()
-NumberComplementSolution.init().test()
+//NumberComplementSolution.init().test()
+SelfDividingNumbersSolution.init().test()

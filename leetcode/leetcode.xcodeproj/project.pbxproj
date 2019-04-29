@@ -100,6 +100,7 @@
 		BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D022775922003A9F4B /* NimGame.swift */; };
 		BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */; };
 		BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */; };
+		BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -209,6 +210,7 @@
 		BAA3E8D022775922003A9F4B /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
 		BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakIndexInAMountainArray.swift; sourceTree = "<group>"; };
 		BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberComplement.swift; sourceTree = "<group>"; };
+		BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -242,6 +244,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
 				BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */,
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
@@ -449,6 +452,7 @@
 				BA15F5332270BCD9008B5516 /* SymmetricTree.swift in Sources */,
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
 				BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */,
+				BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */,
 				BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */,
