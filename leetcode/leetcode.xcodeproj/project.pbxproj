@@ -94,6 +94,7 @@
 		BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */; };
 		BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */; };
 		BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */; };
+		BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -197,6 +198,7 @@
 		BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCodeWords.swift; sourceTree = "<group>"; };
 		BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotReturnToOrigin.swift; sourceTree = "<group>"; };
 		BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
+		BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -238,6 +240,7 @@
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
+				BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */,
 				BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
 				BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */,
@@ -383,6 +386,7 @@
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
 				BA15F51B226E2CD8008B5516 /* RemoveElement.swift in Sources */,
+				BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */,
 				BA15F51F226F5BD0008B5516 /* SearchInsertPosition.swift in Sources */,
 				BA3ACE83226C59D30065FA51 /* oneBitAndTwoBitCharactersSolution.swift in Sources */,
 				BA15F51D226E2F9C008B5516 /* ImplementStrStr.swift in Sources */,

@@ -95,4 +95,5 @@ import Foundation
 //RemoveOutermostParenthesesSolution.init().test()
 //UniqueMorseCodeWordsSolution.init().test()
 //RobotReturnToOriginSolution.init().test()
-MergeTwoBinaryTreesSolution.init().test()
+//MergeTwoBinaryTreesSolution.init().test()
+HammingDistanceSolution.init().test()
