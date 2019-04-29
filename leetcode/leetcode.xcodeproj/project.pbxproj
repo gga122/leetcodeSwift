@@ -99,6 +99,7 @@
 		BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */; };
 		BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D022775922003A9F4B /* NimGame.swift */; };
 		BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */; };
+		BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -207,6 +208,7 @@
 		BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParity.swift; sourceTree = "<group>"; };
 		BAA3E8D022775922003A9F4B /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
 		BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakIndexInAMountainArray.swift; sourceTree = "<group>"; };
+		BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberComplement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,6 +243,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
+				BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */,
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
@@ -440,6 +443,7 @@
 				BA15F5272270B17B008B5516 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */,
+				BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */,
 				BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */,
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA15F5332270BCD9008B5516 /* SymmetricTree.swift in Sources */,
