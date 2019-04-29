@@ -93,6 +93,7 @@
 		BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */; };
 		BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */; };
 		BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */; };
+		BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -195,6 +196,7 @@
 		BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveOutermostParentheses.swift; sourceTree = "<group>"; };
 		BAA3E8C422774CF3003A9F4B /* UniqueMorseCodeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCodeWords.swift; sourceTree = "<group>"; };
 		BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotReturnToOrigin.swift; sourceTree = "<group>"; };
+		BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -229,6 +231,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
+				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
@@ -439,6 +442,7 @@
 				BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */,
 				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
+				BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */,
 				BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */,

@@ -94,4 +94,5 @@ import Foundation
 //FlippingAnImageSolution.init().test()
 //RemoveOutermostParenthesesSolution.init().test()
 //UniqueMorseCodeWordsSolution.init().test()
-RobotReturnToOriginSolution.init().test()
+//RobotReturnToOriginSolution.init().test()
+MergeTwoBinaryTreesSolution.init().test()
