@@ -96,4 +96,5 @@ import Foundation
 //UniqueMorseCodeWordsSolution.init().test()
 //RobotReturnToOriginSolution.init().test()
 //MergeTwoBinaryTreesSolution.init().test()
-HammingDistanceSolution.init().test()
+//HammingDistanceSolution.init().test()
+DIStringMatchSolution.init().test()

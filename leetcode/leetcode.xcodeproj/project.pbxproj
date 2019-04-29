@@ -95,6 +95,7 @@
 		BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */; };
 		BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */; };
 		BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */; };
+		BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -199,6 +200,7 @@
 		BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotReturnToOrigin.swift; sourceTree = "<group>"; };
 		BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
+		BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIStringMatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
+				BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */,
 				BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */,
 				BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
@@ -456,6 +459,7 @@
 				BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */,
 				BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */,
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
+				BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
