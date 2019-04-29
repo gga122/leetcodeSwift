@@ -104,4 +104,5 @@ import Foundation
 //NumberComplementSolution.init().test()
 //SelfDividingNumbersSolution.init().test()
 //UniqueEmailAddressesSolution.init().test()
-KeyboardRowSolution.init().test()
+//KeyboardRowSolution.init().test()
+ReverseStringSolution.init().test()

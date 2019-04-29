@@ -103,6 +103,7 @@
 		BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */; };
 		BAA3E8DB22775F6A003A9F4B /* UniqueEmailAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */; };
 		BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */; };
+		BAA3E8DF22776527003A9F4B /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DE22776527003A9F4B /* ReverseString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -215,6 +216,7 @@
 		BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueEmailAddresses.swift; sourceTree = "<group>"; };
 		BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardRow.swift; sourceTree = "<group>"; };
+		BAA3E8DE22776527003A9F4B /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +263,7 @@
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
+				BAA3E8DE22776527003A9F4B /* ReverseString.swift */,
 				BAA3E8D022775922003A9F4B /* NimGame.swift */,
 				BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */,
 				BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */,
@@ -413,6 +416,7 @@
 				BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */,
 				BA15F51F226F5BD0008B5516 /* SearchInsertPosition.swift in Sources */,
 				BA3ACE83226C59D30065FA51 /* oneBitAndTwoBitCharactersSolution.swift in Sources */,
+				BAA3E8DF22776527003A9F4B /* ReverseString.swift in Sources */,
 				BA15F51D226E2F9C008B5516 /* ImplementStrStr.swift in Sources */,
 				BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
