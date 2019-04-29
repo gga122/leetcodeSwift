@@ -102,6 +102,7 @@
 		BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */; };
 		BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */; };
 		BAA3E8DB22775F6A003A9F4B /* UniqueEmailAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */; };
+		BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -213,6 +214,7 @@
 		BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberComplement.swift; sourceTree = "<group>"; };
 		BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueEmailAddresses.swift; sourceTree = "<group>"; };
+		BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +248,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
 				BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */,
@@ -424,6 +427,7 @@
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
+				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,
 				BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,

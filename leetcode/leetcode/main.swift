@@ -103,4 +103,5 @@ import Foundation
 //PeakIndexInAMountainArraySolution.init().test()
 //NumberComplementSolution.init().test()
 //SelfDividingNumbersSolution.init().test()
-UniqueEmailAddressesSolution.init().test()
+//UniqueEmailAddressesSolution.init().test()
+KeyboardRowSolution.init().test()
