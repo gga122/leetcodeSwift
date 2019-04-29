@@ -99,4 +99,5 @@ import Foundation
 //HammingDistanceSolution.init().test()
 //DIStringMatchSolution.init().test()
 //SortArrayByParitySolution.init().test()
-NimGameSolution.init().test()
+//NimGameSolution.init().test()
+PeakIndexInAMountainArraySolution.init().test()

@@ -98,6 +98,7 @@
 		BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */; };
 		BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */; };
 		BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D022775922003A9F4B /* NimGame.swift */; };
+		BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -205,6 +206,7 @@
 		BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIStringMatch.swift; sourceTree = "<group>"; };
 		BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParity.swift; sourceTree = "<group>"; };
 		BAA3E8D022775922003A9F4B /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
+		BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakIndexInAMountainArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -245,6 +247,7 @@
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
+				BAA3E8D2227759AE003A9F4B /* PeakIndexInAMountainArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
 				BAA3E8D022775922003A9F4B /* NimGame.swift */,
 				BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */,
@@ -460,6 +463,7 @@
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */,
 				BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */,
+				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
