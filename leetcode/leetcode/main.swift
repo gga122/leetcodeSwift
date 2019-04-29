@@ -91,4 +91,5 @@ import Foundation
 //SumOfEvenNumbersAfterQueriesSolution.init().test()
 //RangeSumOfBSTSolution.init().test()
 //ToLowerCaseSolution.init().test()
-FlippingAnImageSolution.init().test()
+//FlippingAnImageSolution.init().test()
+RemoveOutermostParenthesesSolution.init().test()

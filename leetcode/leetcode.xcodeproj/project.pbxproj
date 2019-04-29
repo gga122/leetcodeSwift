@@ -90,6 +90,7 @@
 		BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */; };
 		BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */; };
 		BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C0227607A0003A9F4B /* FlippingAnImage.swift */; };
+		BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -189,6 +190,7 @@
 		BAA3E8BC2276012D003A9F4B /* RangeSumOfBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumOfBST.swift; sourceTree = "<group>"; };
 		BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCase.swift; sourceTree = "<group>"; };
 		BAA3E8C0227607A0003A9F4B /* FlippingAnImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippingAnImage.swift; sourceTree = "<group>"; };
+		BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveOutermostParentheses.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
@@ -405,6 +408,7 @@
 				BAA3E8AD227467A2003A9F4B /* ContainsDuplicateII.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */,
+				BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */,
 				BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */,
 				BA15F5272270B17B008B5516 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
