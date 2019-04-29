@@ -96,6 +96,7 @@
 		BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */; };
 		BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */; };
 		BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */; };
+		BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -201,6 +202,7 @@
 		BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
 		BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIStringMatch.swift; sourceTree = "<group>"; };
+		BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +245,7 @@
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
 				BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */,
+				BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */,
 				BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */,
 				BAA3E8BE227603E9003A9F4B /* ToLowerCase.swift */,
 				BA15F520226F609D008B5516 /* CountAndSay.swift */,
@@ -448,6 +451,7 @@
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
 				BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */,
 				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,
+				BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,

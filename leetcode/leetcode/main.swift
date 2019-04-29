@@ -97,4 +97,6 @@ import Foundation
 //RobotReturnToOriginSolution.init().test()
 //MergeTwoBinaryTreesSolution.init().test()
 //HammingDistanceSolution.init().test()
-DIStringMatchSolution.init().test()
+//DIStringMatchSolution.init().test()
+SortArrayByParitySolution.init().test()
+
