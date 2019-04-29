@@ -102,4 +102,5 @@ import Foundation
 //NimGameSolution.init().test()
 //PeakIndexInAMountainArraySolution.init().test()
 //NumberComplementSolution.init().test()
-SelfDividingNumbersSolution.init().test()
+//SelfDividingNumbersSolution.init().test()
+UniqueEmailAddressesSolution.init().test()
