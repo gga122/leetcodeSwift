@@ -98,5 +98,5 @@ import Foundation
 //MergeTwoBinaryTreesSolution.init().test()
 //HammingDistanceSolution.init().test()
 //DIStringMatchSolution.init().test()
-SortArrayByParitySolution.init().test()
-
+//SortArrayByParitySolution.init().test()
+NimGameSolution.init().test()

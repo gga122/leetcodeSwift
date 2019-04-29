@@ -97,6 +97,7 @@
 		BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */; };
 		BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */; };
 		BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */; };
+		BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8D022775922003A9F4B /* NimGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -203,6 +204,7 @@
 		BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
 		BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIStringMatch.swift; sourceTree = "<group>"; };
 		BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParity.swift; sourceTree = "<group>"; };
+		BAA3E8D022775922003A9F4B /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -244,6 +246,7 @@
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
 				BAA3E8AE227490C8003A9F4B /* MissingNumber.swift */,
+				BAA3E8D022775922003A9F4B /* NimGame.swift */,
 				BAA3E8CC227753AB003A9F4B /* DIStringMatch.swift */,
 				BAA3E8CE227757D6003A9F4B /* SortArrayByParity.swift */,
 				BAA3E8CA227751F4003A9F4B /* HammingDistance.swift */,
@@ -465,6 +468,7 @@
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
+				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
