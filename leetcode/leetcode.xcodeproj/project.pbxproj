@@ -108,6 +108,7 @@
 		BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */; };
 		BAA3E8E72278A543003A9F4B /* SearchInABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */; };
 		BAA3E8E92278A68B003A9F4B /* ReverseWordsInAStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E82278A68B003A9F4B /* ReverseWordsInAStringIII.swift */; };
+		BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -225,6 +226,7 @@
 		BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfRecentCalls.swift; sourceTree = "<group>"; };
 		BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInABinarySearchTree.swift; sourceTree = "<group>"; };
 		BAA3E8E82278A68B003A9F4B /* ReverseWordsInAStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAStringIII.swift; sourceTree = "<group>"; };
+		BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnivaluedBinaryTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -258,6 +260,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
 				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
@@ -497,6 +500,7 @@
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */,
 				BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */,
+				BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
