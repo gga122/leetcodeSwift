@@ -113,6 +113,7 @@
 		BAA3E8EF2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EE2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift */; };
 		BAA3E8F12278B8BF003A9F4B /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */; };
 		BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */; };
+		BAA3E8F52278BD4A003A9F4B /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -235,6 +236,7 @@
 		BAA3E8EE2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
 		BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandies.swift; sourceTree = "<group>"; };
+		BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -278,6 +280,7 @@
 				BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
+				BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */,
 				BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */,
 				BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */,
 				BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */,
@@ -466,6 +469,7 @@
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
 				BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */,
 				BA15F5312270BBA3008B5516 /* SameTree.swift in Sources */,
+				BAA3E8F52278BD4A003A9F4B /* FindCommonCharacters.swift in Sources */,
 				BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */,
 				BA15F54D2270D322008B5516 /* ExcelSheetColumnNumber.swift in Sources */,
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,

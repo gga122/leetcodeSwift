@@ -113,4 +113,5 @@ import Foundation
 //SortArrayByParityIISolution.init().test()
 //DeleteColumnsToMakeSortedSolution.init().test()
 //IntersectionOfTwoArraysSolution.init().test()
-DistributeCandiesSolution.init().test()
+//DistributeCandiesSolution.init().test()
+FindCommonCharactersSolution.init().test()
