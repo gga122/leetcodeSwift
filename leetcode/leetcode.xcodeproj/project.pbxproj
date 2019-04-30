@@ -106,6 +106,7 @@
 		BAA3E8DF22776527003A9F4B /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DE22776527003A9F4B /* ReverseString.swift */; };
 		BAA3E8E12277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */; };
 		BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */; };
+		BAA3E8E72278A543003A9F4B /* SearchInABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -221,6 +222,7 @@
 		BAA3E8DE22776527003A9F4B /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 		BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N-RepeatedElementInSize2NArray.swift"; sourceTree = "<group>"; };
 		BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfRecentCalls.swift; sourceTree = "<group>"; };
+		BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInABinarySearchTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,6 +264,7 @@
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
+				BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */,
 				BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */,
 				BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */,
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
@@ -514,6 +517,7 @@
 				BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */,
 				BA15F54B2270C5F1008B5516 /* MinStack.swift in Sources */,
 				BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */,
+				BAA3E8E72278A543003A9F4B /* SearchInABinarySearchTree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
