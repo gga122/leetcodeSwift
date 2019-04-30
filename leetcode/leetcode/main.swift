@@ -111,4 +111,5 @@ import Foundation
 //ReverseWordsInAStringIIISolution.init().test()
 //UnivaluedBinaryTreeSolution.init().test()
 //SortArrayByParityIISolution.init().test()
-DeleteColumnsToMakeSortedSolution.init().test()
+//DeleteColumnsToMakeSortedSolution.init().test()
+IntersectionOfTwoArraysSolution.init().test()
