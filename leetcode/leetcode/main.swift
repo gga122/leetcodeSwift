@@ -106,4 +106,5 @@ import Foundation
 //UniqueEmailAddressesSolution.init().test()
 //KeyboardRowSolution.init().test()
 //ReverseStringSolution.init().test()
-N_RepeatedElementInSize2NArraySolution.init().test()
+//N_RepeatedElementInSize2NArraySolution.init().test()
+

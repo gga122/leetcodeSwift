@@ -105,6 +105,7 @@
 		BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */; };
 		BAA3E8DF22776527003A9F4B /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8DE22776527003A9F4B /* ReverseString.swift */; };
 		BAA3E8E12277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */; };
+		BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -219,6 +220,7 @@
 		BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardRow.swift; sourceTree = "<group>"; };
 		BAA3E8DE22776527003A9F4B /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 		BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N-RepeatedElementInSize2NArray.swift"; sourceTree = "<group>"; };
+		BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfRecentCalls.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +263,7 @@
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */,
+				BAA3E8E42278A32B003A9F4B /* NumberOfRecentCalls.swift */,
 				BAA3E8B2227493D0003A9F4B /* LargestPerimeterTriangle.swift */,
 				BAA3E89A227373B1003A9F4B /* HouseRobber.swift */,
 				BA2DE13F22735BC100FD620A /* RotateArray.swift */,
@@ -425,6 +428,7 @@
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
 				BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */,
 				BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */,
+				BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */,
 				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
