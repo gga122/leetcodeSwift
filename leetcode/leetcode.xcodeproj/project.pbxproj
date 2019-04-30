@@ -112,6 +112,7 @@
 		BAA3E8ED2278AAE3003A9F4B /* SortArrayByParityII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */; };
 		BAA3E8EF2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EE2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift */; };
 		BAA3E8F12278B8BF003A9F4B /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */; };
+		BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -233,6 +234,7 @@
 		BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParityII.swift; sourceTree = "<group>"; };
 		BAA3E8EE2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
+		BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandies.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -276,6 +278,7 @@
 				BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
+				BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */,
 				BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */,
 				BAA3E8E02277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift */,
 				BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */,
@@ -511,6 +514,7 @@
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */,
 				BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */,
+				BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */,
 				BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,

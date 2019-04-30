@@ -112,4 +112,5 @@ import Foundation
 //UnivaluedBinaryTreeSolution.init().test()
 //SortArrayByParityIISolution.init().test()
 //DeleteColumnsToMakeSortedSolution.init().test()
-IntersectionOfTwoArraysSolution.init().test()
+//IntersectionOfTwoArraysSolution.init().test()
+DistributeCandiesSolution.init().test()
