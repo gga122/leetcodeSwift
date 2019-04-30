@@ -110,4 +110,5 @@ import Foundation
 //SearchInABinarySearchTreeSolution.init().test()
 //ReverseWordsInAStringIIISolution.init().test()
 //UnivaluedBinaryTreeSolution.init().test()
-SortArrayByParityIISolution.init().test()
+//SortArrayByParityIISolution.init().test()
+DeleteColumnsToMakeSortedSolution.init().test()
