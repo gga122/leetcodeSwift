@@ -109,6 +109,7 @@
 		BAA3E8E72278A543003A9F4B /* SearchInABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */; };
 		BAA3E8E92278A68B003A9F4B /* ReverseWordsInAStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8E82278A68B003A9F4B /* ReverseWordsInAStringIII.swift */; };
 		BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */; };
+		BAA3E8ED2278AAE3003A9F4B /* SortArrayByParityII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -227,6 +228,7 @@
 		BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInABinarySearchTree.swift; sourceTree = "<group>"; };
 		BAA3E8E82278A68B003A9F4B /* ReverseWordsInAStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAStringIII.swift; sourceTree = "<group>"; };
 		BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnivaluedBinaryTree.swift; sourceTree = "<group>"; };
+		BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParityII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +269,7 @@
 				BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */,
 				BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */,
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
+				BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8E62278A543003A9F4B /* SearchInABinarySearchTree.swift */,
@@ -491,6 +494,7 @@
 				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,
 				BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */,
 				BA3ACE93226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift in Sources */,
+				BAA3E8ED2278AAE3003A9F4B /* SortArrayByParityII.swift in Sources */,
 				BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */,
 				BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */,
 				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,

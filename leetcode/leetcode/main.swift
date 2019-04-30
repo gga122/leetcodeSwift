@@ -109,4 +109,5 @@ import Foundation
 //N_RepeatedElementInSize2NArraySolution.init().test()
 //SearchInABinarySearchTreeSolution.init().test()
 //ReverseWordsInAStringIIISolution.init().test()
-UnivaluedBinaryTreeSolution.init().test()
+//UnivaluedBinaryTreeSolution.init().test()
+SortArrayByParityIISolution.init().test()
