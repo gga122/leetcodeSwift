@@ -119,4 +119,5 @@ import Foundation
 //ShortestDistanceToACharacterSolution.init().test()
 //SubdomainVisitCountSolution.init().test()
 //NumberOfLinesToWriteStringSolution.init().test()
-TrimABinarySearchTreeSolution.init().test()
+//TrimABinarySearchTreeSolution.init().test()
+IslandPerimeterSolution.init().test()

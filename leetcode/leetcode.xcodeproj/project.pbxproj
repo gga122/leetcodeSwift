@@ -119,6 +119,7 @@
 		BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */; };
 		BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */; };
 		BAA3E8FF227A070A003A9F4B /* TrimABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */; };
+		BAA3E901227A09EB003A9F4B /* IslandPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E900227A09EB003A9F4B /* IslandPerimeter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -247,6 +248,7 @@
 		BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubdomainVisitCount.swift; sourceTree = "<group>"; };
 		BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLinesToWriteString.swift; sourceTree = "<group>"; };
 		BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrimABinarySearchTree.swift; sourceTree = "<group>"; };
+		BAA3E900227A09EB003A9F4B /* IslandPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandPerimeter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -289,6 +291,7 @@
 				BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
 				BAA3E8D422775AF8003A9F4B /* NumberComplement.swift */,
+				BAA3E900227A09EB003A9F4B /* IslandPerimeter.swift */,
 				BAA3E8DA22775F6A003A9F4B /* UniqueEmailAddresses.swift */,
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
 				BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */,
@@ -556,6 +559,7 @@
 				BAA3E8F12278B8BF003A9F4B /* IntersectionOfTwoArrays.swift in Sources */,
 				BA2A236422663157002865A2 /* Base7.swift in Sources */,
 				BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */,
+				BAA3E901227A09EB003A9F4B /* IslandPerimeter.swift in Sources */,
 				BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */,
 				BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */,
 				BA3ACE87226C662C0065FA51 /* AvailableCapturesForRook.swift in Sources */,

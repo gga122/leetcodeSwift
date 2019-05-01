@@ -45,6 +45,6 @@ class SearchInABinarySearchTreeSolution {
         let a4 = TreeNode.init(3)
         a1.right = a4
         
-        print(searchBST(a0, 2))
+        print(searchBST(a0, 2)!)
     }
 }

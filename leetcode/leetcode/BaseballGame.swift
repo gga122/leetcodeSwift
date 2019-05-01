@@ -16,7 +16,7 @@ class BaseballGameSolution {
             case "+":
                 stack.append(stack[stack.count - 1] + stack[stack.count - 2])
             case "C":
-                stack.popLast()
+                stack.removeLast()
             case "D":
                 stack.append(stack.last! * 2)
             default:

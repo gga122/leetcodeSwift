@@ -45,7 +45,7 @@ class TrimABinarySearchTreeSolution {
         a0.left = a1
         let a2 = TreeNode.init(2)
         a0.right = a2
-        print(trimBST(a0, 1, 2))
+        print(trimBST(a0, 1, 2)!)
         
         let b0 = TreeNode.init(3)
         let b1 = TreeNode.init(0)
@@ -56,6 +56,6 @@ class TrimABinarySearchTreeSolution {
         b1.right = b4
         let b9 = TreeNode.init(1)
         b4.left = b9
-        print(trimBST(b0, 1, 3))
+        print(trimBST(b0, 1, 3)!)
     }
 }
