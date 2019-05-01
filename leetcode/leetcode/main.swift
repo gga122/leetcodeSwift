@@ -114,4 +114,5 @@ import Foundation
 //DeleteColumnsToMakeSortedSolution.init().test()
 //IntersectionOfTwoArraysSolution.init().test()
 //DistributeCandiesSolution.init().test()
-FindCommonCharactersSolution.init().test()
+//FindCommonCharactersSolution.init().test()
+TransposeMatrixSolution.init().test()

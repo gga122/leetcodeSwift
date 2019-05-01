@@ -114,6 +114,7 @@
 		BAA3E8F12278B8BF003A9F4B /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */; };
 		BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */; };
 		BAA3E8F52278BD4A003A9F4B /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */; };
+		BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -237,6 +238,7 @@
 		BAA3E8F02278B8BF003A9F4B /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
 		BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandies.swift; sourceTree = "<group>"; };
 		BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
+		BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -270,6 +272,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
 				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
 				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
@@ -491,6 +494,7 @@
 				BA15F5272270B17B008B5516 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */,
+				BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */,
 				BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */,
 				BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */,
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
