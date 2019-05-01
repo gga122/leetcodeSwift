@@ -116,4 +116,5 @@ import Foundation
 //DistributeCandiesSolution.init().test()
 //FindCommonCharactersSolution.init().test()
 //TransposeMatrixSolution.init().test()
-ShortestDistanceToACharacterSolution.init().test()
+//ShortestDistanceToACharacterSolution.init().test()
+SubdomainVisitCountSolution.init().test()
