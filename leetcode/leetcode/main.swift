@@ -117,4 +117,5 @@ import Foundation
 //FindCommonCharactersSolution.init().test()
 //TransposeMatrixSolution.init().test()
 //ShortestDistanceToACharacterSolution.init().test()
-SubdomainVisitCountSolution.init().test()
+//SubdomainVisitCountSolution.init().test()
+NumberOfLinesToWriteStringSolution.init().test()

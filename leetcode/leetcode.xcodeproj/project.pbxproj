@@ -117,6 +117,7 @@
 		BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */; };
 		BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */; };
 		BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */; };
+		BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -243,6 +244,7 @@
 		BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
 		BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistanceToACharacter.swift; sourceTree = "<group>"; };
 		BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubdomainVisitCount.swift; sourceTree = "<group>"; };
+		BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLinesToWriteString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -288,6 +290,7 @@
 				BAA3E8C822775035003A9F4B /* MergeTwoBinaryTrees.swift */,
 				BAA3E8EC2278AAE3003A9F4B /* SortArrayByParityII.swift */,
 				BAA3E8C2227748BA003A9F4B /* RemoveOutermostParentheses.swift */,
+				BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */,
 				BAA3E8BA22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift */,
 				BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */,
 				BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */,
@@ -453,6 +456,7 @@
 				BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */,
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
+				BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */,
 				BA15F51B226E2CD8008B5516 /* RemoveElement.swift in Sources */,
 				BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */,
 				BA15F51F226F5BD0008B5516 /* SearchInsertPosition.swift in Sources */,
