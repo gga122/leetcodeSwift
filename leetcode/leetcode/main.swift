@@ -118,4 +118,5 @@ import Foundation
 //TransposeMatrixSolution.init().test()
 //ShortestDistanceToACharacterSolution.init().test()
 //SubdomainVisitCountSolution.init().test()
-NumberOfLinesToWriteStringSolution.init().test()
+//NumberOfLinesToWriteStringSolution.init().test()
+TrimABinarySearchTreeSolution.init().test()

@@ -118,6 +118,7 @@
 		BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */; };
 		BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */; };
 		BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */; };
+		BAA3E8FF227A070A003A9F4B /* TrimABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -245,6 +246,7 @@
 		BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistanceToACharacter.swift; sourceTree = "<group>"; };
 		BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubdomainVisitCount.swift; sourceTree = "<group>"; };
 		BAA3E8FC227A04A0003A9F4B /* NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLinesToWriteString.swift; sourceTree = "<group>"; };
+		BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrimABinarySearchTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -282,6 +284,7 @@
 				BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */,
 				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
 				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
+				BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
 				BAA3E8FA2279FC70003A9F4B /* SubdomainVisitCount.swift */,
 				BAA3E8C622774F4F003A9F4B /* RobotReturnToOrigin.swift */,
@@ -561,6 +564,7 @@
 				BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */,
 				BA15F54B2270C5F1008B5516 /* MinStack.swift in Sources */,
 				BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */,
+				BAA3E8FF227A070A003A9F4B /* TrimABinarySearchTree.swift in Sources */,
 				BAA3E8E72278A543003A9F4B /* SearchInABinarySearchTree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
