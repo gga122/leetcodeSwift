@@ -115,4 +115,5 @@ import Foundation
 //IntersectionOfTwoArraysSolution.init().test()
 //DistributeCandiesSolution.init().test()
 //FindCommonCharactersSolution.init().test()
-TransposeMatrixSolution.init().test()
+//TransposeMatrixSolution.init().test()
+ShortestDistanceToACharacterSolution.init().test()

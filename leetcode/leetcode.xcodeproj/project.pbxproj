@@ -115,6 +115,7 @@
 		BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */; };
 		BAA3E8F52278BD4A003A9F4B /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */; };
 		BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */; };
+		BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -239,6 +240,7 @@
 		BAA3E8F22278BC39003A9F4B /* DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandies.swift; sourceTree = "<group>"; };
 		BAA3E8F42278BD4A003A9F4B /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
 		BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
+		BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistanceToACharacter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,6 +275,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
+				BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */,
 				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
 				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
@@ -466,6 +469,7 @@
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
+				BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */,
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,
 				BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
