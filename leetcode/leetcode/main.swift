@@ -123,4 +123,5 @@ import Foundation
 //IslandPerimeterSolution.init().test()
 //SmallestRangeISolution.init().test()
 //LongestUncommonSubsequenceISolution.init().test()
-PrimeNumberOfSetBitsInBinaryRepresentationSolution.init().test()
+//PrimeNumberOfSetBitsInBinaryRepresentationSolution.init().test()
+MiddleOfTheLinkedListSolution.init().test()
