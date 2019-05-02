@@ -120,4 +120,5 @@ import Foundation
 //SubdomainVisitCountSolution.init().test()
 //NumberOfLinesToWriteStringSolution.init().test()
 //TrimABinarySearchTreeSolution.init().test()
-IslandPerimeterSolution.init().test()
+//IslandPerimeterSolution.init().test()
+SmallestRangeISolution.init().test()
