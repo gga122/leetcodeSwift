@@ -122,4 +122,5 @@ import Foundation
 //TrimABinarySearchTreeSolution.init().test()
 //IslandPerimeterSolution.init().test()
 //SmallestRangeISolution.init().test()
-LongestUncommonSubsequenceISolution.init().test()
+//LongestUncommonSubsequenceISolution.init().test()
+PrimeNumberOfSetBitsInBinaryRepresentationSolution.init().test()

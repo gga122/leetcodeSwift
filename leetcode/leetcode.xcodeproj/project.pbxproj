@@ -25,6 +25,7 @@
 		BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5502270DA1B008B5516 /* ValidPalindrome.swift */; };
 		BA2045EC227A0DBB009D184A /* SmallestRangeI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2045EB227A0DBB009D184A /* SmallestRangeI.swift */; };
 		BA2045EE227B533D009D184A /* LongestUncommonSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */; };
+		BA2045F2227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2045F1227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -155,6 +156,7 @@
 		BA15F5502270DA1B008B5516 /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		BA2045EB227A0DBB009D184A /* SmallestRangeI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestRangeI.swift; sourceTree = "<group>"; };
 		BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUncommonSubsequenceI.swift; sourceTree = "<group>"; };
+		BA2045F1227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeNumberOfSetBitsInBinaryRepresentation.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -290,6 +292,7 @@
 				BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */,
 				BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */,
 				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
+				BA2045F1227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift */,
 				BAA3E8DC227761FF003A9F4B /* KeyboardRow.swift */,
 				BAA3E8FE227A070A003A9F4B /* TrimABinarySearchTree.swift */,
 				BAA3E8D622775D36003A9F4B /* SelfDividingNumbers.swift */,
@@ -486,6 +489,7 @@
 				BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */,
 				BA3ACE9F226CDF9F0065FA51 /* BinaryTreePaths.swift in Sources */,
 				BA3ACE8D226CA65D0065FA51 /* BackspaceStringCompare.swift in Sources */,
+				BA2045F2227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift in Sources */,
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
