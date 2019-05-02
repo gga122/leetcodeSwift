@@ -124,4 +124,5 @@ import Foundation
 //SmallestRangeISolution.init().test()
 //LongestUncommonSubsequenceISolution.init().test()
 //PrimeNumberOfSetBitsInBinaryRepresentationSolution.init().test()
-MiddleOfTheLinkedListSolution.init().test()
+//MiddleOfTheLinkedListSolution.init().test()
+FizzBuzzSolution.init().test()
