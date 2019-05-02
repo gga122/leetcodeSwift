@@ -121,4 +121,5 @@ import Foundation
 //NumberOfLinesToWriteStringSolution.init().test()
 //TrimABinarySearchTreeSolution.init().test()
 //IslandPerimeterSolution.init().test()
-SmallestRangeISolution.init().test()
+//SmallestRangeISolution.init().test()
+LongestUncommonSubsequenceISolution.init().test()
