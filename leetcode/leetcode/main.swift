@@ -126,4 +126,5 @@ import Foundation
 //PrimeNumberOfSetBitsInBinaryRepresentationSolution.init().test()
 //MiddleOfTheLinkedListSolution.init().test()
 //FizzBuzzSolution.init().test()
-DivisorGameSolution.init().test()
+//DivisorGameSolution.init().test()
+NextGreaterElementISolution.init().test()
