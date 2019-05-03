@@ -131,4 +131,5 @@ import Foundation
 //ToeplitzMatrixSolution.init().test()
 //ReshapeTheMatrixSolution.init().test()
 //GroupsOfSpecial_EquivalentStringsSolution.init().test()
-DesignHashSetMyHashSet.init().test()
+//DesignHashSetMyHashSet.init().test()
+ProjectionAreaOf3DShapesSolution.init().test()
