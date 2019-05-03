@@ -127,4 +127,5 @@ import Foundation
 //MiddleOfTheLinkedListSolution.init().test()
 //FizzBuzzSolution.init().test()
 //DivisorGameSolution.init().test()
-NextGreaterElementISolution.init().test()
+//NextGreaterElementISolution.init().test()
+ToeplitzMatrixSolution.init().test()
