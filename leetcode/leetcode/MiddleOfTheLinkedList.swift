@@ -47,7 +47,7 @@ class MiddleOfTheLinkedListSolution {
         a2.next = a3
         let a4 = ListNode.init(5)
         a3.next = a4
-        print(middleNode(a0)?.val)
+        print(middleNode(a0)!.val)
         
         let b0 = ListNode.init(1)
         let b1 = ListNode.init(2)
@@ -60,6 +60,6 @@ class MiddleOfTheLinkedListSolution {
         b3.next = b4
         let b5 = ListNode.init(6)
         b4.next = b5
-        print(middleNode(b0)?.val)
+        print(middleNode(b0)!.val)
     }
 }

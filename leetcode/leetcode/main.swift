@@ -130,4 +130,5 @@ import Foundation
 //NextGreaterElementISolution.init().test()
 //ToeplitzMatrixSolution.init().test()
 //ReshapeTheMatrixSolution.init().test()
-GroupsOfSpecial_EquivalentStringsSolution.init().test()
+//GroupsOfSpecial_EquivalentStringsSolution.init().test()
+DesignHashSetMyHashSet.init().test()
