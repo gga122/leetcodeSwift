@@ -128,4 +128,5 @@ import Foundation
 //FizzBuzzSolution.init().test()
 //DivisorGameSolution.init().test()
 //NextGreaterElementISolution.init().test()
-ToeplitzMatrixSolution.init().test()
+//ToeplitzMatrixSolution.init().test()
+ReshapeTheMatrixSolution.init().test()
