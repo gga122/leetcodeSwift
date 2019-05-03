@@ -7,13 +7,15 @@
 //
 
 #include <stdio.h>
-#include "NumberOf1Bits.h"
-#include "LinkedListCycle.h"
-#include "ReverseBits.h"
+//#include "NumberOf1Bits.h"
+//#include "LinkedListCycle.h"
+//#include "ReverseBits.h"
+#include "DeleteNodeInALinkedList.h"
 
 int main(int argc, const char * argv[]) {
 //    testHammingWeight();
 //    testHasCycle();
-    testReverseBits();
+//    testReverseBits();
+    testDeleteNode();
     return 0;
 }

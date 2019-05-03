@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		BA15F5412270C278008B5516 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5402270C278008B5516 /* main.c */; };
 		BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5482270C296008B5516 /* NumberOf1Bits.c */; };
+		BA204605227C8BA3009D184A /* DeleteNodeInALinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */; };
 		BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */; };
 		BA2DE13A22721D2400FD620A /* ReverseBits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13922721D2400FD620A /* ReverseBits.c */; };
 /* End PBXBuildFile section */
@@ -30,6 +31,8 @@
 		BA15F5402270C278008B5516 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BA15F5472270C296008B5516 /* NumberOf1Bits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumberOf1Bits.h; sourceTree = "<group>"; };
 		BA15F5482270C296008B5516 /* NumberOf1Bits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = NumberOf1Bits.c; sourceTree = "<group>"; };
+		BA204603227C8BA3009D184A /* DeleteNodeInALinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeleteNodeInALinkedList.h; sourceTree = "<group>"; };
+		BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DeleteNodeInALinkedList.c; sourceTree = "<group>"; };
 		BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LinkedListCycle.c; sourceTree = "<group>"; };
 		BA2DE12C22720A1D00FD620A /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 		BA2DE13822721D2400FD620A /* ReverseBits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseBits.h; sourceTree = "<group>"; };
@@ -73,6 +76,8 @@
 				BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */,
 				BA2DE13822721D2400FD620A /* ReverseBits.h */,
 				BA2DE13922721D2400FD620A /* ReverseBits.c */,
+				BA204603227C8BA3009D184A /* DeleteNodeInALinkedList.h */,
+				BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */,
 			);
 			path = "leetcode-c";
 			sourceTree = "<group>";
@@ -135,6 +140,7 @@
 			files = (
 				BA2DE13A22721D2400FD620A /* ReverseBits.c in Sources */,
 				BA15F5412270C278008B5516 /* main.c in Sources */,
+				BA204605227C8BA3009D184A /* DeleteNodeInALinkedList.c in Sources */,
 				BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */,
 				BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */,
 			);
