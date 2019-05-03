@@ -129,4 +129,5 @@ import Foundation
 //DivisorGameSolution.init().test()
 //NextGreaterElementISolution.init().test()
 //ToeplitzMatrixSolution.init().test()
-ReshapeTheMatrixSolution.init().test()
+//ReshapeTheMatrixSolution.init().test()
+GroupsOfSpecial_EquivalentStringsSolution.init().test()
