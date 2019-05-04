@@ -134,4 +134,5 @@ import Foundation
 //DesignHashSetMyHashSet.init().test()
 //ProjectionAreaOf3DShapesSolution.init().test()
 //FindTheDifferenceSolution.init().test()
-LargestTriangleAreaSolution.init().test()
+//LargestTriangleAreaSolution.init().test()
+GoatLatinSolution.init().test()
