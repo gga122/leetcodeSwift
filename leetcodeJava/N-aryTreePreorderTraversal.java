@@ -29,6 +29,18 @@ class N_aryTreePreorderTraversalSolution {
         return result;
     }
 
+    public List<Integer> postorder(Node root) {
+        if (root != null) {
+            if (root.children != null) {
+                for (Node child : root.children) {
+                    postorder(child);
+                }
+            }
+            result.add(root.val);
+        }
+        return result;
+    }
+
     public void test() {
         Node n0 = new Node(1, new ArrayList<>());
         Node n1 = new Node(3, new ArrayList<>());
@@ -42,7 +54,7 @@ class N_aryTreePreorderTraversalSolution {
         Node n5 = new Node(6, new ArrayList<>());
         n1.children.add(n5);
 
-        System.out.println(preorder(n0));
+        System.out.println(postorder(n0));
     }
 
     public static void main(String[] args) {
