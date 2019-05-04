@@ -10,12 +10,15 @@
 //#include "NumberOf1Bits.h"
 //#include "LinkedListCycle.h"
 //#include "ReverseBits.h"
-#include "DeleteNodeInALinkedList.h"
+//#include "DeleteNodeInALinkedList.h"
+#include "LowestCommonAncestorOfABinarySearchTree.h"
 
 int main(int argc, const char * argv[]) {
 //    testHammingWeight();
 //    testHasCycle();
 //    testReverseBits();
-    testDeleteNode();
+//    testDeleteNode();
+    testLowestCommonAncestor();
+    
     return 0;
 }

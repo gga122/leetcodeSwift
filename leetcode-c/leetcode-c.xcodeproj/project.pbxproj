@@ -10,6 +10,9 @@
 		BA15F5412270C278008B5516 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5402270C278008B5516 /* main.c */; };
 		BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA15F5482270C296008B5516 /* NumberOf1Bits.c */; };
 		BA204605227C8BA3009D184A /* DeleteNodeInALinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */; };
+		BA204615227DC64C009D184A /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = BA204614227DC64C009D184A /* libc++.tbd */; };
+		BA204617227DC787009D184A /* libc.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = BA204616227DC787009D184A /* libc.tbd */; };
+		BA20461A227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.c in Sources */ = {isa = PBXBuildFile; fileRef = BA204618227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.c */; };
 		BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */; };
 		BA2DE13A22721D2400FD620A /* ReverseBits.c in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE13922721D2400FD620A /* ReverseBits.c */; };
 /* End PBXBuildFile section */
@@ -33,6 +36,10 @@
 		BA15F5482270C296008B5516 /* NumberOf1Bits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = NumberOf1Bits.c; sourceTree = "<group>"; };
 		BA204603227C8BA3009D184A /* DeleteNodeInALinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeleteNodeInALinkedList.h; sourceTree = "<group>"; };
 		BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DeleteNodeInALinkedList.c; sourceTree = "<group>"; };
+		BA204614227DC64C009D184A /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		BA204616227DC787009D184A /* libc.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libc.tbd; path = usr/lib/libc.tbd; sourceTree = SDKROOT; };
+		BA204618227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LowestCommonAncestorOfABinarySearchTree.c; sourceTree = "<group>"; };
+		BA204619227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LowestCommonAncestorOfABinarySearchTree.h; sourceTree = "<group>"; };
 		BA2DE12B22720A1D00FD620A /* LinkedListCycle.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LinkedListCycle.c; sourceTree = "<group>"; };
 		BA2DE12C22720A1D00FD620A /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 		BA2DE13822721D2400FD620A /* ReverseBits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseBits.h; sourceTree = "<group>"; };
@@ -44,6 +51,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA204617227DC787009D184A /* libc.tbd in Frameworks */,
+				BA204615227DC64C009D184A /* libc++.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,6 +64,7 @@
 			children = (
 				BA15F53F2270C278008B5516 /* leetcode-c */,
 				BA15F53E2270C278008B5516 /* Products */,
+				BA204613227DC64B009D184A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -78,8 +88,19 @@
 				BA2DE13922721D2400FD620A /* ReverseBits.c */,
 				BA204603227C8BA3009D184A /* DeleteNodeInALinkedList.h */,
 				BA204604227C8BA3009D184A /* DeleteNodeInALinkedList.c */,
+				BA204619227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.h */,
+				BA204618227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.c */,
 			);
 			path = "leetcode-c";
+			sourceTree = "<group>";
+		};
+		BA204613227DC64B009D184A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BA204616227DC787009D184A /* libc.tbd */,
+				BA204614227DC64C009D184A /* libc++.tbd */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,6 +164,7 @@
 				BA204605227C8BA3009D184A /* DeleteNodeInALinkedList.c in Sources */,
 				BA15F5492270C296008B5516 /* NumberOf1Bits.c in Sources */,
 				BA2DE12D22720A1D00FD620A /* LinkedListCycle.c in Sources */,
+				BA20461A227DCCAC009D184A /* LowestCommonAncestorOfABinarySearchTree.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
