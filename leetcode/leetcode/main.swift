@@ -138,5 +138,5 @@ import Foundation
 //GoatLatinSolution.init().test()
 //LetterCasePermutationSolution.init().test()
 //SumOfTwoIntegersSolution.init().test()
-UncommonWordsFromTwoSentencesSolution.init().test()
-
+//UncommonWordsFromTwoSentencesSolution.init().test()
+RangeSumQuery_ImmutableNumArray.init([-2, 0, 3, -5, 2, -1]).test()
