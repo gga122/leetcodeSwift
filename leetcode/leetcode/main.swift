@@ -137,4 +137,6 @@ import Foundation
 //LargestTriangleAreaSolution.init().test()
 //GoatLatinSolution.init().test()
 //LetterCasePermutationSolution.init().test()
-SumOfTwoIntegersSolution.init().test()
+//SumOfTwoIntegersSolution.init().test()
+UncommonWordsFromTwoSentencesSolution.init().test()
+
