@@ -135,4 +135,5 @@ import Foundation
 //ProjectionAreaOf3DShapesSolution.init().test()
 //FindTheDifferenceSolution.init().test()
 //LargestTriangleAreaSolution.init().test()
-GoatLatinSolution.init().test()
+//GoatLatinSolution.init().test()
+LetterCasePermutationSolution.init().test()
