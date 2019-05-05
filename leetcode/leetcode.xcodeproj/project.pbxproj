@@ -40,6 +40,7 @@
 		BA20460D227C9D7F009D184A /* LargestTriangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20460C227C9D7F009D184A /* LargestTriangleArea.swift */; };
 		BA20461C227DF764009D184A /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20461B227DF764009D184A /* GoatLatin.swift */; };
 		BA20461E227DFAE9009D184A /* LetterCasePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20461D227DFAE9009D184A /* LetterCasePermutation.swift */; };
+		BA204620227F47B5009D184A /* SumOfTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20461F227F47B5009D184A /* SumOfTwoIntegers.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -185,6 +186,7 @@
 		BA20460C227C9D7F009D184A /* LargestTriangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestTriangleArea.swift; sourceTree = "<group>"; };
 		BA20461B227DF764009D184A /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
 		BA20461D227DFAE9009D184A /* LetterCasePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCasePermutation.swift; sourceTree = "<group>"; };
+		BA20461F227F47B5009D184A /* SumOfTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfTwoIntegers.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -324,6 +326,7 @@
 				BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */,
 				BA20461D227DFAE9009D184A /* LetterCasePermutation.swift */,
 				BA20461B227DF764009D184A /* GoatLatin.swift */,
+				BA20461F227F47B5009D184A /* SumOfTwoIntegers.swift */,
 				BA2045F7227C163B009D184A /* DivisorGame.swift */,
 				BA204601227C40D7009D184A /* DesignHashSet.swift */,
 				BAA3E8EA2278A918003A9F4B /* UnivaluedBinaryTree.swift */,
@@ -525,6 +528,7 @@
 				BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */,
 				BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */,
 				BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */,
+				BA204620227F47B5009D184A /* SumOfTwoIntegers.swift in Sources */,
 				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,

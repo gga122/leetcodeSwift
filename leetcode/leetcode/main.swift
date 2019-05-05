@@ -136,4 +136,5 @@ import Foundation
 //FindTheDifferenceSolution.init().test()
 //LargestTriangleAreaSolution.init().test()
 //GoatLatinSolution.init().test()
-LetterCasePermutationSolution.init().test()
+//LetterCasePermutationSolution.init().test()
+SumOfTwoIntegersSolution.init().test()
