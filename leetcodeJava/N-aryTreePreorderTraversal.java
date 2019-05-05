@@ -41,6 +41,43 @@ class N_aryTreePreorderTraversalSolution {
         return result;
     }
 
+    public List<List<Integer>> levelOrder(Node root) {
+        if (root == null) {
+            List list = new ArrayList<Integer>();
+            return list;
+        }
+
+        List<List<Integer>> levels = new ArrayList();
+        List<Node> level = new ArrayList<Node>();
+        level.add(root);
+        do {
+            List<Integer> valLevel = new ArrayList<Integer>();
+            for (Node n : level) {
+                valLevel.add(n.val);
+            }
+            if (valLevel.size() > 0) {
+                levels.add(valLevel);
+            }
+
+            level = getChildNodes(level);
+        } while (level != null);
+
+        return levels;
+    }
+
+    public List<Node> getChildNodes(List<Node> nodes) {
+        if (nodes == null || nodes.size() == 0) {
+            return null;
+        }
+
+        List<Node> childs = new ArrayList<Node>();
+        for (Node n : nodes) {
+            childs.addAll(n.children);
+        }
+
+        return childs;
+    }
+
     public void test() {
         Node n0 = new Node(1, new ArrayList<>());
         Node n1 = new Node(3, new ArrayList<>());
@@ -54,7 +91,7 @@ class N_aryTreePreorderTraversalSolution {
         Node n5 = new Node(6, new ArrayList<>());
         n1.children.add(n5);
 
-        System.out.println(postorder(n0));
+        System.out.println(levelOrder(n0));
     }
 
     public static void main(String[] args) {
