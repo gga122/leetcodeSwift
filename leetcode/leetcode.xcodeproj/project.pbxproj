@@ -45,6 +45,7 @@
 		BA204624227F4C62009D184A /* DesignHashMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA204623227F4C62009D184A /* DesignHashMap.swift */; };
 		BA204626227F4F9A009D184A /* RangeSumQuery-Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA204625227F4F9A009D184A /* RangeSumQuery-Immutable.swift */; };
 		BA204628227F52F9009D184A /* MaxConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA204627227F52F9009D184A /* MaxConsecutiveOnes.swift */; };
+		BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA204629227F540F009D184A /* MoveZeroes.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -195,6 +196,7 @@
 		BA204623227F4C62009D184A /* DesignHashMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashMap.swift; sourceTree = "<group>"; };
 		BA204625227F4F9A009D184A /* RangeSumQuery-Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RangeSumQuery-Immutable.swift"; sourceTree = "<group>"; };
 		BA204627227F52F9009D184A /* MaxConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnes.swift; sourceTree = "<group>"; };
+		BA204629227F540F009D184A /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -333,6 +335,7 @@
 				BA2045FF227C3960009D184A /* GroupsOfSpecial-EquivalentStrings.swift */,
 				BA204621227F4995009D184A /* UncommonWordsFromTwoSentences.swift */,
 				BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */,
+				BA204629227F540F009D184A /* MoveZeroes.swift */,
 				BA20461D227DFAE9009D184A /* LetterCasePermutation.swift */,
 				BA20461B227DF764009D184A /* GoatLatin.swift */,
 				BA20461F227F47B5009D184A /* SumOfTwoIntegers.swift */,
@@ -637,6 +640,7 @@
 				BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
+				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
