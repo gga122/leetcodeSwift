@@ -143,4 +143,5 @@ import Foundation
 //MaxConsecutiveOnesSolution.init().test()
 //MoveZeroesSolution.init().test()
 //ConvertBSTToGreaterTreeSolution.init().test()
-IncreasingOrderSearchTreeSolution.init().test()
+//IncreasingOrderSearchTreeSolution.init().test()
+NumberOfBoomerangsSolution.init().test()
