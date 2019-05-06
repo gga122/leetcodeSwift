@@ -141,4 +141,5 @@ import Foundation
 //UncommonWordsFromTwoSentencesSolution.init().test()
 //RangeSumQuery_ImmutableNumArray.init([-2, 0, 3, -5, 2, -1]).test()
 //MaxConsecutiveOnesSolution.init().test()
-MoveZeroesSolution.init().test()
+//MoveZeroesSolution.init().test()
+ConvertBSTToGreaterTreeSolution.init().test()
