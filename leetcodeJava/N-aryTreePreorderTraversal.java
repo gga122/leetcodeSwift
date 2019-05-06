@@ -78,6 +78,20 @@ class N_aryTreePreorderTraversalSolution {
         return childs;
     }
 
+    public int maxDepth(Node root) {
+        if (root == null) {
+            return 0;
+        }
+
+        int max = 0;
+        for (Node n : root.children) {
+            int maxDepth = maxDepth(n);
+            max = Math.max(maxDepth, max);
+        }
+
+        return max + 1;
+    }
+
     public void test() {
         Node n0 = new Node(1, new ArrayList<>());
         Node n1 = new Node(3, new ArrayList<>());
@@ -91,7 +105,7 @@ class N_aryTreePreorderTraversalSolution {
         Node n5 = new Node(6, new ArrayList<>());
         n1.children.add(n5);
 
-        System.out.println(levelOrder(n0));
+        System.out.println(maxDepth(n0));
     }
 
     public static void main(String[] args) {
