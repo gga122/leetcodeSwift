@@ -146,4 +146,5 @@ import Foundation
 //IncreasingOrderSearchTreeSolution.init().test()
 //NumberOfBoomerangsSolution.init().test()
 //DetectCapitalSolution.init().test()
-RotatedDigitsSolution.init().test()
+//RotatedDigitsSolution.init().test()
+VerifyingAnAlienDictionarySolution.init().test()
