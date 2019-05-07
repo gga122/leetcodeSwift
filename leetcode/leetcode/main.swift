@@ -145,4 +145,5 @@ import Foundation
 //ConvertBSTToGreaterTreeSolution.init().test()
 //IncreasingOrderSearchTreeSolution.init().test()
 //NumberOfBoomerangsSolution.init().test()
-DetectCapitalSolution.init().test()
+//DetectCapitalSolution.init().test()
+RotatedDigitsSolution.init().test()

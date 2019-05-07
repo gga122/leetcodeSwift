@@ -50,6 +50,7 @@
 		BA20463022809542009D184A /* IncreasingOrderSearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20462F22809542009D184A /* IncreasingOrderSearchTree.swift */; };
 		BA2046342280A38D009D184A /* NumberOfBoomerangs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2046332280A38D009D184A /* NumberOfBoomerangs.swift */; };
 		BA2046362280A8F5009D184A /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2046352280A8F5009D184A /* DetectCapital.swift */; };
+		BA2046382281CC28009D184A /* RotatedDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2046372281CC28009D184A /* RotatedDigits.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -205,6 +206,7 @@
 		BA20462F22809542009D184A /* IncreasingOrderSearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingOrderSearchTree.swift; sourceTree = "<group>"; };
 		BA2046332280A38D009D184A /* NumberOfBoomerangs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfBoomerangs.swift; sourceTree = "<group>"; };
 		BA2046352280A8F5009D184A /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
+		BA2046372281CC28009D184A /* RotatedDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedDigits.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -344,6 +346,7 @@
 				BA204621227F4995009D184A /* UncommonWordsFromTwoSentences.swift */,
 				BA2045ED227B533D009D184A /* LongestUncommonSubsequenceI.swift */,
 				BA204629227F540F009D184A /* MoveZeroes.swift */,
+				BA2046372281CC28009D184A /* RotatedDigits.swift */,
 				BA20462D228091BF009D184A /* ConvertBSTToGreaterTree.swift */,
 				BA20461D227DFAE9009D184A /* LetterCasePermutation.swift */,
 				BA2046352280A8F5009D184A /* DetectCapital.swift */,
@@ -624,6 +627,7 @@
 				BA3ACE81226C4F4E0065FA51 /* BinaryPrefixDivisibleBy5.swift in Sources */,
 				BA3ACE99226CD8AA0065FA51 /* BinaryGap.swift in Sources */,
 				BA204609227C90CF009D184A /* ProjectionAreaOf3DShapes.swift in Sources */,
+				BA2046382281CC28009D184A /* RotatedDigits.swift in Sources */,
 				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,
 				BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */,
 				BA3ACE93226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift in Sources */,
