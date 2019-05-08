@@ -151,4 +151,5 @@ import Foundation
 //MatrixCellsInDistanceOrderSolution.init().test()
 //FindAllNumbersDisappearedInAnArraySolution.init().test()
 //ComplementOfBase10IntegerSolution.init().test()
-SurfaceAreaOf3DShapesSolution.init().test()
+//SurfaceAreaOf3DShapesSolution.init().test()
+LemonadeChangeSolution.init().test()
