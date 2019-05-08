@@ -150,4 +150,5 @@ import Foundation
 //VerifyingAnAlienDictionarySolution.init().test()
 //MatrixCellsInDistanceOrderSolution.init().test()
 //FindAllNumbersDisappearedInAnArraySolution.init().test()
-ComplementOfBase10IntegerSolution.init().test()
+//ComplementOfBase10IntegerSolution.init().test()
+SurfaceAreaOf3DShapesSolution.init().test()
