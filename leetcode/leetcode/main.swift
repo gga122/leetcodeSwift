@@ -152,4 +152,5 @@ import Foundation
 //FindAllNumbersDisappearedInAnArraySolution.init().test()
 //ComplementOfBase10IntegerSolution.init().test()
 //SurfaceAreaOf3DShapesSolution.init().test()
-LemonadeChangeSolution.init().test()
+//LemonadeChangeSolution.init().test()
+SumOfLeftLeavesSolution.init().test()
