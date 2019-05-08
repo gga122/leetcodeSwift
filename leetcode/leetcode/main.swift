@@ -153,4 +153,5 @@ import Foundation
 //ComplementOfBase10IntegerSolution.init().test()
 //SurfaceAreaOf3DShapesSolution.init().test()
 //LemonadeChangeSolution.init().test()
-SumOfLeftLeavesSolution.init().test()
+//SumOfLeftLeavesSolution.init().test()
+RelativeRanksSolution.init().test()

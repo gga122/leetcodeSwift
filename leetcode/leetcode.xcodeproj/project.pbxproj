@@ -58,6 +58,7 @@
 		BA20464222832FF4009D184A /* SurfaceAreaOf3DShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20464122832FF4009D184A /* SurfaceAreaOf3DShapes.swift */; };
 		BA20464422833A1D009D184A /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20464322833A1D009D184A /* LemonadeChange.swift */; };
 		BA20464622833F7C009D184A /* SumOfLeftLeaves.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20464522833F7C009D184A /* SumOfLeftLeaves.swift */; };
+		BA20464822834302009D184A /* RelativeRanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20464722834302009D184A /* RelativeRanks.swift */; };
 		BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */; };
 		BA20A5BD2263394100CBD9D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BC2263394100CBD9D4 /* main.swift */; };
 		BA20A5BF22633A4500CBD9D4 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA20A5BE22633A4500CBD9D4 /* AddTwoNumbers.swift */; };
@@ -221,6 +222,7 @@
 		BA20464122832FF4009D184A /* SurfaceAreaOf3DShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurfaceAreaOf3DShapes.swift; sourceTree = "<group>"; };
 		BA20464322833A1D009D184A /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		BA20464522833F7C009D184A /* SumOfLeftLeaves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfLeftLeaves.swift; sourceTree = "<group>"; };
+		BA20464722834302009D184A /* RelativeRanks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeRanks.swift; sourceTree = "<group>"; };
 		BA20A5B2226338AF00CBD9D4 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA20A5B5226338AF00CBD9D4 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		BA20A5BC2263394100CBD9D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -353,6 +355,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
+				BA20464722834302009D184A /* RelativeRanks.swift */,
 				BA2045F5227B63DC009D184A /* FizzBuzz.swift */,
 				BAA3E8F82279F6FE003A9F4B /* ShortestDistanceToACharacter.swift */,
 				BA20463D228326D5009D184A /* FindAllNumbersDisappearedInAnArray.swift */,
@@ -687,6 +690,7 @@
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
+				BA20464822834302009D184A /* RelativeRanks.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
