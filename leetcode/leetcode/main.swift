@@ -147,4 +147,5 @@ import Foundation
 //NumberOfBoomerangsSolution.init().test()
 //DetectCapitalSolution.init().test()
 //RotatedDigitsSolution.init().test()
-VerifyingAnAlienDictionarySolution.init().test()
+//VerifyingAnAlienDictionarySolution.init().test()
+MatrixCellsInDistanceOrderSolution.init().test()
