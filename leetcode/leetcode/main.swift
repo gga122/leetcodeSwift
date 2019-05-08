@@ -148,4 +148,5 @@ import Foundation
 //DetectCapitalSolution.init().test()
 //RotatedDigitsSolution.init().test()
 //VerifyingAnAlienDictionarySolution.init().test()
-MatrixCellsInDistanceOrderSolution.init().test()
+//MatrixCellsInDistanceOrderSolution.init().test()
+FindAllNumbersDisappearedInAnArraySolution.init().test()
