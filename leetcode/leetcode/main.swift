@@ -155,4 +155,5 @@ import Foundation
 //LemonadeChangeSolution.init().test()
 //SumOfLeftLeavesSolution.init().test()
 //RelativeRanksSolution.init().test()
-MinimumAbsoluteDifferenceInBSTSolution.init().test()
+//MinimumAbsoluteDifferenceInBSTSolution.init().test()
+ShortestCompletingWordSolution.init().test()

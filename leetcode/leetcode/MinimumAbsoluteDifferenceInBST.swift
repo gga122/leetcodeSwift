@@ -48,11 +48,15 @@ class MinimumAbsoluteDifferenceInBSTSolution {
     }
     
     func test() -> Void {
-        let a0 = TreeNode.init(1)
-        let a2 = TreeNode.init(3)
+        let a0 = TreeNode.init(4)
+        let a1 = TreeNode.init(2)
+        a0.left = a1
+        let a2 = TreeNode.init(6)
         a0.right = a2
-        let a6 = TreeNode.init(2)
-        a2.left = a6
+        let a3 = TreeNode.init(1)
+        a1.left = a3
+        let a4 = TreeNode.init(3)
+        a1.right = a4
         
         print(getMinimumDifference(a0))
     }
