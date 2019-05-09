@@ -154,4 +154,5 @@ import Foundation
 //SurfaceAreaOf3DShapesSolution.init().test()
 //LemonadeChangeSolution.init().test()
 //SumOfLeftLeavesSolution.init().test()
-RelativeRanksSolution.init().test()
+//RelativeRanksSolution.init().test()
+MinimumAbsoluteDifferenceInBSTSolution.init().test()
