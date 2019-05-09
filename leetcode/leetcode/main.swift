@@ -156,4 +156,5 @@ import Foundation
 //SumOfLeftLeavesSolution.init().test()
 //RelativeRanksSolution.init().test()
 //MinimumAbsoluteDifferenceInBSTSolution.init().test()
-ShortestCompletingWordSolution.init().test()
+//ShortestCompletingWordSolution.init().test()
+TwoSumIV_InputIsABSTSolution.init().test()
