@@ -172,4 +172,5 @@ import Foundation
 //ReverseOnlyLettersSolution.init().test()
 //MonotonicArraySolution.init().test()
 //BinaryWatchSolution.init().test()
-ImageSmootherSolution.init().test()
+//ImageSmootherSolution.init().test()
+RotateStringSolution.init().test()

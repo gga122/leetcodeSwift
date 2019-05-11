@@ -174,6 +174,7 @@
 		BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BE228708EA009172F1 /* MonotonicArray.swift */; };
 		BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C022870AF3009172F1 /* BinaryWatch.swift */; };
 		BADDD2C322871E4D009172F1 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C222871E4D009172F1 /* ImageSmoother.swift */; };
+		BADDD2C522872405009172F1 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C422872405009172F1 /* RotateString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -357,6 +358,7 @@
 		BADDD2BE228708EA009172F1 /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		BADDD2C022870AF3009172F1 /* BinaryWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryWatch.swift; sourceTree = "<group>"; };
 		BADDD2C222871E4D009172F1 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		BADDD2C422872405009172F1 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -391,6 +393,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BADDD2C422872405009172F1 /* RotateString.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
 				BADDD2C222871E4D009172F1 /* ImageSmoother.swift */,
@@ -622,6 +625,7 @@
 				BAA3E8EF2278B387003A9F4B /* DeleteColumnsToMakeSorted.swift in Sources */,
 				BA3ACE85226C5DFE0065FA51 /* AssignCookies.swift in Sources */,
 				BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */,
+				BADDD2C522872405009172F1 /* RotateString.swift in Sources */,
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
 				BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */,
