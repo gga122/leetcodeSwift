@@ -163,6 +163,7 @@
 		BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */; };
 		BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A82286C455009172F1 /* FloodFill.swift */; };
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
+		BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AE2286CE00009172F1 /* PathSumIII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -335,6 +336,7 @@
 		BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2A82286C455009172F1 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
+		BADDD2AE2286CE00009172F1 /* PathSumIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -369,6 +371,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
+				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
 				BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */,
 				BADDD2A82286C455009172F1 /* FloodFill.swift */,
@@ -617,6 +620,7 @@
 				BA2045F2227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift in Sources */,
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
+				BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
 				BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */,
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,

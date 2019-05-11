@@ -161,4 +161,5 @@ import Foundation
 //ReorderLogFilesSolution.init().test()
 //ConstructStringFromBinaryTreeSolution.init().test()
 //FloodFillSolution.init().test()
-MinimumMovesToEqualArrayElementsSolution.init().test()
+//MinimumMovesToEqualArrayElementsSolution.init().test()
+PathSumIIISolution.init().test()
