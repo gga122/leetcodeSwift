@@ -160,4 +160,5 @@ import Foundation
 //TwoSumIV_InputIsABSTSolution.init().test()
 //ReorderLogFilesSolution.init().test()
 //ConstructStringFromBinaryTreeSolution.init().test()
-FloodFillSolution.init().test()
+//FloodFillSolution.init().test()
+MinimumMovesToEqualArrayElementsSolution.init().test()
