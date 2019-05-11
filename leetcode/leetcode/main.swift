@@ -173,4 +173,5 @@ import Foundation
 //MonotonicArraySolution.init().test()
 //BinaryWatchSolution.init().test()
 //ImageSmootherSolution.init().test()
-RotateStringSolution.init().test()
+//RotateStringSolution.init().test()
+ReverseVowelsOfAStringSolution.init().test()

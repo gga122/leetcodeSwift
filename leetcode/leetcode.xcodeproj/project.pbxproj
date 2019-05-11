@@ -175,6 +175,7 @@
 		BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C022870AF3009172F1 /* BinaryWatch.swift */; };
 		BADDD2C322871E4D009172F1 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C222871E4D009172F1 /* ImageSmoother.swift */; };
 		BADDD2C522872405009172F1 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C422872405009172F1 /* RotateString.swift */; };
+		BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -359,6 +360,7 @@
 		BADDD2C022870AF3009172F1 /* BinaryWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryWatch.swift; sourceTree = "<group>"; };
 		BADDD2C222871E4D009172F1 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 		BADDD2C422872405009172F1 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
+		BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfAString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -393,6 +395,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */,
 				BADDD2C422872405009172F1 /* RotateString.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
@@ -753,6 +756,7 @@
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
+				BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */,
 				BA2045FE227C337B009D184A /* ReshapeTheMatrix.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
