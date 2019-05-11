@@ -173,6 +173,7 @@
 		BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */; };
 		BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BE228708EA009172F1 /* MonotonicArray.swift */; };
 		BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C022870AF3009172F1 /* BinaryWatch.swift */; };
+		BADDD2C322871E4D009172F1 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C222871E4D009172F1 /* ImageSmoother.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -355,6 +356,7 @@
 		BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseOnlyLetters.swift; sourceTree = "<group>"; };
 		BADDD2BE228708EA009172F1 /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		BADDD2C022870AF3009172F1 /* BinaryWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryWatch.swift; sourceTree = "<group>"; };
+		BADDD2C222871E4D009172F1 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -391,6 +393,7 @@
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
+				BADDD2C222871E4D009172F1 /* ImageSmoother.swift */,
 				BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */,
 				BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
@@ -729,6 +732,7 @@
 				BAA3E8B5227497D8003A9F4B /* JewelsAndStones.swift in Sources */,
 				BAA3E8B3227493D0003A9F4B /* LargestPerimeterTriangle.swift in Sources */,
 				BAA3E8CF227757D6003A9F4B /* SortArrayByParity.swift in Sources */,
+				BADDD2C322871E4D009172F1 /* ImageSmoother.swift in Sources */,
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA20460B227C9BAB009D184A /* FindTheDifference.swift in Sources */,
 				BA2046342280A38D009D184A /* NumberOfBoomerangs.swift in Sources */,

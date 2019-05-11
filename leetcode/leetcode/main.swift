@@ -171,4 +171,5 @@ import Foundation
 //StudentAttendanceRecordISolution.init().test()
 //ReverseOnlyLettersSolution.init().test()
 //MonotonicArraySolution.init().test()
-BinaryWatchSolution.init().test()
+//BinaryWatchSolution.init().test()
+ImageSmootherSolution.init().test()
