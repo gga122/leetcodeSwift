@@ -184,6 +184,7 @@
 		BADDD2D3228741EB009172F1 /* CousinsInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */; };
 		BADDD2D522874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */; };
 		BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */; };
+		BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030C22875CFE0084E257 /* PowerOfFour.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -377,6 +378,7 @@
 		BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CousinsInBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIndexSumOfTwoLists.swift; sourceTree = "<group>"; };
 		BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertANumberToHexadecimal.swift; sourceTree = "<group>"; };
+		BAEF030C22875CFE0084E257 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -414,6 +416,7 @@
 				BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */,
 				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
 				BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */,
+				BAEF030C22875CFE0084E257 /* PowerOfFour.swift */,
 				BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */,
 				BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */,
 				BADDD2CE2287342D009172F1 /* ReverseStringII.swift */,
@@ -683,6 +686,7 @@
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */,
+				BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,
 				BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */,
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,

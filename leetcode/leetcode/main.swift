@@ -182,4 +182,5 @@ import Foundation
 //ConstructTheRectangleSolution.init().test()
 //CousinsInBinaryTreeSolution.init().test()
 //MinimumIndexSumOfTwoListsSolution.init().test()
-ConvertANumberToHexadecimalSolution.init().test()
+//ConvertANumberToHexadecimalSolution.init().test()
+PowerOfFourSolution.init().test()
