@@ -176,4 +176,5 @@ import Foundation
 //RotateStringSolution.init().test()
 //ReverseVowelsOfAStringSolution.init().test()
 //CountBinarySubstringsSolution.init().test()
-TwoCitySchedulingSolution.init().test()
+//TwoCitySchedulingSolution.init().test()
+DegreeOfAnArraySolution.init().test()

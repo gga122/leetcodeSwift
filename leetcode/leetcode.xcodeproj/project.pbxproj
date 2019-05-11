@@ -178,6 +178,7 @@
 		BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */; };
 		BADDD2C9228728EA009172F1 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */; };
 		BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */; };
+		BADDD2CD228730D3009172F1 /* DegreeOfAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2CC228730D3009172F1 /* DegreeOfAnArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -365,6 +366,7 @@
 		BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfAString.swift; sourceTree = "<group>"; };
 		BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
+		BADDD2CC228730D3009172F1 /* DegreeOfAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeOfAnArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -402,6 +404,7 @@
 				BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */,
 				BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */,
 				BADDD2C422872405009172F1 /* RotateString.swift */,
+				BADDD2CC228730D3009172F1 /* DegreeOfAnArray.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
 				BADDD2C222871E4D009172F1 /* ImageSmoother.swift */,
@@ -722,6 +725,7 @@
 				BA20A5B6226338AF00CBD9D4 /* TwoSum.swift in Sources */,
 				BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */,
 				BA20464A22835180009D184A /* MinimumAbsoluteDifferenceInBST.swift in Sources */,
+				BADDD2CD228730D3009172F1 /* DegreeOfAnArray.swift in Sources */,
 				BA20464022832B71009D184A /* ComplementOfBase10Integer.swift in Sources */,
 				BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */,
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,
