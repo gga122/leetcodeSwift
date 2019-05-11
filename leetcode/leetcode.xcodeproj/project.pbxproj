@@ -170,6 +170,7 @@
 		BADDD2B72286FE34009172F1 /* LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */; };
 		BADDD2B922870318009172F1 /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B822870318009172F1 /* RansomNote.swift */; };
 		BADDD2BB22870449009172F1 /* StudentAttendanceRecordI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */; };
+		BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -349,6 +350,7 @@
 		BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 		BADDD2B822870318009172F1 /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordI.swift; sourceTree = "<group>"; };
+		BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseOnlyLetters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -383,6 +385,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
+				BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */,
 				BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
 				BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */,
@@ -739,6 +742,7 @@
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */,
 				BA204628227F52F9009D184A /* MaxConsecutiveOnes.swift in Sources */,
+				BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */,
 				BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */,
 				BA20461C227DF764009D184A /* GoatLatin.swift in Sources */,
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
