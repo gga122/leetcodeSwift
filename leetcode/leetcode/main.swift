@@ -157,4 +157,5 @@ import Foundation
 //RelativeRanksSolution.init().test()
 //MinimumAbsoluteDifferenceInBSTSolution.init().test()
 //ShortestCompletingWordSolution.init().test()
-TwoSumIV_InputIsABSTSolution.init().test()
+//TwoSumIV_InputIsABSTSolution.init().test()
+ReorderLogFilesSolution.init().test()
