@@ -171,6 +171,7 @@
 		BADDD2B922870318009172F1 /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B822870318009172F1 /* RansomNote.swift */; };
 		BADDD2BB22870449009172F1 /* StudentAttendanceRecordI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */; };
 		BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */; };
+		BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BE228708EA009172F1 /* MonotonicArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -351,6 +352,7 @@
 		BADDD2B822870318009172F1 /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordI.swift; sourceTree = "<group>"; };
 		BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseOnlyLetters.swift; sourceTree = "<group>"; };
+		BADDD2BE228708EA009172F1 /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -384,6 +386,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
 				BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */,
 				BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */,
@@ -672,6 +675,7 @@
 				BA20461E227DFAE9009D184A /* LetterCasePermutation.swift in Sources */,
 				BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */,
 				BA204607227C8F2E009D184A /* Leaf-SimilarTrees.swift in Sources */,
+				BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */,
 				BA15F523226F6AED008B5516 /* MaximumSubarray.swift in Sources */,
 				BADDD2BB22870449009172F1 /* StudentAttendanceRecordI.swift in Sources */,
 				BA2045EE227B533D009D184A /* LongestUncommonSubsequenceI.swift in Sources */,

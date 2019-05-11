@@ -169,4 +169,5 @@ import Foundation
 //LongestPalindromeSolution.init().test()
 //RansomNoteSolution.init().test()
 //StudentAttendanceRecordISolution.init().test()
-ReverseOnlyLettersSolution.init().test()
+//ReverseOnlyLettersSolution.init().test()
+MonotonicArraySolution.init().test()
