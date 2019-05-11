@@ -183,6 +183,7 @@
 		BADDD2D122873FBC009172F1 /* ConstructTheRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */; };
 		BADDD2D3228741EB009172F1 /* CousinsInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */; };
 		BADDD2D522874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */; };
+		BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -375,6 +376,7 @@
 		BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructTheRectangle.swift; sourceTree = "<group>"; };
 		BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CousinsInBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIndexSumOfTwoLists.swift; sourceTree = "<group>"; };
+		BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertANumberToHexadecimal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -412,6 +414,7 @@
 				BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */,
 				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
 				BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */,
+				BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */,
 				BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */,
 				BADDD2CE2287342D009172F1 /* ReverseStringII.swift */,
 				BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */,
@@ -701,6 +704,7 @@
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
 				BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */,
+				BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */,
 				BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */,
 				BAA3E8E12277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift in Sources */,
 				BA2045F6227B63DC009D184A /* FizzBuzz.swift in Sources */,

@@ -181,4 +181,5 @@ import Foundation
 //ReverseStringIISolution.init().test()
 //ConstructTheRectangleSolution.init().test()
 //CousinsInBinaryTreeSolution.init().test()
-MinimumIndexSumOfTwoListsSolution.init().test()
+//MinimumIndexSumOfTwoListsSolution.init().test()
+ConvertANumberToHexadecimalSolution.init().test()
