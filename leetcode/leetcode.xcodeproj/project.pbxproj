@@ -165,6 +165,7 @@
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
 		BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AE2286CE00009172F1 /* PathSumIII.swift */; };
 		BADDD2B12286DBDB009172F1 /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */; };
+		BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -339,6 +340,7 @@
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
 		BADDD2AE2286CE00009172F1 /* PathSumIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII.swift; sourceTree = "<group>"; };
 		BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
+		BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeTilt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -373,6 +375,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
+				BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */,
 				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
 				BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */,
@@ -643,6 +646,7 @@
 				BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
+				BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */,
 				BAA3E8A722744A8D003A9F4B /* PalindromeLinkedList.swift in Sources */,
 				BAA3E8E12277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift in Sources */,
 				BA2045F6227B63DC009D184A /* FizzBuzz.swift in Sources */,
