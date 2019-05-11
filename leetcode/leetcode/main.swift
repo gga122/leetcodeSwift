@@ -164,4 +164,5 @@ import Foundation
 //MinimumMovesToEqualArrayElementsSolution.init().test()
 //PathSumIIISolution.init().test()
 //RangeAdditionIISolution.init().test()
-BinaryTreeTiltSolution.init().test()
+//BinaryTreeTiltSolution.init().test()
+FairCandySwapSolution.init().test()

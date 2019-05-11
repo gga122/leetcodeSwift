@@ -166,6 +166,7 @@
 		BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AE2286CE00009172F1 /* PathSumIII.swift */; };
 		BADDD2B12286DBDB009172F1 /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */; };
 		BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */; };
+		BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -341,6 +342,7 @@
 		BADDD2AE2286CE00009172F1 /* PathSumIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII.swift; sourceTree = "<group>"; };
 		BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 		BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeTilt.swift; sourceTree = "<group>"; };
+		BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairCandySwap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -374,6 +376,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
 				BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */,
 				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
@@ -685,6 +688,7 @@
 				BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */,
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,
 				BA20464622833F7C009D184A /* SumOfLeftLeaves.swift in Sources */,
+				BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */,
 				BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */,
