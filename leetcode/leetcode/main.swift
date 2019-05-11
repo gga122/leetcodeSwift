@@ -170,4 +170,5 @@ import Foundation
 //RansomNoteSolution.init().test()
 //StudentAttendanceRecordISolution.init().test()
 //ReverseOnlyLettersSolution.init().test()
-MonotonicArraySolution.init().test()
+//MonotonicArraySolution.init().test()
+BinaryWatchSolution.init().test()

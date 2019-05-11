@@ -172,6 +172,7 @@
 		BADDD2BB22870449009172F1 /* StudentAttendanceRecordI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */; };
 		BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */; };
 		BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2BE228708EA009172F1 /* MonotonicArray.swift */; };
+		BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C022870AF3009172F1 /* BinaryWatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -353,6 +354,7 @@
 		BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordI.swift; sourceTree = "<group>"; };
 		BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseOnlyLetters.swift; sourceTree = "<group>"; };
 		BADDD2BE228708EA009172F1 /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
+		BADDD2C022870AF3009172F1 /* BinaryWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryWatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -386,6 +388,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
 				BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */,
 				BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */,
@@ -653,6 +656,7 @@
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
 				BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */,
+				BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */,
 				BA204622227F4995009D184A /* UncommonWordsFromTwoSentences.swift in Sources */,
 				BADDD2B12286DBDB009172F1 /* RangeAdditionII.swift in Sources */,
 				BA15F5312270BBA3008B5516 /* SameTree.swift in Sources */,
