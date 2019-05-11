@@ -176,6 +176,7 @@
 		BADDD2C322871E4D009172F1 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C222871E4D009172F1 /* ImageSmoother.swift */; };
 		BADDD2C522872405009172F1 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C422872405009172F1 /* RotateString.swift */; };
 		BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */; };
+		BADDD2C9228728EA009172F1 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -361,6 +362,7 @@
 		BADDD2C222871E4D009172F1 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 		BADDD2C422872405009172F1 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
 		BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfAString.swift; sourceTree = "<group>"; };
+		BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -402,6 +404,7 @@
 				BADDD2C222871E4D009172F1 /* ImageSmoother.swift */,
 				BADDD2BC2287073B009172F1 /* ReverseOnlyLetters.swift */,
 				BADDD2BA22870449009172F1 /* StudentAttendanceRecordI.swift */,
+				BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */,
 				BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */,
 				BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */,
 				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
@@ -721,6 +724,7 @@
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,
 				BA20464622833F7C009D184A /* SumOfLeftLeaves.swift in Sources */,
 				BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */,
+				BADDD2C9228728EA009172F1 /* CountBinarySubstrings.swift in Sources */,
 				BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */,
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */,

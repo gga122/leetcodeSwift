@@ -174,4 +174,5 @@ import Foundation
 //BinaryWatchSolution.init().test()
 //ImageSmootherSolution.init().test()
 //RotateStringSolution.init().test()
-ReverseVowelsOfAStringSolution.init().test()
+//ReverseVowelsOfAStringSolution.init().test()
+CountBinarySubstringsSolution.init().test()
