@@ -167,4 +167,5 @@ import Foundation
 //BinaryTreeTiltSolution.init().test()
 //FairCandySwapSolution.init().test()
 //LongestPalindromeSolution.init().test()
-RansomNoteSolution.init().test()
+//RansomNoteSolution.init().test()
+StudentAttendanceRecordISolution.init().test()
