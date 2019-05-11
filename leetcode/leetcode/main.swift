@@ -179,4 +179,5 @@ import Foundation
 //TwoCitySchedulingSolution.init().test()
 //DegreeOfAnArraySolution.init().test()
 //ReverseStringIISolution.init().test()
-ConstructTheRectangleSolution.init().test()
+//ConstructTheRectangleSolution.init().test()
+CousinsInBinaryTreeSolution.init().test()

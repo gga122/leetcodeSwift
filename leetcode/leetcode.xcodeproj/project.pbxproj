@@ -181,6 +181,7 @@
 		BADDD2CD228730D3009172F1 /* DegreeOfAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2CC228730D3009172F1 /* DegreeOfAnArray.swift */; };
 		BADDD2CF2287342D009172F1 /* ReverseStringII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2CE2287342D009172F1 /* ReverseStringII.swift */; };
 		BADDD2D122873FBC009172F1 /* ConstructTheRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */; };
+		BADDD2D3228741EB009172F1 /* CousinsInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -371,6 +372,7 @@
 		BADDD2CC228730D3009172F1 /* DegreeOfAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeOfAnArray.swift; sourceTree = "<group>"; };
 		BADDD2CE2287342D009172F1 /* ReverseStringII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseStringII.swift; sourceTree = "<group>"; };
 		BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructTheRectangle.swift; sourceTree = "<group>"; };
+		BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CousinsInBinaryTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -405,6 +407,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
 				BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */,
 				BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */,
 				BADDD2CE2287342D009172F1 /* ReverseStringII.swift */,
@@ -801,6 +804,7 @@
 				BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */,
 				BAA3E901227A09EB003A9F4B /* IslandPerimeter.swift in Sources */,
 				BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */,
+				BADDD2D3228741EB009172F1 /* CousinsInBinaryTree.swift in Sources */,
 				BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */,
 				BA20460D227C9D7F009D184A /* LargestTriangleArea.swift in Sources */,
 				BA3ACE87226C662C0065FA51 /* AvailableCapturesForRook.swift in Sources */,
