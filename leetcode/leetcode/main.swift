@@ -180,4 +180,5 @@ import Foundation
 //DegreeOfAnArraySolution.init().test()
 //ReverseStringIISolution.init().test()
 //ConstructTheRectangleSolution.init().test()
-CousinsInBinaryTreeSolution.init().test()
+//CousinsInBinaryTreeSolution.init().test()
+MinimumIndexSumOfTwoListsSolution.init().test()
