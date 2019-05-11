@@ -166,4 +166,5 @@ import Foundation
 //RangeAdditionIISolution.init().test()
 //BinaryTreeTiltSolution.init().test()
 //FairCandySwapSolution.init().test()
-LongestPalindromeSolution.init().test()
+//LongestPalindromeSolution.init().test()
+RansomNoteSolution.init().test()

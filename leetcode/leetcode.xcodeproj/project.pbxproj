@@ -168,6 +168,7 @@
 		BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */; };
 		BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */; };
 		BADDD2B72286FE34009172F1 /* LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */; };
+		BADDD2B922870318009172F1 /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B822870318009172F1 /* RansomNote.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -345,6 +346,7 @@
 		BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeTilt.swift; sourceTree = "<group>"; };
 		BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairCandySwap.swift; sourceTree = "<group>"; };
 		BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
+		BADDD2B822870318009172F1 /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -384,6 +386,7 @@
 				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
 				BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */,
+				BADDD2B822870318009172F1 /* RansomNote.swift */,
 				BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */,
 				BADDD2A82286C455009172F1 /* FloodFill.swift */,
 				BA20464722834302009D184A /* RelativeRanks.swift */,
@@ -714,6 +717,7 @@
 				BA20A5D12263B1EB00CBD9D4 /* InvertBinaryTree.swift in Sources */,
 				BA20460B227C9BAB009D184A /* FindTheDifference.swift in Sources */,
 				BA2046342280A38D009D184A /* NumberOfBoomerangs.swift in Sources */,
+				BADDD2B922870318009172F1 /* RansomNote.swift in Sources */,
 				BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BA20462E228091BF009D184A /* ConvertBSTToGreaterTree.swift in Sources */,
