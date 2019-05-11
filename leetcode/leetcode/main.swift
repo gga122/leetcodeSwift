@@ -178,4 +178,5 @@ import Foundation
 //CountBinarySubstringsSolution.init().test()
 //TwoCitySchedulingSolution.init().test()
 //DegreeOfAnArraySolution.init().test()
-ReverseStringIISolution.init().test()
+//ReverseStringIISolution.init().test()
+ConstructTheRectangleSolution.init().test()
