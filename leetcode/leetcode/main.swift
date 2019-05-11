@@ -158,4 +158,5 @@ import Foundation
 //MinimumAbsoluteDifferenceInBSTSolution.init().test()
 //ShortestCompletingWordSolution.init().test()
 //TwoSumIV_InputIsABSTSolution.init().test()
-ReorderLogFilesSolution.init().test()
+//ReorderLogFilesSolution.init().test()
+ConstructStringFromBinaryTreeSolution.init().test()
