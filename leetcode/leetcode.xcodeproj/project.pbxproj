@@ -177,6 +177,7 @@
 		BADDD2C522872405009172F1 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C422872405009172F1 /* RotateString.swift */; };
 		BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */; };
 		BADDD2C9228728EA009172F1 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */; };
+		BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -363,6 +364,7 @@
 		BADDD2C422872405009172F1 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
 		BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfAString.swift; sourceTree = "<group>"; };
 		BADDD2C8228728EA009172F1 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
+		BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -397,6 +399,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BADDD2CA22872CFB009172F1 /* TwoCityScheduling.swift */,
 				BADDD2C622872765009172F1 /* ReverseVowelsOfAString.swift */,
 				BADDD2C422872405009172F1 /* RotateString.swift */,
 				BADDD2BE228708EA009172F1 /* MonotonicArray.swift */,
@@ -772,6 +775,7 @@
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
+				BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */,
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
 				BA20464822834302009D184A /* RelativeRanks.swift in Sources */,

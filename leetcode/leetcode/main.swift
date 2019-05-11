@@ -175,4 +175,5 @@ import Foundation
 //ImageSmootherSolution.init().test()
 //RotateStringSolution.init().test()
 //ReverseVowelsOfAStringSolution.init().test()
-CountBinarySubstringsSolution.init().test()
+//CountBinarySubstringsSolution.init().test()
+TwoCitySchedulingSolution.init().test()
