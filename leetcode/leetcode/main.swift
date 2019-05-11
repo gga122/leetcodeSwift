@@ -165,4 +165,5 @@ import Foundation
 //PathSumIIISolution.init().test()
 //RangeAdditionIISolution.init().test()
 //BinaryTreeTiltSolution.init().test()
-FairCandySwapSolution.init().test()
+//FairCandySwapSolution.init().test()
+LongestPalindromeSolution.init().test()

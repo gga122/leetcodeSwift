@@ -167,6 +167,7 @@
 		BADDD2B12286DBDB009172F1 /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */; };
 		BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */; };
 		BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */; };
+		BADDD2B72286FE34009172F1 /* LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -343,6 +344,7 @@
 		BADDD2B02286DBDB009172F1 /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 		BADDD2B22286DDBC009172F1 /* BinaryTreeTilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeTilt.swift; sourceTree = "<group>"; };
 		BADDD2B42286E2E4009172F1 /* FairCandySwap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairCandySwap.swift; sourceTree = "<group>"; };
+		BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -382,6 +384,7 @@
 				BADDD2AE2286CE00009172F1 /* PathSumIII.swift */,
 				BAA3E8F62279F2A7003A9F4B /* TransposeMatrix.swift */,
 				BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */,
+				BADDD2B62286FE34009172F1 /* LongestPalindrome.swift */,
 				BADDD2A82286C455009172F1 /* FloodFill.swift */,
 				BA20464722834302009D184A /* RelativeRanks.swift */,
 				BA2045F5227B63DC009D184A /* FizzBuzz.swift */,
@@ -677,6 +680,7 @@
 				BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */,
 				BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */,
 				BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */,
+				BADDD2B72286FE34009172F1 /* LongestPalindrome.swift in Sources */,
 				BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */,
 				BA15F5332270BCD9008B5516 /* SymmetricTree.swift in Sources */,
 				BA2045EC227A0DBB009D184A /* SmallestRangeI.swift in Sources */,
