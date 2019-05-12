@@ -190,6 +190,7 @@
 		BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */; };
 		BAEF03152288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */; };
 		BAEF031722881E400084E257 /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031622881E400084E257 /* FindTheTownJudge.swift */; };
+		BAEF0319228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -389,6 +390,7 @@
 		BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMinimumNodeInABinaryTree.swift; sourceTree = "<group>"; };
 		BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeSumOfArrayAfterKNegations.swift; sourceTree = "<group>"; };
 		BAEF031622881E400084E257 /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
+		BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayIntoThreePartsWithEqualSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -424,6 +426,7 @@
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */,
+				BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */,
 				BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */,
 				BAEF031622881E400084E257 /* FindTheTownJudge.swift */,
 				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
@@ -674,6 +677,7 @@
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
 				BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */,
+				BAEF0319228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift in Sources */,
 				BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */,
 				BA15F51B226E2CD8008B5516 /* RemoveElement.swift in Sources */,
 				BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */,

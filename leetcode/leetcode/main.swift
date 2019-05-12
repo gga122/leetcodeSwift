@@ -188,4 +188,5 @@ import Foundation
 //MaximumProductOfThreeNumbersSolution.init().test()
 //SecondMinimumNodeInABinaryTreeSolution.init().test()
 //MaximizeSumOfArrayAfterKNegationsSolution.init().test()
-FindTheTownJudgeSolution.init().test()
+//FindTheTownJudgeSolution.init().test()
+PartitionArrayIntoThreePartsWithEqualSumSolution.init().test()
