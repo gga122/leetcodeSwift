@@ -192,4 +192,5 @@ import Foundation
 //PartitionArrayIntoThreePartsWithEqualSumSolution.init().test()
 //DiameterOfBinaryTreeSolution.init().test()
 //FindSmallestLetterGreaterThanTargetSolution.init().test()
-MinCostClimbingStairsSolution.init().test()
+//MinCostClimbingStairsSolution.init().test()
+LongestWordInDictionarySolution.init().test()
