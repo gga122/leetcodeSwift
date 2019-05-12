@@ -201,6 +201,7 @@
 		BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */; };
 		BAEF032B228869130084E257 /* LongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032A228869130084E257 /* LongPressedName.swift */; };
 		BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */; };
+		BAEF032F228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -411,6 +412,7 @@
 		BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysII.swift; sourceTree = "<group>"; };
 		BAEF032A228869130084E257 /* LongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressedName.swift; sourceTree = "<group>"; };
 		BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSubsequence.swift; sourceTree = "<group>"; };
+		BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousIncreasingSubsequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -447,6 +449,7 @@
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
+				BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
@@ -790,6 +793,7 @@
 				BA20463E228326D5009D184A /* FindAllNumbersDisappearedInAnArray.swift in Sources */,
 				BA20463A2281D13C009D184A /* VerifyingAnAlienDictionary.swift in Sources */,
 				BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */,
+				BAEF032F228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift in Sources */,
 				BA15F5272270B17B008B5516 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				BAEF03152288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
 				BAEF0321228848930084E257 /* LongestWordInDictionary.swift in Sources */,

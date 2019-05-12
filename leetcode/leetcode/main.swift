@@ -199,4 +199,5 @@ import Foundation
 //ValidPerfectSquareSolution.init().test()
 //IntersectionOfTwoArraysIISolution.init().test()
 //LongPressedNameSolution.init().test()
-LongestHarmoniousSubsequenceSolution.init().test()
+//LongestHarmoniousSubsequenceSolution.init().test()
+LongestContinuousIncreasingSubsequenceSolution.init().test()
