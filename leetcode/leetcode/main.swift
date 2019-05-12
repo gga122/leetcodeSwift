@@ -187,4 +187,5 @@ import Foundation
 //RottingOrangesSolution.init().test()
 //MaximumProductOfThreeNumbersSolution.init().test()
 //SecondMinimumNodeInABinaryTreeSolution.init().test()
-MaximizeSumOfArrayAfterKNegationsSolution.init().test()
+//MaximizeSumOfArrayAfterKNegationsSolution.init().test()
+FindTheTownJudgeSolution.init().test()
