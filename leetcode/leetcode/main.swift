@@ -203,4 +203,5 @@ import Foundation
 //LongestContinuousIncreasingSubsequenceSolution.init().test()
 //FindModeInBinarySearchTreeSolution.init().test()
 //RepeatedSubstringPatternSolution.init().test()
-PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()
+//PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()
+SumOfSquareNumbersSolution.init().test()

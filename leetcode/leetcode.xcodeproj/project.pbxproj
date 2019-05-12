@@ -205,6 +205,7 @@
 		BAEF0331228874640084E257 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */; };
 		BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */; };
 		BAEF0335228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */; };
+		BAEF0337228897710084E257 /* SumOfSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -419,6 +420,7 @@
 		BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree.swift; sourceTree = "<group>"; };
 		BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSubstringPattern.swift; sourceTree = "<group>"; };
 		BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsOfSongsWithTotalDurationsDivisibleBy60.swift; sourceTree = "<group>"; };
+		BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -457,6 +459,7 @@
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
 				BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */,
+				BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */,
 				BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */,
 				BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
@@ -736,6 +739,7 @@
 				BA2DE13C2272211300FD620A /* PowerOfTwo.swift in Sources */,
 				BADDD2D122873FBC009172F1 /* ConstructTheRectangle.swift in Sources */,
 				BAA3E8E52278A32B003A9F4B /* NumberOfRecentCalls.swift in Sources */,
+				BAEF0337228897710084E257 /* SumOfSquareNumbers.swift in Sources */,
 				BA204620227F47B5009D184A /* SumOfTwoIntegers.swift in Sources */,
 				BA204626227F4F9A009D184A /* RangeSumQuery-Immutable.swift in Sources */,
 				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
