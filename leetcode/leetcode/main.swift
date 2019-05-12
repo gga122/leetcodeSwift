@@ -201,4 +201,5 @@ import Foundation
 //LongPressedNameSolution.init().test()
 //LongestHarmoniousSubsequenceSolution.init().test()
 //LongestContinuousIncreasingSubsequenceSolution.init().test()
-FindModeInBinarySearchTreeSolution.init().test()
+//FindModeInBinarySearchTreeSolution.init().test()
+RepeatedSubstringPatternSolution.init().test()

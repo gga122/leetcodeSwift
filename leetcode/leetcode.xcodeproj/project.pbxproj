@@ -203,6 +203,7 @@
 		BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */; };
 		BAEF032F228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */; };
 		BAEF0331228874640084E257 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */; };
+		BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -415,6 +416,7 @@
 		BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSubsequence.swift; sourceTree = "<group>"; };
 		BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree.swift; sourceTree = "<group>"; };
+		BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSubstringPattern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -451,6 +453,7 @@
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
+				BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */,
 				BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */,
 				BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
@@ -791,6 +794,7 @@
 				BAA3E8AD227467A2003A9F4B /* ContainsDuplicateII.swift in Sources */,
 				BA204602227C40D7009D184A /* DesignHashSet.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
+				BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */,
 				BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */,
 				BA204600227C3960009D184A /* GroupsOfSpecial-EquivalentStrings.swift in Sources */,
 				BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */,
