@@ -190,4 +190,5 @@ import Foundation
 //MaximizeSumOfArrayAfterKNegationsSolution.init().test()
 //FindTheTownJudgeSolution.init().test()
 //PartitionArrayIntoThreePartsWithEqualSumSolution.init().test()
-DiameterOfBinaryTreeSolution.init().test()
+//DiameterOfBinaryTreeSolution.init().test()
+FindSmallestLetterGreaterThanTargetSolution.init().test()

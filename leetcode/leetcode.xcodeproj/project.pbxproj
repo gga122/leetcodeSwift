@@ -192,6 +192,7 @@
 		BAEF031722881E400084E257 /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031622881E400084E257 /* FindTheTownJudge.swift */; };
 		BAEF0319228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */; };
 		BAEF031B228826160084E257 /* DiameterOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */; };
+		BAEF031D22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031C22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -393,6 +394,7 @@
 		BAEF031622881E400084E257 /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayIntoThreePartsWithEqualSum.swift; sourceTree = "<group>"; };
 		BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiameterOfBinaryTree.swift; sourceTree = "<group>"; };
+		BAEF031C22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallestLetterGreaterThanTarget.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -430,6 +432,7 @@
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */,
 				BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */,
+				BAEF031C22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift */,
 				BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */,
 				BAEF031622881E400084E257 /* FindTheTownJudge.swift */,
 				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
@@ -677,6 +680,7 @@
 				BA3ACE85226C5DFE0065FA51 /* AssignCookies.swift in Sources */,
 				BAA3E8FB2279FC70003A9F4B /* SubdomainVisitCount.swift in Sources */,
 				BADDD2C522872405009172F1 /* RotateString.swift in Sources */,
+				BAEF031D22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift in Sources */,
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
 				BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */,
