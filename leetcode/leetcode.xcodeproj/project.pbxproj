@@ -185,6 +185,7 @@
 		BADDD2D522874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */; };
 		BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */; };
 		BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030C22875CFE0084E257 /* PowerOfFour.swift */; };
+		BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030E2287F2F00084E257 /* RottingOranges.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -379,6 +380,7 @@
 		BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIndexSumOfTwoLists.swift; sourceTree = "<group>"; };
 		BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertANumberToHexadecimal.swift; sourceTree = "<group>"; };
 		BAEF030C22875CFE0084E257 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
+		BAEF030E2287F2F00084E257 /* RottingOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RottingOranges.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -413,6 +415,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
 				BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */,
 				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
 				BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */,
@@ -704,6 +707,7 @@
 				BA2046362280A8F5009D184A /* DetectCapital.swift in Sources */,
 				BA15F54D2270D322008B5516 /* ExcelSheetColumnNumber.swift in Sources */,
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,
+				BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */,
 				BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,

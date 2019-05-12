@@ -183,4 +183,5 @@ import Foundation
 //CousinsInBinaryTreeSolution.init().test()
 //MinimumIndexSumOfTwoListsSolution.init().test()
 //ConvertANumberToHexadecimalSolution.init().test()
-PowerOfFourSolution.init().test()
+//PowerOfFourSolution.init().test()
+RottingOrangesSolution.init().test()
