@@ -202,4 +202,5 @@ import Foundation
 //LongestHarmoniousSubsequenceSolution.init().test()
 //LongestContinuousIncreasingSubsequenceSolution.init().test()
 //FindModeInBinarySearchTreeSolution.init().test()
-RepeatedSubstringPatternSolution.init().test()
+//RepeatedSubstringPatternSolution.init().test()
+PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()

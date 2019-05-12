@@ -17,7 +17,7 @@ class RepeatedSubstringPatternSolution {
         if s.count == 2 {
             return chars[0] == chars[1]
         }
-        
+
         /* Calculate all pattern lengths */
         let count = chars.count
         var patternLengths = [Int]()
