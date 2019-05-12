@@ -185,4 +185,5 @@ import Foundation
 //ConvertANumberToHexadecimalSolution.init().test()
 //PowerOfFourSolution.init().test()
 //RottingOrangesSolution.init().test()
-MaximumProductOfThreeNumbersSolution.init().test()
+//MaximumProductOfThreeNumbersSolution.init().test()
+SecondMinimumNodeInABinaryTreeSolution.init().test()

@@ -187,6 +187,7 @@
 		BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030C22875CFE0084E257 /* PowerOfFour.swift */; };
 		BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030E2287F2F00084E257 /* RottingOranges.swift */; };
 		BAEF03112288033D0084E257 /* MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */; };
+		BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -383,6 +384,7 @@
 		BAEF030C22875CFE0084E257 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
 		BAEF030E2287F2F00084E257 /* RottingOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RottingOranges.swift; sourceTree = "<group>"; };
 		BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductOfThreeNumbers.swift; sourceTree = "<group>"; };
+		BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMinimumNodeInABinaryTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -419,6 +421,7 @@
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */,
 				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
+				BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */,
 				BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */,
 				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
 				BADDD2D022873FBC009172F1 /* ConstructTheRectangle.swift */,
@@ -664,6 +667,7 @@
 				BADDD2C522872405009172F1 /* RotateString.swift in Sources */,
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
 				BA20A5CF2263941E00CBD9D4 /* AddBinary.swift in Sources */,
+				BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */,
 				BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */,
 				BA15F51B226E2CD8008B5516 /* RemoveElement.swift in Sources */,
 				BAA3E8CB227751F4003A9F4B /* HammingDistance.swift in Sources */,
