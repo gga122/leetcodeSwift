@@ -195,6 +195,7 @@
 		BAEF031D22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031C22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift */; };
 		BAEF031F228844C50084E257 /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */; };
 		BAEF0321228848930084E257 /* LongestWordInDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0320228848930084E257 /* LongestWordInDictionary.swift */; };
+		BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -399,6 +400,7 @@
 		BAEF031C22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallestLetterGreaterThanTarget.swift; sourceTree = "<group>"; };
 		BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		BAEF0320228848930084E257 /* LongestWordInDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordInDictionary.swift; sourceTree = "<group>"; };
+		BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -435,6 +437,7 @@
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF0320228848930084E257 /* LongestWordInDictionary.swift */,
+				BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */,
 				BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */,
 				BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */,
 				BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */,
@@ -827,6 +830,7 @@
 				BAEF031722881E400084E257 /* FindTheTownJudge.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
+				BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */,
 				BA2045FE227C337B009D184A /* ReshapeTheMatrix.swift in Sources */,
