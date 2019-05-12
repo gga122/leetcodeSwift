@@ -200,6 +200,7 @@
 		BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0326228865920084E257 /* ValidPerfectSquare.swift */; };
 		BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */; };
 		BAEF032B228869130084E257 /* LongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032A228869130084E257 /* LongPressedName.swift */; };
+		BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -409,6 +410,7 @@
 		BAEF0326228865920084E257 /* ValidPerfectSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPerfectSquare.swift; sourceTree = "<group>"; };
 		BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysII.swift; sourceTree = "<group>"; };
 		BAEF032A228869130084E257 /* LongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressedName.swift; sourceTree = "<group>"; };
+		BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSubsequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -443,6 +445,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
@@ -818,6 +821,7 @@
 				BA2045F8227C163B009D184A /* DivisorGame.swift in Sources */,
 				BA3ACE81226C4F4E0065FA51 /* BinaryPrefixDivisibleBy5.swift in Sources */,
 				BA3ACE99226CD8AA0065FA51 /* BinaryGap.swift in Sources */,
+				BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */,
 				BA204609227C90CF009D184A /* ProjectionAreaOf3DShapes.swift in Sources */,
 				BA2046382281CC28009D184A /* RotatedDigits.swift in Sources */,
 				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,

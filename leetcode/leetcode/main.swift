@@ -198,4 +198,5 @@ import Foundation
 //RectangleOverlapSolution.init().test()
 //ValidPerfectSquareSolution.init().test()
 //IntersectionOfTwoArraysIISolution.init().test()
-LongPressedNameSolution.init().test()
+//LongPressedNameSolution.init().test()
+LongestHarmoniousSubsequenceSolution.init().test()
