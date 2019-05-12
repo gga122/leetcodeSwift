@@ -196,6 +196,7 @@
 		BAEF031F228844C50084E257 /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */; };
 		BAEF0321228848930084E257 /* LongestWordInDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0320228848930084E257 /* LongestWordInDictionary.swift */; };
 		BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */; };
+		BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0324228860560084E257 /* RectangleOverlap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -401,6 +402,7 @@
 		BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		BAEF0320228848930084E257 /* LongestWordInDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordInDictionary.swift; sourceTree = "<group>"; };
 		BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
+		BAEF0324228860560084E257 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -436,6 +438,7 @@
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
+				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
 				BAEF0320228848930084E257 /* LongestWordInDictionary.swift */,
 				BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */,
 				BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */,
@@ -752,6 +755,7 @@
 				BAA3E8E12277664F003A9F4B /* N-RepeatedElementInSize2NArray.swift in Sources */,
 				BA2045F6227B63DC009D184A /* FizzBuzz.swift in Sources */,
 				BA20464C22847CE2009D184A /* ShortestCompletingWord.swift in Sources */,
+				BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */,
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,
