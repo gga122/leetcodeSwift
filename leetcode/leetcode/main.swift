@@ -200,4 +200,5 @@ import Foundation
 //IntersectionOfTwoArraysIISolution.init().test()
 //LongPressedNameSolution.init().test()
 //LongestHarmoniousSubsequenceSolution.init().test()
-LongestContinuousIncreasingSubsequenceSolution.init().test()
+//LongestContinuousIncreasingSubsequenceSolution.init().test()
+FindModeInBinarySearchTreeSolution.init().test()

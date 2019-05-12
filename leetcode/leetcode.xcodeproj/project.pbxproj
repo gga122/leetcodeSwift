@@ -202,6 +202,7 @@
 		BAEF032B228869130084E257 /* LongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032A228869130084E257 /* LongPressedName.swift */; };
 		BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */; };
 		BAEF032F228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */; };
+		BAEF0331228874640084E257 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -413,6 +414,7 @@
 		BAEF032A228869130084E257 /* LongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressedName.swift; sourceTree = "<group>"; };
 		BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSubsequence.swift; sourceTree = "<group>"; };
 		BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousIncreasingSubsequence.swift; sourceTree = "<group>"; };
+		BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -450,6 +452,7 @@
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
 				BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */,
+				BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
@@ -749,6 +752,7 @@
 				BA2045FC227C24F3009D184A /* ToeplitzMatrix.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
+				BAEF0331228874640084E257 /* FindModeInBinarySearchTree.swift in Sources */,
 				BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */,
 				BAEF031F228844C50084E257 /* MinCostClimbingStairs.swift in Sources */,
 				BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */,
