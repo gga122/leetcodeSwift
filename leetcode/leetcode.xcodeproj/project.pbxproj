@@ -186,6 +186,7 @@
 		BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */; };
 		BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030C22875CFE0084E257 /* PowerOfFour.swift */; };
 		BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030E2287F2F00084E257 /* RottingOranges.swift */; };
+		BAEF03112288033D0084E257 /* MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -381,6 +382,7 @@
 		BADDD2D622875179009172F1 /* ConvertANumberToHexadecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertANumberToHexadecimal.swift; sourceTree = "<group>"; };
 		BAEF030C22875CFE0084E257 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
 		BAEF030E2287F2F00084E257 /* RottingOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RottingOranges.swift; sourceTree = "<group>"; };
+		BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductOfThreeNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,6 +417,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */,
 				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
 				BADDD2D422874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift */,
 				BADDD2D2228741EB009172F1 /* CousinsInBinaryTree.swift */,
@@ -804,6 +807,7 @@
 				BA20461C227DF764009D184A /* GoatLatin.swift in Sources */,
 				BAA3E8A922745A35003A9F4B /* ImplementQueueUsingStacks.swift in Sources */,
 				BAA3E8CD227753AB003A9F4B /* DIStringMatch.swift in Sources */,
+				BAEF03112288033D0084E257 /* MaximumProductOfThreeNumbers.swift in Sources */,
 				BADDD2CF2287342D009172F1 /* ReverseStringII.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
 				BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */,

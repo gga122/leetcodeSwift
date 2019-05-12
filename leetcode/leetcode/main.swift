@@ -184,4 +184,5 @@ import Foundation
 //MinimumIndexSumOfTwoListsSolution.init().test()
 //ConvertANumberToHexadecimalSolution.init().test()
 //PowerOfFourSolution.init().test()
-RottingOrangesSolution.init().test()
+//RottingOrangesSolution.init().test()
+MaximumProductOfThreeNumbersSolution.init().test()
