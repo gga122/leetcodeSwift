@@ -18,12 +18,15 @@ class MinCostClimbingStairsSolution {
             return min(cost[0], cost[1])
         }
         
-        var cost = cost
+        var a = cost[0]
+        var b = cost[1]
         for i in 2..<cost.count {
-            cost[i] += min(cost[i - 1], cost[i - 2])
+            let total = cost[i] + min(a, b)
+            a = b
+            b = total
         }
         
-        return min(cost[count - 2], cost[count - 1])
+        return min(a, b)
     }
     
     func test() -> Void {
