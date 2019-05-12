@@ -199,6 +199,7 @@
 		BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0324228860560084E257 /* RectangleOverlap.swift */; };
 		BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0326228865920084E257 /* ValidPerfectSquare.swift */; };
 		BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */; };
+		BAEF032B228869130084E257 /* LongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032A228869130084E257 /* LongPressedName.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -407,6 +408,7 @@
 		BAEF0324228860560084E257 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 		BAEF0326228865920084E257 /* ValidPerfectSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPerfectSquare.swift; sourceTree = "<group>"; };
 		BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysII.swift; sourceTree = "<group>"; };
+		BAEF032A228869130084E257 /* LongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressedName.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -441,6 +443,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF032A228869130084E257 /* LongPressedName.swift */,
 				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
@@ -862,6 +865,7 @@
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
 				BA20464822834302009D184A /* RelativeRanks.swift in Sources */,
+				BAEF032B228869130084E257 /* LongPressedName.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
 				BAA3E8BB22749DD4003A9F4B /* SumOfEvenNumbersAfterQueries.swift in Sources */,
 				BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */,
