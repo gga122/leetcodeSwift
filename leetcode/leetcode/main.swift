@@ -186,4 +186,5 @@ import Foundation
 //PowerOfFourSolution.init().test()
 //RottingOrangesSolution.init().test()
 //MaximumProductOfThreeNumbersSolution.init().test()
-SecondMinimumNodeInABinaryTreeSolution.init().test()
+//SecondMinimumNodeInABinaryTreeSolution.init().test()
+MaximizeSumOfArrayAfterKNegationsSolution.init().test()

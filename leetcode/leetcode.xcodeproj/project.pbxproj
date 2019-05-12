@@ -188,6 +188,7 @@
 		BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF030E2287F2F00084E257 /* RottingOranges.swift */; };
 		BAEF03112288033D0084E257 /* MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */; };
 		BAEF0313228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */; };
+		BAEF03152288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -385,6 +386,7 @@
 		BAEF030E2287F2F00084E257 /* RottingOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RottingOranges.swift; sourceTree = "<group>"; };
 		BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductOfThreeNumbers.swift; sourceTree = "<group>"; };
 		BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMinimumNodeInABinaryTree.swift; sourceTree = "<group>"; };
+		BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeSumOfArrayAfterKNegations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -419,6 +421,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */,
 				BAEF03102288033D0084E257 /* MaximumProductOfThreeNumbers.swift */,
 				BAEF030E2287F2F00084E257 /* RottingOranges.swift */,
 				BAEF0312228808BD0084E257 /* SecondMinimumNodeInABinaryTree.swift */,
@@ -745,6 +748,7 @@
 				BA20463A2281D13C009D184A /* VerifyingAnAlienDictionary.swift in Sources */,
 				BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */,
 				BA15F5272270B17B008B5516 /* RemoveDuplicatesFromSortedList.swift in Sources */,
+				BAEF03152288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */,
 				BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */,
