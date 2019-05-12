@@ -204,4 +204,5 @@ import Foundation
 //FindModeInBinarySearchTreeSolution.init().test()
 //RepeatedSubstringPatternSolution.init().test()
 //PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()
-SumOfSquareNumbersSolution.init().test()
+//SumOfSquareNumbersSolution.init().test()
+PerfectNumberSolution.init().test()

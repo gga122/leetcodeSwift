@@ -206,6 +206,7 @@
 		BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */; };
 		BAEF0335228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */; };
 		BAEF0337228897710084E257 /* SumOfSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */; };
+		BAEF03392288991D0084E257 /* PerfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03382288991D0084E257 /* PerfectNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -421,6 +422,7 @@
 		BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSubstringPattern.swift; sourceTree = "<group>"; };
 		BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsOfSongsWithTotalDurationsDivisibleBy60.swift; sourceTree = "<group>"; };
 		BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNumbers.swift; sourceTree = "<group>"; };
+		BAEF03382288991D0084E257 /* PerfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -459,6 +461,7 @@
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
 				BAEF032A228869130084E257 /* LongPressedName.swift */,
 				BAEF0332228880F60084E257 /* RepeatedSubstringPattern.swift */,
+				BAEF03382288991D0084E257 /* PerfectNumber.swift */,
 				BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */,
 				BAEF032E228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift */,
 				BAEF0330228874640084E257 /* FindModeInBinarySearchTree.swift */,
@@ -803,6 +806,7 @@
 				BA204602227C40D7009D184A /* DesignHashSet.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */,
+				BAEF03392288991D0084E257 /* PerfectNumber.swift in Sources */,
 				BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */,
 				BA204600227C3960009D184A /* GroupsOfSpecial-EquivalentStrings.swift in Sources */,
 				BAA3E8C3227748BA003A9F4B /* RemoveOutermostParentheses.swift in Sources */,
