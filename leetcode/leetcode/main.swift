@@ -191,4 +191,5 @@ import Foundation
 //FindTheTownJudgeSolution.init().test()
 //PartitionArrayIntoThreePartsWithEqualSumSolution.init().test()
 //DiameterOfBinaryTreeSolution.init().test()
-FindSmallestLetterGreaterThanTargetSolution.init().test()
+//FindSmallestLetterGreaterThanTargetSolution.init().test()
+MinCostClimbingStairsSolution.init().test()
