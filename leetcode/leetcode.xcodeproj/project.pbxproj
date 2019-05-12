@@ -197,6 +197,7 @@
 		BAEF0321228848930084E257 /* LongestWordInDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0320228848930084E257 /* LongestWordInDictionary.swift */; };
 		BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */; };
 		BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0324228860560084E257 /* RectangleOverlap.swift */; };
+		BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0326228865920084E257 /* ValidPerfectSquare.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -403,6 +404,7 @@
 		BAEF0320228848930084E257 /* LongestWordInDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordInDictionary.swift; sourceTree = "<group>"; };
 		BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
 		BAEF0324228860560084E257 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
+		BAEF0326228865920084E257 /* ValidPerfectSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPerfectSquare.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -437,6 +439,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
+				BAEF0326228865920084E257 /* ValidPerfectSquare.swift */,
 				BAEF031A228826160084E257 /* DiameterOfBinaryTree.swift */,
 				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
 				BAEF0320228848930084E257 /* LongestWordInDictionary.swift */,
@@ -735,6 +738,7 @@
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
 				BAA3E8B722749A5F003A9F4B /* UglyNumber.swift in Sources */,
 				BAEF031F228844C50084E257 /* MinCostClimbingStairs.swift in Sources */,
+				BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */,
 				BADDD2C122870AF3009172F1 /* BinaryWatch.swift in Sources */,
 				BA204622227F4995009D184A /* UncommonWordsFromTwoSentences.swift in Sources */,
 				BADDD2B12286DBDB009172F1 /* RangeAdditionII.swift in Sources */,
