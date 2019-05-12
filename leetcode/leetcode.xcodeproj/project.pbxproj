@@ -198,6 +198,7 @@
 		BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */; };
 		BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0324228860560084E257 /* RectangleOverlap.swift */; };
 		BAEF0327228865920084E257 /* ValidPerfectSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0326228865920084E257 /* ValidPerfectSquare.swift */; };
+		BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -405,6 +406,7 @@
 		BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
 		BAEF0324228860560084E257 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 		BAEF0326228865920084E257 /* ValidPerfectSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPerfectSquare.swift; sourceTree = "<group>"; };
+		BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -444,6 +446,7 @@
 				BAEF0324228860560084E257 /* RectangleOverlap.swift */,
 				BAEF0320228848930084E257 /* LongestWordInDictionary.swift */,
 				BAEF032222885BC90084E257 /* PositionsOfLargeGroups.swift */,
+				BAEF0328228867AA0084E257 /* IntersectionOfTwoArraysII.swift */,
 				BAEF031E228844C50084E257 /* MinCostClimbingStairs.swift */,
 				BAEF03142288149A0084E257 /* MaximizeSumOfArrayAfterKNegations.swift */,
 				BAEF0318228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift */,
@@ -727,6 +730,7 @@
 				BA2045F2227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift in Sources */,
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
+				BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */,
 				BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */,
 				BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */,
 				BA15F5252270AF58008B5516 /* LengthOfLastWord.swift in Sources */,

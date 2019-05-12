@@ -196,4 +196,5 @@ import Foundation
 //LongestWordInDictionarySolution.init().test()
 //PositionsOfLargeGroupsSolution.init().test()
 //RectangleOverlapSolution.init().test()
-ValidPerfectSquareSolution.init().test()
+//ValidPerfectSquareSolution.init().test()
+IntersectionOfTwoArraysIISolution.init().test()
