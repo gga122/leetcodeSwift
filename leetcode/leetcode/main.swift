@@ -208,4 +208,5 @@ import Foundation
 //PerfectNumberSolution.init().test()
 //WordPatternSolution.init().test()
 //LargestNumberAtLeastTwiceOfOthersSolution.init().test()
-FirstUniqueCharacterInAStringSolution.init().test()
+//FirstUniqueCharacterInAStringSolution.init().test()
+PowerfulIntegersSolution.init().test()
