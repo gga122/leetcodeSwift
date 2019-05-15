@@ -211,4 +211,5 @@ import Foundation
 //FirstUniqueCharacterInAStringSolution.init().test()
 //PowerfulIntegersSolution.init().test()
 //FindAllAnagramsInAStringSolution.init().test()
-LicenseKeyFormattingSolution.init().test()
+//LicenseKeyFormattingSolution.init().test()
+ValidBoomerangSolution.init().test()
