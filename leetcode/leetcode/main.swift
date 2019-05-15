@@ -210,4 +210,5 @@ import Foundation
 //LargestNumberAtLeastTwiceOfOthersSolution.init().test()
 //FirstUniqueCharacterInAStringSolution.init().test()
 //PowerfulIntegersSolution.init().test()
-FindAllAnagramsInAStringSolution.init().test()
+//FindAllAnagramsInAStringSolution.init().test()
+LicenseKeyFormattingSolution.init().test()

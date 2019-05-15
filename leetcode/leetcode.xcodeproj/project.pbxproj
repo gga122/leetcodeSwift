@@ -116,6 +116,7 @@
 		BA7FE809228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */; };
 		BA7FE80B228C1164009B8B23 /* PowerfulIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE80A228C1164009B8B23 /* PowerfulIntegers.swift */; };
 		BA7FE80D228C3498009B8B23 /* FindAllAnagramsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE80C228C3498009B8B23 /* FindAllAnagramsInAString.swift */; };
+		BA7FE80F228C4458009B8B23 /* LicenseKeyFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -337,6 +338,7 @@
 		BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		BA7FE80A228C1164009B8B23 /* PowerfulIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerfulIntegers.swift; sourceTree = "<group>"; };
 		BA7FE80C228C3498009B8B23 /* FindAllAnagramsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsInAString.swift; sourceTree = "<group>"; };
+		BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicenseKeyFormatting.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -467,6 +469,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BA7FE80A228C1164009B8B23 /* PowerfulIntegers.swift */,
+				BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */,
 				BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */,
 				BA7FE804228C0B56009B8B23 /* WordPattern.swift */,
 				BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */,
@@ -861,6 +864,7 @@
 				BA20A5CD226392B700CBD9D4 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */,
 				BA15F54F2270D890008B5516 /* MinimumDepthOfBinaryTree.swift in Sources */,
+				BA7FE80F228C4458009B8B23 /* LicenseKeyFormatting.swift in Sources */,
 				BAA3E8E92278A68B003A9F4B /* ReverseWordsInAStringIII.swift in Sources */,
 				BA2045F8227C163B009D184A /* DivisorGame.swift in Sources */,
 				BA3ACE81226C4F4E0065FA51 /* BinaryPrefixDivisibleBy5.swift in Sources */,
