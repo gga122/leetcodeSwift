@@ -209,4 +209,5 @@ import Foundation
 //WordPatternSolution.init().test()
 //LargestNumberAtLeastTwiceOfOthersSolution.init().test()
 //FirstUniqueCharacterInAStringSolution.init().test()
-PowerfulIntegersSolution.init().test()
+//PowerfulIntegersSolution.init().test()
+FindAllAnagramsInAStringSolution.init().test()
