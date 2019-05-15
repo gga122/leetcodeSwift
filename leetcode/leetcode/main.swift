@@ -207,4 +207,5 @@ import Foundation
 //SumOfSquareNumbersSolution.init().test()
 //PerfectNumberSolution.init().test()
 //WordPatternSolution.init().test()
-LargestNumberAtLeastTwiceOfOthersSolution.init().test()
+//LargestNumberAtLeastTwiceOfOthersSolution.init().test()
+FirstUniqueCharacterInAStringSolution.init().test()

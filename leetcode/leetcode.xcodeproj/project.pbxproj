@@ -113,6 +113,7 @@
 		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
 		BA7FE805228C0B56009B8B23 /* WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE804228C0B56009B8B23 /* WordPattern.swift */; };
 		BA7FE807228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */; };
+		BA7FE809228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -331,6 +332,7 @@
 		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
 		BA7FE804228C0B56009B8B23 /* WordPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPattern.swift; sourceTree = "<group>"; };
 		BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestNumberAtLeastTwiceOfOthers.swift; sourceTree = "<group>"; };
+		BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -462,6 +464,7 @@
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */,
 				BA7FE804228C0B56009B8B23 /* WordPattern.swift */,
+				BA7FE808228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift */,
 				BADDD2C022870AF3009172F1 /* BinaryWatch.swift */,
 				BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */,
 				BAEF032C22886ECD0084E257 /* LongestHarmoniousSubsequence.swift */,
@@ -804,6 +807,7 @@
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,
 				BA20461E227DFAE9009D184A /* LetterCasePermutation.swift in Sources */,
 				BAA3E8A32274411B003A9F4B /* ContainsDuplicate.swift in Sources */,
+				BA7FE809228C0FCE009B8B23 /* FirstUniqueCharacterInAString.swift in Sources */,
 				BA204607227C8F2E009D184A /* Leaf-SimilarTrees.swift in Sources */,
 				BADDD2D522874F4B009172F1 /* MinimumIndexSumOfTwoLists.swift in Sources */,
 				BADDD2BF228708EA009172F1 /* MonotonicArray.swift in Sources */,
