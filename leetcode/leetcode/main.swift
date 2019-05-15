@@ -212,4 +212,5 @@ import Foundation
 //PowerfulIntegersSolution.init().test()
 //FindAllAnagramsInAStringSolution.init().test()
 //LicenseKeyFormattingSolution.init().test()
-ValidBoomerangSolution.init().test()
+//ValidBoomerangSolution.init().test()
+Dota2SenateSolution.init().test()
