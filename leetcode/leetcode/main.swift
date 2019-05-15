@@ -205,4 +205,5 @@ import Foundation
 //RepeatedSubstringPatternSolution.init().test()
 //PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()
 //SumOfSquareNumbersSolution.init().test()
-PerfectNumberSolution.init().test()
+//PerfectNumberSolution.init().test()
+WordPatternSolution.init().test()
