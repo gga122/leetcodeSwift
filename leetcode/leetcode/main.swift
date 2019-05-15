@@ -206,4 +206,5 @@ import Foundation
 //PairsOfSongsWithTotalDurationsDivisibleBy60Solution.init().test()
 //SumOfSquareNumbersSolution.init().test()
 //PerfectNumberSolution.init().test()
-WordPatternSolution.init().test()
+//WordPatternSolution.init().test()
+LargestNumberAtLeastTwiceOfOthersSolution.init().test()
