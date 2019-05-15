@@ -215,4 +215,5 @@ import Foundation
 //ValidBoomerangSolution.init().test()
 //Dota2SenateSolution.init().test()
 //MedianOfTwoSortedArraysSolution.init().test()
-LongestPalindromicSubstringSolution.init().test()
+//LongestPalindromicSubstringSolution.init().test()
+RevealCardsInIncreasingOrderSolution.init().test()
