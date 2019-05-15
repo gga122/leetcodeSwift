@@ -119,6 +119,8 @@
 		BA7FE80F228C4458009B8B23 /* LicenseKeyFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */; };
 		BA7FE811228C49DD009B8B23 /* ValidBoomerang.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE810228C49DD009B8B23 /* ValidBoomerang.swift */; };
 		BA7FE813228C4B24009B8B23 /* Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE812228C4B24009B8B23 /* Dota2Senate.swift */; };
+		BA7FE815228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */; };
+		BA7FE817228C6152009B8B23 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -343,6 +345,8 @@
 		BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicenseKeyFormatting.swift; sourceTree = "<group>"; };
 		BA7FE810228C49DD009B8B23 /* ValidBoomerang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidBoomerang.swift; sourceTree = "<group>"; };
 		BA7FE812228C4B24009B8B23 /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
+		BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
+		BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -473,7 +477,9 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BA7FE80A228C1164009B8B23 /* PowerfulIntegers.swift */,
+				BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */,
 				BA7FE812228C4B24009B8B23 /* Dota2Senate.swift */,
+				BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */,
 				BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */,
 				BA7FE810228C49DD009B8B23 /* ValidBoomerang.swift */,
 				BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */,
@@ -835,6 +841,7 @@
 				BAA3E8AD227467A2003A9F4B /* ContainsDuplicateII.swift in Sources */,
 				BA204602227C40D7009D184A /* DesignHashSet.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
+				BA7FE817228C6152009B8B23 /* LongestPalindromicSubstring.swift in Sources */,
 				BAEF0333228880F60084E257 /* RepeatedSubstringPattern.swift in Sources */,
 				BAEF03392288991D0084E257 /* PerfectNumber.swift in Sources */,
 				BAA3E8C1227607A0003A9F4B /* FlippingAnImage.swift in Sources */,
@@ -861,6 +868,7 @@
 				BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */,
 				BA20464A22835180009D184A /* MinimumAbsoluteDifferenceInBST.swift in Sources */,
 				BADDD2CD228730D3009172F1 /* DegreeOfAnArray.swift in Sources */,
+				BA7FE815228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift in Sources */,
 				BA20464022832B71009D184A /* ComplementOfBase10Integer.swift in Sources */,
 				BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */,
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,

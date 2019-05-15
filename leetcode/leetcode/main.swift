@@ -213,4 +213,6 @@ import Foundation
 //FindAllAnagramsInAStringSolution.init().test()
 //LicenseKeyFormattingSolution.init().test()
 //ValidBoomerangSolution.init().test()
-Dota2SenateSolution.init().test()
+//Dota2SenateSolution.init().test()
+//MedianOfTwoSortedArraysSolution.init().test()
+LongestPalindromicSubstringSolution.init().test()
