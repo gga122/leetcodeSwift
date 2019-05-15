@@ -122,6 +122,7 @@
 		BA7FE815228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */; };
 		BA7FE817228C6152009B8B23 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */; };
 		BA7FE819228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE818228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift */; };
+		BA7FE81B228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -349,6 +350,7 @@
 		BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
 		BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
 		BA7FE818228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RevealCardsInIncreasingOrder.swift; sourceTree = "<group>"; };
+		BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxIncreaseToKeepCitySkyline.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -483,6 +485,7 @@
 				BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */,
 				BA7FE812228C4B24009B8B23 /* Dota2Senate.swift */,
 				BA7FE814228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift */,
+				BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */,
 				BA7FE80E228C4458009B8B23 /* LicenseKeyFormatting.swift */,
 				BA7FE810228C49DD009B8B23 /* ValidBoomerang.swift */,
 				BA7FE806228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift */,
@@ -904,6 +907,7 @@
 				BA20460B227C9BAB009D184A /* FindTheDifference.swift in Sources */,
 				BA2046342280A38D009D184A /* NumberOfBoomerangs.swift in Sources */,
 				BADDD2B922870318009172F1 /* RansomNote.swift in Sources */,
+				BA7FE81B228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift in Sources */,
 				BAA3E8C922775035003A9F4B /* MergeTwoBinaryTrees.swift in Sources */,
 				BA2EDDA32264CAAB00DDAAEF /* PlusOne.swift in Sources */,
 				BA20462E228091BF009D184A /* ConvertBSTToGreaterTree.swift in Sources */,

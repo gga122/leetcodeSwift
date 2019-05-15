@@ -23,7 +23,7 @@ class RevealCardsInIncreasingOrderSolution {
             let last = ret.removeLast()
             /* Put the last card to the top  */
             ret.insert(last, at: 0)
-            /* Put the sorted card */
+            /* Put the largest card in sorted cards */
             ret.insert(sortedDeck[i], at: 0)
             i -= 1
         }

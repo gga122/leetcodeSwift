@@ -216,4 +216,5 @@ import Foundation
 //Dota2SenateSolution.init().test()
 //MedianOfTwoSortedArraysSolution.init().test()
 //LongestPalindromicSubstringSolution.init().test()
-RevealCardsInIncreasingOrderSolution.init().test()
+//RevealCardsInIncreasingOrderSolution.init().test()
+MaxIncreaseToKeepCitySkylineSolution.init().test()
