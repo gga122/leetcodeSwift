@@ -218,4 +218,5 @@ import Foundation
 //LongestPalindromicSubstringSolution.init().test()
 //RevealCardsInIncreasingOrderSolution.init().test()
 //MaxIncreaseToKeepCitySkylineSolution.init().test()
-CountingBitsSolution.init().test()
+//CountingBitsSolution.init().test()
+BinarySearchTreeToGreaterSumTreeSolution.init().test()
