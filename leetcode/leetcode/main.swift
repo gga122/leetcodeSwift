@@ -217,4 +217,5 @@ import Foundation
 //MedianOfTwoSortedArraysSolution.init().test()
 //LongestPalindromicSubstringSolution.init().test()
 //RevealCardsInIncreasingOrderSolution.init().test()
-MaxIncreaseToKeepCitySkylineSolution.init().test()
+//MaxIncreaseToKeepCitySkylineSolution.init().test()
+CountingBitsSolution.init().test()
