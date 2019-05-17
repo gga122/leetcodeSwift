@@ -219,4 +219,5 @@ import Foundation
 //RevealCardsInIncreasingOrderSolution.init().test()
 //MaxIncreaseToKeepCitySkylineSolution.init().test()
 //CountingBitsSolution.init().test()
-BinarySearchTreeToGreaterSumTreeSolution.init().test()
+//BinarySearchTreeToGreaterSumTreeSolution.init().test()
+SubsetsSolution.init().test()
