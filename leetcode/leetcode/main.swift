@@ -220,4 +220,5 @@ import Foundation
 //MaxIncreaseToKeepCitySkylineSolution.init().test()
 //CountingBitsSolution.init().test()
 //BinarySearchTreeToGreaterSumTreeSolution.init().test()
-SubsetsSolution.init().test()
+//SubsetsSolution.init().test()
+GenerateParenthesesSolution.init().test()
