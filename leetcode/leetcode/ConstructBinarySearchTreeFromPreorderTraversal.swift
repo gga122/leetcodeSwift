@@ -52,6 +52,6 @@ class ConstructBinarySearchTreeFromPreorderTraversalSolution {
     }
     
     func test() -> Void {
-        print(bstFromPreorder([8,5,1,7,10,12]))
+        print(bstFromPreorder([8,5,1,7,10,12])!)
     }
 }
