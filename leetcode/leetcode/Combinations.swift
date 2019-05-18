@@ -25,21 +25,21 @@ class CombinationsSolution {
                 return nil
             }
         }))
-        backTracking(&ret, remains, [], k)
+        
+        backTracking(&ret, remains, 0, [], k)
         
         return ret
     }
     
-    func backTracking(_ result: inout [[Int]], _ remains: [Int], _ nums: [Int], _ max: Int) -> Void {
+    func backTracking(_ result: inout [[Int]], _ remains: [Int], _ index: Int, _ nums: [Int], _ max: Int) -> Void {
         if nums.count == max {
             result.append(nums)
         } else {
-            for i in 0..<remains.count {
+            for i in index..<remains.count {
                 let v = remains[i]
                 var nums = nums
                 nums.append(v)
-                let newRemain = Array(remains[(i+1)..<remains.count])
-                backTracking(&result, newRemain, nums, max)
+                backTracking(&result, remains, i + 1, nums, max)
             }
         }
     }
