@@ -231,4 +231,5 @@ import Foundation
 //CombinationSumIIISolution.init().test()
 //ScoreAfterFlippingMatrixSolution.init().test()
 //AllPossibleFullBinaryTreesSolution.init().test()
-FindBottomLeftTreeValueSolution.init().test()
+//FindBottomLeftTreeValueSolution.init().test()
+BinaryTreePruningSolution.init().test()
