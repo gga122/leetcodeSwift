@@ -86,6 +86,8 @@
 		BA2D2605228F20C500F18A7D /* GenerateParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D2604228F20C500F18A7D /* GenerateParentheses.swift */; };
 		BA2D2607228F2F6200F18A7D /* Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D2606228F2F6200F18A7D /* Permutations.swift */; };
 		BA2D26092290318200F18A7D /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D26082290318200F18A7D /* Combinations.swift */; };
+		BA2D260B229037CE00F18A7D /* GrayCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D260A229037CE00F18A7D /* GrayCode.swift */; };
+		BA2D260D22903DFF00F18A7D /* SpiralMatrixII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D260C22903DFF00F18A7D /* SpiralMatrixII.swift */; };
 		BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */; };
 		BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */; };
 		BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */; };
@@ -321,6 +323,8 @@
 		BA2D2604228F20C500F18A7D /* GenerateParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateParentheses.swift; sourceTree = "<group>"; };
 		BA2D2606228F2F6200F18A7D /* Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutations.swift; sourceTree = "<group>"; };
 		BA2D26082290318200F18A7D /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
+		BA2D260A229037CE00F18A7D /* GrayCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode.swift; sourceTree = "<group>"; };
+		BA2D260C22903DFF00F18A7D /* SpiralMatrixII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrixII.swift; sourceTree = "<group>"; };
 		BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
 		BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSumII-InputArrayIsSorted.swift"; sourceTree = "<group>"; };
 		BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroes.swift; sourceTree = "<group>"; };
@@ -495,10 +499,12 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BA7FE80A228C1164009B8B23 /* PowerfulIntegers.swift */,
+				BA2D260C22903DFF00F18A7D /* SpiralMatrixII.swift */,
 				BABCB848228DC2980075181A /* MaximumBinaryTree.swift */,
 				BA2D2606228F2F6200F18A7D /* Permutations.swift */,
 				BABCB84A228DC6720075181A /* Subsets.swift */,
 				BA2D2604228F20C500F18A7D /* GenerateParentheses.swift */,
+				BA2D260A229037CE00F18A7D /* GrayCode.swift */,
 				BA2D26082290318200F18A7D /* Combinations.swift */,
 				BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */,
 				BABCB846228DC01D0075181A /* BinarySearchTreeToGreaterSumTree.swift */,
@@ -810,6 +816,7 @@
 				BA20A5C72263806200CBD9D4 /* ReverseInteger.swift in Sources */,
 				BA20A5D32263B57B00CBD9D4 /* SqrtX.swift in Sources */,
 				BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */,
+				BA2D260D22903DFF00F18A7D /* SpiralMatrixII.swift in Sources */,
 				BA3ACE9F226CDF9F0065FA51 /* BinaryTreePaths.swift in Sources */,
 				BA3ACE8D226CA65D0065FA51 /* BackspaceStringCompare.swift in Sources */,
 				BA2045F2227B546F009D184A /* PrimeNumberOfSetBitsInBinaryRepresentation.swift in Sources */,
@@ -942,6 +949,7 @@
 				BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */,
 				BA20464222832FF4009D184A /* SurfaceAreaOf3DShapes.swift in Sources */,
 				BA20465022849749009D184A /* ReorderLogFiles.swift in Sources */,
+				BA2D260B229037CE00F18A7D /* GrayCode.swift in Sources */,
 				BAEF031722881E400084E257 /* FindTheTownJudge.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,

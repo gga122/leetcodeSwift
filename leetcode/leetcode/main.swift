@@ -223,4 +223,6 @@ import Foundation
 //SubsetsSolution.init().test()
 //GenerateParenthesesSolution.init().test()
 //PermutationsSolution.init().test()
-CombinationsSolution.init().test()
+//CombinationsSolution.init().test()
+//GrayCodeSolution.init().test()
+SpiralMatrixIISolution.init().test()
