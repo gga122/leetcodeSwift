@@ -232,4 +232,5 @@ import Foundation
 //ScoreAfterFlippingMatrixSolution.init().test()
 //AllPossibleFullBinaryTreesSolution.init().test()
 //FindBottomLeftTreeValueSolution.init().test()
-BinaryTreePruningSolution.init().test()
+//BinaryTreePruningSolution.init().test()
+AllPathsFromSourceToTargetSolution.init().test()
