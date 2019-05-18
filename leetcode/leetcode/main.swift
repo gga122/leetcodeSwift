@@ -225,4 +225,5 @@ import Foundation
 //PermutationsSolution.init().test()
 //CombinationsSolution.init().test()
 //GrayCodeSolution.init().test()
-SpiralMatrixIISolution.init().test()
+//SpiralMatrixIISolution.init().test()
+ConstructBinarySearchTreeFromPreorderTraversalSolution.init().test()
