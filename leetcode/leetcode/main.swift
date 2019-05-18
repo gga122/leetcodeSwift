@@ -235,4 +235,5 @@ import Foundation
 //BinaryTreePruningSolution.init().test()
 //AllPathsFromSourceToTargetSolution.init().test()
 //DifferentWaysToAddParenthesesSolution.init().test()
-BinaryTreeInorderTraversalSolution.init().test()
+//BinaryTreeInorderTraversalSolution.init().test()
+BinaryTreePreorderTraversalSolution.init().test()
