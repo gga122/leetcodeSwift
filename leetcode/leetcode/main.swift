@@ -239,4 +239,5 @@ import Foundation
 //BinaryTreePreorderTraversalSolution.init().test()
 //MinimumAddToMakeParenthesesValidSolution.init().test()
 //BattleshipsInABoardSolution.init().test()
-FindAndReplacePatternSolution.init().test()
+//FindAndReplacePatternSolution.init().test()
+ConvertSortedListToBinarySearchTreeSolution.init().test()
