@@ -221,4 +221,5 @@ import Foundation
 //CountingBitsSolution.init().test()
 //BinarySearchTreeToGreaterSumTreeSolution.init().test()
 //SubsetsSolution.init().test()
-GenerateParenthesesSolution.init().test()
+//GenerateParenthesesSolution.init().test()
+PermutationsSolution.init().test()
