@@ -228,4 +228,5 @@ import Foundation
 //SpiralMatrixIISolution.init().test()
 //ConstructBinarySearchTreeFromPreorderTraversalSolution.init().test()
 //CombinationSumSolution.init().test()
-CombinationSumIIISolution.init().test()
+//CombinationSumIIISolution.init().test()
+ScoreAfterFlippingMatrixSolution.init().test()
