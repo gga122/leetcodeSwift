@@ -236,4 +236,5 @@ import Foundation
 //AllPathsFromSourceToTargetSolution.init().test()
 //DifferentWaysToAddParenthesesSolution.init().test()
 //BinaryTreeInorderTraversalSolution.init().test()
-BinaryTreePreorderTraversalSolution.init().test()
+//BinaryTreePreorderTraversalSolution.init().test()
+MinimumAddToMakeParenthesesValidSolution.init().test()
