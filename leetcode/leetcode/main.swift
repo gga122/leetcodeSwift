@@ -233,4 +233,5 @@ import Foundation
 //AllPossibleFullBinaryTreesSolution.init().test()
 //FindBottomLeftTreeValueSolution.init().test()
 //BinaryTreePruningSolution.init().test()
-AllPathsFromSourceToTargetSolution.init().test()
+//AllPathsFromSourceToTargetSolution.init().test()
+DifferentWaysToAddParenthesesSolution.init().test()
