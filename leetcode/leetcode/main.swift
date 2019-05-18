@@ -240,4 +240,5 @@ import Foundation
 //MinimumAddToMakeParenthesesValidSolution.init().test()
 //BattleshipsInABoardSolution.init().test()
 //FindAndReplacePatternSolution.init().test()
-ConvertSortedListToBinarySearchTreeSolution.init().test()
+//ConvertSortedListToBinarySearchTreeSolution.init().test()
+PartitionLabelsSolution.init().test()
