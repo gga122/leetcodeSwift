@@ -243,4 +243,5 @@ import Foundation
 //ConvertSortedListToBinarySearchTreeSolution.init().test()
 //PartitionLabelsSolution.init().test()
 //KthSmallestElementInABSTSolution.init().test()
-SingleNumberIISolution.init().test()
+//SingleNumberIISolution.init().test()
+SingleNumberIIISolution.init().test()
