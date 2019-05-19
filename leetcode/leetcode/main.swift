@@ -244,4 +244,5 @@ import Foundation
 //PartitionLabelsSolution.init().test()
 //KthSmallestElementInABSTSolution.init().test()
 //SingleNumberIISolution.init().test()
-SingleNumberIIISolution.init().test()
+//SingleNumberIIISolution.init().test()
+ComplexNumberMultiplicationSolution.init().test()
