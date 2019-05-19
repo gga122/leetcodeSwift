@@ -28,6 +28,7 @@ class PartitionLabelsSolution {
             var startIndex = i + 1
             while startIndex < endIndex {
                 let c = chars[startIndex]
+                /* expand end index when find new char range */
                 if maps[c]! > endIndex {
                     endIndex = maps[c]!
                 }

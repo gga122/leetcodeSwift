@@ -104,6 +104,7 @@
 		BA2D26292290826800F18A7D /* FindAndReplacePattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D26282290826800F18A7D /* FindAndReplacePattern.swift */; };
 		BA2D262B229085B500F18A7D /* ConvertSortedListToBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D262A229085B500F18A7D /* ConvertSortedListToBinarySearchTree.swift */; };
 		BA2D262D229089A700F18A7D /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D262C229089A700F18A7D /* PartitionLabels.swift */; };
+		BA2D262F2290910000F18A7D /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D262E2290910000F18A7D /* KthSmallestElementInABST.swift */; };
 		BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */; };
 		BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */; };
 		BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */; };
@@ -357,6 +358,7 @@
 		BA2D26282290826800F18A7D /* FindAndReplacePattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAndReplacePattern.swift; sourceTree = "<group>"; };
 		BA2D262A229085B500F18A7D /* ConvertSortedListToBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSortedListToBinarySearchTree.swift; sourceTree = "<group>"; };
 		BA2D262C229089A700F18A7D /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
+		BA2D262E2290910000F18A7D /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
 		BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSumII-InputArrayIsSorted.swift"; sourceTree = "<group>"; };
 		BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroes.swift; sourceTree = "<group>"; };
@@ -535,6 +537,7 @@
 				BA2D262622907E9400F18A7D /* BattleshipsInABoard.swift */,
 				BA2D261C2290680100F18A7D /* AllPathsFromSourceToTarget.swift */,
 				BA2D262C229089A700F18A7D /* PartitionLabels.swift */,
+				BA2D262E2290910000F18A7D /* KthSmallestElementInABST.swift */,
 				BA2D262A229085B500F18A7D /* ConvertSortedListToBinarySearchTree.swift */,
 				BA2D262422907D7800F18A7D /* MinimumAddToMakeParenthesesValid.swift */,
 				BA2D260E2290436E00F18A7D /* ConstructBinarySearchTreeFromPreorderTraversal.swift */,
@@ -1019,6 +1022,7 @@
 				BABCB847228DC01D0075181A /* BinarySearchTreeToGreaterSumTree.swift in Sources */,
 				BA2045FE227C337B009D184A /* ReshapeTheMatrix.swift in Sources */,
 				BA20A5C12263516300CBD9D4 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
+				BA2D262F2290910000F18A7D /* KthSmallestElementInABST.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */,
 				BA2D260F2290436E00F18A7D /* ConstructBinarySearchTreeFromPreorderTraversal.swift in Sources */,

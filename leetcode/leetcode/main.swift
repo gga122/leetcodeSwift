@@ -241,4 +241,5 @@ import Foundation
 //BattleshipsInABoardSolution.init().test()
 //FindAndReplacePatternSolution.init().test()
 //ConvertSortedListToBinarySearchTreeSolution.init().test()
-PartitionLabelsSolution.init().test()
+//PartitionLabelsSolution.init().test()
+KthSmallestElementInABSTSolution.init().test()
