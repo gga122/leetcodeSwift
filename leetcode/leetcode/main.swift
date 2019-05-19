@@ -247,4 +247,5 @@ import Foundation
 //SingleNumberIIISolution.init().test()
 //ComplexNumberMultiplicationSolution.init().test()
 //SingleElementInASortedArraySolution.init().test()
-InsertIntoABinarySearchTreeSolution.init().test()
+//InsertIntoABinarySearchTreeSolution.init().test()
+DistributeCoinsInBinaryTreeSolution.init().test()
