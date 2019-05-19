@@ -242,4 +242,5 @@ import Foundation
 //FindAndReplacePatternSolution.init().test()
 //ConvertSortedListToBinarySearchTreeSolution.init().test()
 //PartitionLabelsSolution.init().test()
-KthSmallestElementInABSTSolution.init().test()
+//KthSmallestElementInABSTSolution.init().test()
+SingleNumberIISolution.init().test()
