@@ -251,4 +251,5 @@ import Foundation
 //DistributeCoinsInBinaryTreeSolution.init().test()
 //QueueReconstructionByHeightSolution.init().test()
 //PalindromePartitioningSolution.init().test()
-K_thSmallestInLexicographicalOrderSolution.init().test()
+//K_thSmallestInLexicographicalOrderSolution.init().test()
+RestoreIPAddressesSolution.init().test()
