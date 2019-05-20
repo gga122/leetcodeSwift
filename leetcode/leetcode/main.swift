@@ -248,4 +248,5 @@ import Foundation
 //ComplexNumberMultiplicationSolution.init().test()
 //SingleElementInASortedArraySolution.init().test()
 //InsertIntoABinarySearchTreeSolution.init().test()
-DistributeCoinsInBinaryTreeSolution.init().test()
+//DistributeCoinsInBinaryTreeSolution.init().test()
+QueueReconstructionByHeightSolution.init().test()
