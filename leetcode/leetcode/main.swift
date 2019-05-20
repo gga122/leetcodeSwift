@@ -249,4 +249,5 @@ import Foundation
 //SingleElementInASortedArraySolution.init().test()
 //InsertIntoABinarySearchTreeSolution.init().test()
 //DistributeCoinsInBinaryTreeSolution.init().test()
-QueueReconstructionByHeightSolution.init().test()
+//QueueReconstructionByHeightSolution.init().test()
+PalindromePartitioningSolution.init().test()
