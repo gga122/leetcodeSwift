@@ -253,4 +253,5 @@ import Foundation
 //PalindromePartitioningSolution.init().test()
 //K_thSmallestInLexicographicalOrderSolution.init().test()
 //RestoreIPAddressesSolution.init().test()
-MaxAreaOfIslandSolution.init().test()
+//MaxAreaOfIslandSolution.init().test()
+SearchInRotatedSortedArraySolution.init().test()
