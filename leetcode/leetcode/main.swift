@@ -258,4 +258,5 @@ import Foundation
 //ContainerWithMostWaterSolution.init().test()
 //ThreeSumSolution.init().test()
 //MergeIntervalsSolution.init().test()
-NumberOfIslandsSolution.init().test()
+//NumberOfIslandsSolution.init().test()
+UTF_8ValidationSolution.init().test()
