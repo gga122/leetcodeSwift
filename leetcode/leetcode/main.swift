@@ -255,4 +255,5 @@ import Foundation
 //RestoreIPAddressesSolution.init().test()
 //MaxAreaOfIslandSolution.init().test()
 //SearchInRotatedSortedArraySolution.init().test()
-ContainerWithMostWaterSolution.init().test()
+//ContainerWithMostWaterSolution.init().test()
+ThreeSumSolution.init().test()
