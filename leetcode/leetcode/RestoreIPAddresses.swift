@@ -27,12 +27,15 @@ class RestoreIPAddressesSolution {
                 result.append(v)
             }
         } else {
+            /* Skip useless back tracking */
             if tmp.count == 4 {
                 return
             }
             
             var i = index
+            /* For each component, the length is [1, 3] and index is [0, 2]  */
             while i < chars.count && i <= index + 2 {
+                /* We MUST skip component that start with 0 but component length greater than 1, like 00, 01, 001, 010., etc */
                 if i - index != 0 && chars[index] == "0" {
                     break
                 }

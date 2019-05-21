@@ -252,4 +252,5 @@ import Foundation
 //QueueReconstructionByHeightSolution.init().test()
 //PalindromePartitioningSolution.init().test()
 //K_thSmallestInLexicographicalOrderSolution.init().test()
-RestoreIPAddressesSolution.init().test()
+//RestoreIPAddressesSolution.init().test()
+MaxAreaOfIslandSolution.init().test()
