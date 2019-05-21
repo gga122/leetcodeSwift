@@ -257,4 +257,5 @@ import Foundation
 //SearchInRotatedSortedArraySolution.init().test()
 //ContainerWithMostWaterSolution.init().test()
 //ThreeSumSolution.init().test()
-MergeIntervalsSolution.init().test()
+//MergeIntervalsSolution.init().test()
+NumberOfIslandsSolution.init().test()
