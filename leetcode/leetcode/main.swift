@@ -256,4 +256,5 @@ import Foundation
 //MaxAreaOfIslandSolution.init().test()
 //SearchInRotatedSortedArraySolution.init().test()
 //ContainerWithMostWaterSolution.init().test()
-ThreeSumSolution.init().test()
+//ThreeSumSolution.init().test()
+MergeIntervalsSolution.init().test()
