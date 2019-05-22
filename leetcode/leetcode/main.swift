@@ -260,4 +260,5 @@ import Foundation
 //MergeIntervalsSolution.init().test()
 //NumberOfIslandsSolution.init().test()
 //UTF_8ValidationSolution.init().test()
-SimplifyPathSolution.init().test()
+//SimplifyPathSolution.init().test()
+StringToIntegerSolution.init().test()
