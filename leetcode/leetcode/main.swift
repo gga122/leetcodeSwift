@@ -259,4 +259,5 @@ import Foundation
 //ThreeSumSolution.init().test()
 //MergeIntervalsSolution.init().test()
 //NumberOfIslandsSolution.init().test()
-UTF_8ValidationSolution.init().test()
+//UTF_8ValidationSolution.init().test()
+SimplifyPathSolution.init().test()
