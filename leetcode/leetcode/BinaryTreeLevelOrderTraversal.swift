@@ -21,6 +21,21 @@ class BinaryTreeLevelOrderTraversalSolution {
         }
     }
     
+    func levelOrder(_ root: TreeNode?) -> [[Int]] {
+        guard let root = root else { return [] }
+        
+        var values = [[Int]]()
+        var nodes = [root]
+        while !nodes.isEmpty {
+            let r = getNodes(nodes)
+            values.append(r.v)
+            
+            nodes = r.nodes
+        }
+        
+        return values
+    }
+    
     func levelOrderBottom(_ root: TreeNode?) -> [[Int]] {
         guard let root = root else { return [] }
         
