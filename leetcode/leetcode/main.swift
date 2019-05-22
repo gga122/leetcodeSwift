@@ -263,4 +263,5 @@ import Foundation
 //SimplifyPathSolution.init().test()
 //StringToIntegerSolution.init().test()
 //BinaryTreeRightSideViewSolution.init().test()
-CoinChangeSolution.init().test()
+//CoinChangeSolution.init().test()
+SpiralMatrixSolution.init().test()
