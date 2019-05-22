@@ -262,4 +262,5 @@ import Foundation
 //UTF_8ValidationSolution.init().test()
 //SimplifyPathSolution.init().test()
 //StringToIntegerSolution.init().test()
-BinaryTreeRightSideViewSolution.init().test()
+//BinaryTreeRightSideViewSolution.init().test()
+CoinChangeSolution.init().test()
