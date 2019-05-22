@@ -10,31 +10,74 @@ import Foundation
 
 class KthLargestElementInAnArraySolution {
     func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
-        if nums.count == 1 {
-            return nums[0]
+        guard nums.count >= k && k >= 1 else {
+            return 0
         }
         
-        let base = nums[0]
-        var left = [Int]()
-        var mid = [Int]()
-        var right = [Int]()
-        for num in nums {
-            if num < base {
-                left.append(num)
-            } else if num > base {
-                right.append(num)
+        var newNums = nums
+        func quickSort(leftIndex: Int, rightIndex: Int) {
+            let targetIndex = k - 1
+            guard leftIndex < rightIndex && targetIndex >= leftIndex && targetIndex <= rightIndex else {
+                return
+            }
+            let middleIndex = (leftIndex + rightIndex) / 2
+            let leftSelection = newNums[leftIndex]
+            let rightSelection = newNums[rightIndex]
+            let middleSelection = newNums[middleIndex]
+            var pivot: Int
+            if leftSelection <= rightSelection {
+                if leftSelection <= middleSelection {
+                    if middleSelection <= rightSelection {
+                        pivot = middleSelection
+                        newNums[leftIndex] = middleSelection
+                        newNums[middleIndex] = leftSelection
+                    } else {
+                        pivot = rightSelection
+                        newNums[leftIndex] = rightSelection
+                        newNums[rightIndex] = leftSelection
+                    }
+                } else {
+                    pivot = leftSelection
+                }
             } else {
-                mid.append(num)
+                if leftSelection <= middleSelection {
+                    pivot = leftSelection
+                } else {
+                    if middleSelection <= rightSelection {
+                        pivot = rightSelection
+                        newNums[leftIndex] = rightSelection
+                        newNums[rightIndex] = leftSelection
+                    } else {
+                        pivot = middleSelection
+                        newNums[leftIndex] = middleSelection
+                        newNums[middleIndex] = leftSelection
+                    }
+                }
+            }
+            var i = leftIndex, j = rightIndex
+            while i < j {
+                while i < j && pivot >= newNums[j] {
+                    j -= 1
+                }
+                if i < j {
+                    newNums[i] = newNums[j]
+                }
+                while i < j && pivot <= newNums[i] {
+                    i += 1
+                }
+                if i < j {
+                    newNums[j] = newNums[i]
+                }
+            }
+            newNums[i] = pivot
+            if i > targetIndex {
+                quickSort(leftIndex: leftIndex, rightIndex: i - 1)
+            } else if j < targetIndex {
+                quickSort(leftIndex: j + 1, rightIndex: rightIndex)
             }
         }
-        
-        if k <= right.count {
-            return findKthLargest(right, k)
-        } else if k > right.count && k <= right.count + mid.count {
-            return mid[0]
-        } else {
-            return findKthLargest(left, k - mid.count - right.count)
-        }
+        quickSort(leftIndex: 0, rightIndex: newNums.count - 1)
+        return newNums[k - 1]
     }
     
     func test() -> Void {
