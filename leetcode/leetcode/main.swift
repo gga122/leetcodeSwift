@@ -266,4 +266,5 @@ import Foundation
 //CoinChangeSolution.init().test()
 //SpiralMatrixSolution.init().test()
 //KthLargestElementInAnArraySolution.init().test()
-ValidateBinarySearchTreeSolution.init().test()
+//ValidateBinarySearchTreeSolution.init().test()
+RemoveNthNodeFromEndOfListSolution.init().test()
