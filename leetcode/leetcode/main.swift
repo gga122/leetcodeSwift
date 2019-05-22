@@ -261,4 +261,5 @@ import Foundation
 //NumberOfIslandsSolution.init().test()
 //UTF_8ValidationSolution.init().test()
 //SimplifyPathSolution.init().test()
-StringToIntegerSolution.init().test()
+//StringToIntegerSolution.init().test()
+BinaryTreeRightSideViewSolution.init().test()
