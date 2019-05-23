@@ -271,4 +271,5 @@ import Foundation
 //JumpGameSolution.init().test()
 //BinaryTreeZigzagLevelOrderTraversalSolution.init().test()
 //Pow_x_n_Solution.init().test()
-FriendCirclesSolution.init().test()
+//FriendCirclesSolution.init().test()
+SwapNodesInPairsSolution.init().test()
