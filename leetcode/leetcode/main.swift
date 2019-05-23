@@ -269,4 +269,5 @@ import Foundation
 //ValidateBinarySearchTreeSolution.init().test()
 //RemoveNthNodeFromEndOfListSolution.init().test()
 //JumpGameSolution.init().test()
-BinaryTreeZigzagLevelOrderTraversalSolution.init().test()
+//BinaryTreeZigzagLevelOrderTraversalSolution.init().test()
+Pow_x_n_Solution.init().test()
