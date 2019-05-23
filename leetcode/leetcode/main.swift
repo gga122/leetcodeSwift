@@ -274,4 +274,5 @@ import Foundation
 //FriendCirclesSolution.init().test()
 //SwapNodesInPairsSolution.init().test()
 //CombinationSumIISolution.init().test()
-RemoveDuplicatesFromSortedListIISolution.init().test()
+//RemoveDuplicatesFromSortedListIISolution.init().test()
+UniquePathsSolution.init().test()
