@@ -154,6 +154,7 @@
 		BA50A99B2295C89900141194 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A99A2295C89900141194 /* ValidateBinarySearchTree.swift */; };
 		BA50A99D2295CBBE00141194 /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A99C2295CBBE00141194 /* RemoveNthNodeFromEndOfList.swift */; };
 		BA50A99F2295CFBB00141194 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A99E2295CFBB00141194 /* JumpGame.swift */; };
+		BA50A9A12296E4D500141194 /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9A02296E4D500141194 /* BinaryTreeZigzagLevelOrderTraversal.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
 		BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724392263BEE200AC8930 /* PowerOfThree.swift */; };
 		BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243B2263C03500AC8930 /* ValidParentheses.swift */; };
@@ -434,6 +435,7 @@
 		BA50A99A2295C89900141194 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		BA50A99C2295CBBE00141194 /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
 		BA50A99E2295CFBB00141194 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		BA50A9A02296E4D500141194 /* BinaryTreeZigzagLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeZigzagLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		BA5724392263BEE200AC8930 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
 		BA57243B2263C03500AC8930 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
@@ -590,6 +592,7 @@
 				BA50A99C2295CBBE00141194 /* RemoveNthNodeFromEndOfList.swift */,
 				BA50A99E2295CFBB00141194 /* JumpGame.swift */,
 				BA50A9982295AD3600141194 /* KthLargestElementInAnArray.swift */,
+				BA50A9A02296E4D500141194 /* BinaryTreeZigzagLevelOrderTraversal.swift */,
 				BA50A98E22958C3300141194 /* StringToInteger(atoi).swift */,
 				BA2D263C229163E600F18A7D /* QueueReconstructionByHeight.swift */,
 				BA50A99A2295C89900141194 /* ValidateBinarySearchTree.swift */,
@@ -987,6 +990,7 @@
 				BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */,
 				BAEF030F2287F2F00084E257 /* RottingOranges.swift in Sources */,
 				BAA3E8AB22745DF3003A9F4B /* ImplementStackUsingQueues.swift in Sources */,
+				BA50A9A12296E4D500141194 /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */,
 				BA20A5BD2263394100CBD9D4 /* main.swift in Sources */,
 				BA2DE14022735BC100FD620A /* RotateArray.swift in Sources */,
 				BAEF031B228826160084E257 /* DiameterOfBinaryTree.swift in Sources */,

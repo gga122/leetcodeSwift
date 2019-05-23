@@ -268,4 +268,5 @@ import Foundation
 //KthLargestElementInAnArraySolution.init().test()
 //ValidateBinarySearchTreeSolution.init().test()
 //RemoveNthNodeFromEndOfListSolution.init().test()
-JumpGameSolution.init().test()
+//JumpGameSolution.init().test()
+BinaryTreeZigzagLevelOrderTraversalSolution.init().test()
