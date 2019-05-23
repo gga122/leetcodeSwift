@@ -270,4 +270,5 @@ import Foundation
 //RemoveNthNodeFromEndOfListSolution.init().test()
 //JumpGameSolution.init().test()
 //BinaryTreeZigzagLevelOrderTraversalSolution.init().test()
-Pow_x_n_Solution.init().test()
+//Pow_x_n_Solution.init().test()
+FriendCirclesSolution.init().test()
