@@ -267,4 +267,5 @@ import Foundation
 //SpiralMatrixSolution.init().test()
 //KthLargestElementInAnArraySolution.init().test()
 //ValidateBinarySearchTreeSolution.init().test()
-RemoveNthNodeFromEndOfListSolution.init().test()
+//RemoveNthNodeFromEndOfListSolution.init().test()
+JumpGameSolution.init().test()
