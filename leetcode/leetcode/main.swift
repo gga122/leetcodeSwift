@@ -276,4 +276,5 @@ import Foundation
 //CombinationSumIISolution.init().test()
 //RemoveDuplicatesFromSortedListIISolution.init().test()
 //UniquePathsSolution.init().test()
-SearchA2DMatrixSolution.init().test()
+//SearchA2DMatrixSolution.init().test()
+WordSearchSolution.init().test()
