@@ -279,4 +279,5 @@ import Foundation
 //SearchA2DMatrixSolution.init().test()
 //WordSearchSolution.init().test()
 //FlattenBinaryTreeToLinkedListSolution.init().test()
-SortListSolution.init().test()
+//SortListSolution.init().test()
+RotateImageSolution.init().test()
