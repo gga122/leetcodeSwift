@@ -275,4 +275,5 @@ import Foundation
 //SwapNodesInPairsSolution.init().test()
 //CombinationSumIISolution.init().test()
 //RemoveDuplicatesFromSortedListIISolution.init().test()
-UniquePathsSolution.init().test()
+//UniquePathsSolution.init().test()
+SearchA2DMatrixSolution.init().test()
