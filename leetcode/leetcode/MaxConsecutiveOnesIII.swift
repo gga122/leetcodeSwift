@@ -23,16 +23,20 @@ class MaxConsecutiveOnesIIISolution {
         var j = 0
         while i < A.count && j < A.count {
             let num = A[j]
+            /* If right is 1, just expand right */
             if num == 1 {
                 j += 1
             } else {
+                /* if current is 0, expand right as possible */
                 if remainZeroCount > 0 {
                     remainZeroCount -= 1
                     j += 1
                 } else {
+                        /* if zero count exhausted and left is 1, move left and narrow the slider window. */
                     if A[i] == 1 {
                         i += 1
                     } else {
+                        /* if zero count exhausted and left is 0, move left and right (the whole slider window), `[0....X],0` -> `0,[....X,0]` */
                         i += 1
                         j += 1
                     }
