@@ -31,6 +31,7 @@ class FlattenBinaryTreeToLinkedListSolution {
         flatten(root!.right)
         
         var root = root
+        /* backup the origin right node */
         let tmp = root!.right
         root!.right = root!.left
         root!.left = nil
