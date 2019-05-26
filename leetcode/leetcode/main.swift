@@ -277,4 +277,5 @@ import Foundation
 //RemoveDuplicatesFromSortedListIISolution.init().test()
 //UniquePathsSolution.init().test()
 //SearchA2DMatrixSolution.init().test()
-WordSearchSolution.init().test()
+//WordSearchSolution.init().test()
+FlattenBinaryTreeToLinkedListSolution.init().test()
