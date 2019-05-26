@@ -280,4 +280,5 @@ import Foundation
 //WordSearchSolution.init().test()
 //FlattenBinaryTreeToLinkedListSolution.init().test()
 //SortListSolution.init().test()
-RotateImageSolution.init().test()
+//RotateImageSolution.init().test()
+MaxConsecutiveOnesIIISolution.init().test()
