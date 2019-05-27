@@ -283,4 +283,5 @@ import Foundation
 //RotateImageSolution.init().test()
 //MaxConsecutiveOnesIIISolution.init().test()
 //ReorderListSolution.init().test()
-NumberOfIncreasingSubsequenceSolution.init().test()
+//NumberOfIncreasingSubsequenceSolution.init().test()
+DailyTemperaturesSolution.init().test()

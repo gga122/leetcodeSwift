@@ -169,6 +169,7 @@
 		BA50A9B9229AF10400141194 /* MaxConsecutiveOnesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9B8229AF10400141194 /* MaxConsecutiveOnesIII.swift */; };
 		BA50A9BB229B09AC00141194 /* ReorderList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9BA229B09AC00141194 /* ReorderList.swift */; };
 		BA50A9BD229B12F900141194 /* NumberOfIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9BC229B12F900141194 /* NumberOfIncreasingSubsequence.swift */; };
+		BA50A9BF229C20E300141194 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9BE229C20E300141194 /* DailyTemperatures.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
 		BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724392263BEE200AC8930 /* PowerOfThree.swift */; };
 		BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243B2263C03500AC8930 /* ValidParentheses.swift */; };
@@ -464,6 +465,7 @@
 		BA50A9B8229AF10400141194 /* MaxConsecutiveOnesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnesIII.swift; sourceTree = "<group>"; };
 		BA50A9BA229B09AC00141194 /* ReorderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderList.swift; sourceTree = "<group>"; };
 		BA50A9BC229B12F900141194 /* NumberOfIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIncreasingSubsequence.swift; sourceTree = "<group>"; };
+		BA50A9BE229C20E300141194 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		BA5724392263BEE200AC8930 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
 		BA57243B2263C03500AC8930 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
@@ -617,6 +619,7 @@
 				BA2D26342291440400F18A7D /* ComplexNumberMultiplication.swift */,
 				BA50A9B0229AA4A700141194 /* WordSearch.swift */,
 				BA50A994229599E900141194 /* CoinChange.swift */,
+				BA50A9BE229C20E300141194 /* DailyTemperatures.swift */,
 				BA50A9BA229B09AC00141194 /* ReorderList.swift */,
 				BA50A9B8229AF10400141194 /* MaxConsecutiveOnesIII.swift */,
 				BA50A9AE2297214700141194 /* SearchA2DMatrix.swift */,
@@ -977,6 +980,7 @@
 				BA15F51D226E2F9C008B5516 /* ImplementStrStr.swift in Sources */,
 				BA2D26152290533F00F18A7D /* ScoreAfterFlippingMatrix.swift in Sources */,
 				BA20464422833A1D009D184A /* LemonadeChange.swift in Sources */,
+				BA50A9BF229C20E300141194 /* DailyTemperatures.swift in Sources */,
 				BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
 				BA204624227F4C62009D184A /* DesignHashMap.swift in Sources */,
