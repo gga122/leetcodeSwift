@@ -286,4 +286,5 @@ import Foundation
 //NumberOfIncreasingSubsequenceSolution.init().test()
 //DailyTemperaturesSolution.init().test()
 //ConstructBinaryTreeFromPreorderAndInorderTraversalSolution.init().test()
-AddTwoNumbersIISolution.init().test()
+//AddTwoNumbersIISolution.init().test()
+LongestIncreasingSubsequenceSolution.init().test()
