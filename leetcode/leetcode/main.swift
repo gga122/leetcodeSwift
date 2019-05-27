@@ -282,4 +282,5 @@ import Foundation
 //SortListSolution.init().test()
 //RotateImageSolution.init().test()
 //MaxConsecutiveOnesIIISolution.init().test()
-ReorderListSolution.init().test()
+//ReorderListSolution.init().test()
+NumberOfIncreasingSubsequenceSolution.init().test()
