@@ -16,7 +16,7 @@ class DailyTemperaturesSolution {
         if T.count == 1 {
             return [0]
         }
-        
+
         var ret = Array<Int>.init(repeating: 0, count: T.count)
         var stack = [Int]()
         var i = T.count - 1

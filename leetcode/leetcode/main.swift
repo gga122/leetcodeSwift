@@ -284,4 +284,5 @@ import Foundation
 //MaxConsecutiveOnesIIISolution.init().test()
 //ReorderListSolution.init().test()
 //NumberOfIncreasingSubsequenceSolution.init().test()
-DailyTemperaturesSolution.init().test()
+//DailyTemperaturesSolution.init().test()
+ConstructBinaryTreeFromPreorderAndInorderTraversalSolution.init().test()
