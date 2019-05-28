@@ -290,5 +290,5 @@ import Foundation
 //LongestIncreasingSubsequenceSolution.init().test()
 //IntegerToRomanSolution.init().test()
 //LexicographicalNumbersSolution.init().test()
-//HouseRobberIIISolution.init().test()
-HouseRobberIISolution.init().test()
+HouseRobberIIISolution.init().test()
+//HouseRobberIISolution.init().test()
