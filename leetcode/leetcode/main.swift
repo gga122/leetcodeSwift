@@ -288,4 +288,5 @@ import Foundation
 //ConstructBinaryTreeFromPreorderAndInorderTraversalSolution.init().test()
 //AddTwoNumbersIISolution.init().test()
 //LongestIncreasingSubsequenceSolution.init().test()
-IntegerToRomanSolution.init().test()
+//IntegerToRomanSolution.init().test()
+LexicographicalNumbersSolution.init().test()
