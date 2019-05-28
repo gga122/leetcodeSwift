@@ -177,6 +177,7 @@
 		BA50A9C9229D6C1700141194 /* LexicographicalNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9C8229D6C1600141194 /* LexicographicalNumbers.swift */; };
 		BA50A9CB229D756800141194 /* HouseRobberIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9CA229D756800141194 /* HouseRobberIII.swift */; };
 		BA50A9CD229D777B00141194 /* HouseRobberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9CC229D777B00141194 /* HouseRobberII.swift */; };
+		BA50A9CF229D896D00141194 /* PermutationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA50A9CE229D896D00141194 /* PermutationsII.swift */; };
 		BA5724382263BC0600AC8930 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724372263BC0600AC8930 /* AddDigits.swift */; };
 		BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5724392263BEE200AC8930 /* PowerOfThree.swift */; };
 		BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243B2263C03500AC8930 /* ValidParentheses.swift */; };
@@ -480,6 +481,7 @@
 		BA50A9C8229D6C1600141194 /* LexicographicalNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicalNumbers.swift; sourceTree = "<group>"; };
 		BA50A9CA229D756800141194 /* HouseRobberIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberIII.swift; sourceTree = "<group>"; };
 		BA50A9CC229D777B00141194 /* HouseRobberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberII.swift; sourceTree = "<group>"; };
+		BA50A9CE229D896D00141194 /* PermutationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationsII.swift; sourceTree = "<group>"; };
 		BA5724372263BC0600AC8930 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		BA5724392263BEE200AC8930 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
 		BA57243B2263C03500AC8930 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
@@ -636,6 +638,7 @@
 				BA50A9C8229D6C1600141194 /* LexicographicalNumbers.swift */,
 				BA50A994229599E900141194 /* CoinChange.swift */,
 				BA50A9BE229C20E300141194 /* DailyTemperatures.swift */,
+				BA50A9CE229D896D00141194 /* PermutationsII.swift */,
 				BA50A9CA229D756800141194 /* HouseRobberIII.swift */,
 				BA50A9C6229C587C00141194 /* IntegerToRoman.swift */,
 				BA50A9BA229B09AC00141194 /* ReorderList.swift */,
@@ -1119,6 +1122,7 @@
 				BA20A5C9226382E800CBD9D4 /* RomanToInteger.swift in Sources */,
 				BA2D2664229469F600F18A7D /* NumberOfIslands.swift in Sources */,
 				BA2D262722907E9400F18A7D /* BattleshipsInABoard.swift in Sources */,
+				BA50A9CF229D896D00141194 /* PermutationsII.swift in Sources */,
 				BA2D263B2291514200F18A7D /* DistributeCoinsInBinaryTree.swift in Sources */,
 				BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */,
 				BA2D261B2290635700F18A7D /* BinaryTreePruning.swift in Sources */,
