@@ -293,4 +293,5 @@ import Foundation
 //HouseRobberIIISolution.init().test()
 //HouseRobberIISolution.init().test()
 //PermutationsIISolution.init().test()
-BestSightseeingPairSolution.init().test()
+//BestSightseeingPairSolution.init().test()
+GasStationSolution.init().test()
