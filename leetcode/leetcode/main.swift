@@ -294,4 +294,5 @@ import Foundation
 //HouseRobberIISolution.init().test()
 //PermutationsIISolution.init().test()
 //BestSightseeingPairSolution.init().test()
-GasStationSolution.init().test()
+//GasStationSolution.init().test()
+WaterAndJugProblemSolution.init().test()
