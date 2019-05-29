@@ -292,4 +292,5 @@ import Foundation
 //LexicographicalNumbersSolution.init().test()
 //HouseRobberIIISolution.init().test()
 //HouseRobberIISolution.init().test()
-PermutationsIISolution.init().test()
+//PermutationsIISolution.init().test()
+BestSightseeingPairSolution.init().test()
