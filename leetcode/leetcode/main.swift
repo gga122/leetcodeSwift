@@ -300,4 +300,5 @@ import Foundation
 //MaximumSwapSolution.init().test()
 //SortColorsSolution.init().test()
 //IntegerBreakSolution.init().test()
-ThreeSumClosestSolution.init().test()
+//ThreeSumClosestSolution.init().test()
+TriangleSolution.init().test()
