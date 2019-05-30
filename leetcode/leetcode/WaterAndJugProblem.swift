@@ -22,7 +22,6 @@ class WaterAndJugProblemSolution {
         if minVal == 0 {
             return maxVal == z
         }
-        
         while maxVal % minVal != 0 {
             let val = maxVal % minVal
             maxVal = minVal
