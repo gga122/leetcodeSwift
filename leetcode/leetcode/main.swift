@@ -297,4 +297,5 @@ import Foundation
 //GasStationSolution.init().test()
 //WaterAndJugProblemSolution.init().test()
 //SubsetsIISolution.init().test()
-MaximumSwapSolution.init().test()
+//MaximumSwapSolution.init().test()
+SortColorsSolution.init().test()
