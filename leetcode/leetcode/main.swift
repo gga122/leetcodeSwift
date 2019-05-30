@@ -296,4 +296,5 @@ import Foundation
 //BestSightseeingPairSolution.init().test()
 //GasStationSolution.init().test()
 //WaterAndJugProblemSolution.init().test()
-SubsetsIISolution.init().test()
+//SubsetsIISolution.init().test()
+MaximumSwapSolution.init().test()
