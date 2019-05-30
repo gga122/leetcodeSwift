@@ -298,4 +298,5 @@ import Foundation
 //WaterAndJugProblemSolution.init().test()
 //SubsetsIISolution.init().test()
 //MaximumSwapSolution.init().test()
-SortColorsSolution.init().test()
+//SortColorsSolution.init().test()
+IntegerBreakSolution.init().test()
