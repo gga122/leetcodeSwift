@@ -299,4 +299,5 @@ import Foundation
 //SubsetsIISolution.init().test()
 //MaximumSwapSolution.init().test()
 //SortColorsSolution.init().test()
-IntegerBreakSolution.init().test()
+//IntegerBreakSolution.init().test()
+ThreeSumClosestSolution.init().test()
