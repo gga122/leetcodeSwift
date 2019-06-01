@@ -304,4 +304,5 @@ import Foundation
 //TriangleSolution.init().test()
 //BestTimeToBuyAndSellStockWithTransactionFeeSolution.init().test()
 //SumRootToLeafNumbersSolution.init().test()
-MultiplyStringsSolution.init().test()
+//MultiplyStringsSolution.init().test()
+MaximumWidthOfBinaryTreeSolution.init().test()
