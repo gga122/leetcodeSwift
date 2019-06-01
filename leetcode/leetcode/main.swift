@@ -303,4 +303,5 @@ import Foundation
 //ThreeSumClosestSolution.init().test()
 //TriangleSolution.init().test()
 //BestTimeToBuyAndSellStockWithTransactionFeeSolution.init().test()
-SumRootToLeafNumbersSolution.init().test()
+//SumRootToLeafNumbersSolution.init().test()
+MultiplyStringsSolution.init().test()
