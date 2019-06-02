@@ -14,7 +14,7 @@ class ScoreOfParenthesesSolution {
         if chars.count == 0 {
             return 0
         }
-        
+
         var current = 0
         var sum = 0
         for i in 0..<chars.count {

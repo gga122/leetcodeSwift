@@ -308,4 +308,5 @@ import Foundation
 //MaximumWidthOfBinaryTreeSolution.init().test()
 //LargestNumberSolution.init().test()
 //DecodeStringSolution.init().test()
-ScoreOfParenthesesSolution.init().test()
+//ScoreOfParenthesesSolution.init().test()
+ConstructBinaryTreeFromInorderAndPostorderTraversalSolution.init().test()
