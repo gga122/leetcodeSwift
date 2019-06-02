@@ -312,4 +312,5 @@ import Foundation
 //ConstructBinaryTreeFromInorderAndPostorderTraversalSolution.init().test()
 //RectangleAreaSolution.init().test()
 //FourSumSolution.init().test()
-WordBreakSolution.init().test()
+//WordBreakSolution.init().test()
+BasicPackageSolution.init().test()
