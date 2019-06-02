@@ -306,4 +306,5 @@ import Foundation
 //SumRootToLeafNumbersSolution.init().test()
 //MultiplyStringsSolution.init().test()
 //MaximumWidthOfBinaryTreeSolution.init().test()
-LargestNumberSolution.init().test()
+//LargestNumberSolution.init().test()
+DecodeStringSolution.init().test()
