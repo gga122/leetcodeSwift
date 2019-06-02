@@ -34,26 +34,34 @@ class ConstructBinaryTreeFromInorderAndPostorderTraversalSolution {
         if inorder.count != postorder.count {
             return nil
         }
-
-        let rootVal = postorder.last!
-        let root = TreeNode.init(rootVal)
-        let rootIndexInInorder = inorder.index(of: rootVal)!
+        func buildTreeHelper(_ inorder: [Int], _ iStart: Int, _ iEnd: Int, _ postorder: [Int], _ pStart: Int, _ pEnd: Int) -> TreeNode? {
+            if iStart > iEnd || pStart > pEnd {
+                return nil
+            }
+            if iStart == iEnd {
+                return TreeNode.init(inorder[iStart])
+            }
+            
+            let rootVal = postorder[pEnd]
+            let root = TreeNode.init(rootVal)
+            let index = inorder.index(of: rootVal)!
+            
+            let left = buildTreeHelper(inorder, iStart, index-1, postorder, pStart, pStart+index-iStart-1)
+            root.left = left
+            
+            let right = buildTreeHelper(inorder, index+1, iEnd, postorder, pEnd-iEnd+index, pEnd-1)
+            root.right = right
+            
+            return root
+        }
         
-        let inorderLeft = Array(inorder[0..<rootIndexInInorder])
-        let postorderLeft = Array(postorder[0..<inorderLeft.count])
-        let left = buildTree(inorderLeft, postorderLeft)
-        root.left = left
-        
-        let inorderRight = Array(inorder[rootIndexInInorder+1..<inorder.count])
-        let postorderRight = Array(postorder[postorderLeft.count..<postorder.count-1])
-        let right = buildTree(inorderRight, postorderRight)
-        root.right = right
-        
+        let root = buildTreeHelper(inorder, 0, inorder.count-1, postorder, 0, postorder.count-1)
         return root
     }
-    
+
     func test() -> Void {
         print(buildTree([9,3,15,20,7], [9,15,7,20,3])!)
         print(buildTree([3,2,1], [3,2,1])!)
+        print(buildTree([1,2,3,4], [3,2,4,1])!)
     }
 }
