@@ -313,4 +313,8 @@ import Foundation
 //RectangleAreaSolution.init().test()
 //FourSumSolution.init().test()
 //WordBreakSolution.init().test()
-BasicPackageSolution.init().test()
+MinimumSizeSubarraySumSolution.init().test()
+
+
+/* DP Test */
+//BasicPackageSolution.init().test()
