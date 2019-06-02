@@ -307,4 +307,5 @@ import Foundation
 //MultiplyStringsSolution.init().test()
 //MaximumWidthOfBinaryTreeSolution.init().test()
 //LargestNumberSolution.init().test()
-DecodeStringSolution.init().test()
+//DecodeStringSolution.init().test()
+ScoreOfParenthesesSolution.init().test()
