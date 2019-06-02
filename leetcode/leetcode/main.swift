@@ -310,4 +310,5 @@ import Foundation
 //DecodeStringSolution.init().test()
 //ScoreOfParenthesesSolution.init().test()
 //ConstructBinaryTreeFromInorderAndPostorderTraversalSolution.init().test()
-RectangleAreaSolution.init().test()
+//RectangleAreaSolution.init().test()
+FourSumSolution.init().test()
