@@ -309,4 +309,5 @@ import Foundation
 //LargestNumberSolution.init().test()
 //DecodeStringSolution.init().test()
 //ScoreOfParenthesesSolution.init().test()
-ConstructBinaryTreeFromInorderAndPostorderTraversalSolution.init().test()
+//ConstructBinaryTreeFromInorderAndPostorderTraversalSolution.init().test()
+RectangleAreaSolution.init().test()

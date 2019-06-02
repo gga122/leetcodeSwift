@@ -28,35 +28,31 @@ class ConstructBinaryTreeFromInorderAndPostorderTraversalSolution {
      the last element in postorder array is root node, find it in inorder array and seperate the array into two parts.
      */
     func buildTree(_ inorder: [Int], _ postorder: [Int]) -> TreeNode? {
-        if inorder.count == 0 || postorder.count == 0 {
+        return builder(inStart: 0, inEnd: inorder.count - 1, postStart: 0, postEnd: postorder.count - 1, inorder, postorder)
+    }
+    
+    func builder(inStart:Int, inEnd:Int, postStart:Int, postEnd:Int, _ inorder: [Int], _ postorder: [Int]) -> TreeNode? {
+        if postStart > postEnd {
             return nil
-        }
-        if inorder.count != postorder.count {
-            return nil
-        }
-        func buildTreeHelper(_ inorder: [Int], _ iStart: Int, _ iEnd: Int, _ postorder: [Int], _ pStart: Int, _ pEnd: Int) -> TreeNode? {
-            if iStart > iEnd || pStart > pEnd {
-                return nil
-            }
-            if iStart == iEnd {
-                return TreeNode.init(inorder[iStart])
-            }
-            
-            let rootVal = postorder[pEnd]
-            let root = TreeNode.init(rootVal)
-            let index = inorder.index(of: rootVal)!
-            
-            let left = buildTreeHelper(inorder, iStart, index-1, postorder, pStart, pStart+index-iStart-1)
-            root.left = left
-            
-            let right = buildTreeHelper(inorder, index+1, iEnd, postorder, pEnd-iEnd+index, pEnd-1)
-            root.right = right
-            
-            return root
         }
         
-        let root = buildTreeHelper(inorder, 0, inorder.count-1, postorder, 0, postorder.count-1)
-        return root
+        let rootValue = postorder[postEnd]
+        let rootNode = TreeNode(rootValue)
+        
+        let rootIndex:Int = {
+            for i in inStart...inEnd {
+                if rootValue == inorder[i] {
+                    return i
+                }
+            }
+            
+            fatalError()
+        }()
+        
+        rootNode.left = builder(inStart: inStart, inEnd: rootIndex - 1, postStart: postStart, postEnd: postStart + rootIndex - 1 - inStart, inorder, postorder)
+        rootNode.right = builder(inStart: rootIndex + 1, inEnd: inEnd, postStart: postEnd - inEnd + rootIndex, postEnd: postEnd - 1, inorder, postorder)
+        
+        return rootNode
     }
 
     func test() -> Void {
