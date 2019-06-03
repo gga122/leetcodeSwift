@@ -313,8 +313,8 @@ import Foundation
 //RectangleAreaSolution.init().test()
 //FourSumSolution.init().test()
 //WordBreakSolution.init().test()
-MinimumSizeSubarraySumSolution.init().test()
-
+//MinimumSizeSubarraySumSolution.init().test()
+FindTheDuplicateNumberSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
