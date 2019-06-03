@@ -314,7 +314,7 @@ import Foundation
 //FourSumSolution.init().test()
 //WordBreakSolution.init().test()
 //MinimumSizeSubarraySumSolution.init().test()
-FindTheDuplicateNumberSolution.init().test()
-
+//FindTheDuplicateNumberSolution.init().test()
+NextGreaterElementIIISolution.init().test()
 /* DP Test */
 //BasicPackageSolution.init().test()
