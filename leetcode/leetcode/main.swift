@@ -315,6 +315,8 @@ import Foundation
 //WordBreakSolution.init().test()
 //MinimumSizeSubarraySumSolution.init().test()
 //FindTheDuplicateNumberSolution.init().test()
-NextGreaterElementIIISolution.init().test()
+//NextGreaterElementIIISolution.init().test()
+ZigZagConversionSolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()
