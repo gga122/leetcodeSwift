@@ -316,7 +316,9 @@ import Foundation
 //MinimumSizeSubarraySumSolution.init().test()
 //FindTheDuplicateNumberSolution.init().test()
 //NextGreaterElementIIISolution.init().test()
-ZigZagConversionSolution.init().test()
+//ZigZagConversionSolution.init().test()
+CheckCompletenessOfABinaryTreeSolution.init().test()
+
 
 /* DP Test */
 //BasicPackageSolution.init().test()
