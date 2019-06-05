@@ -274,6 +274,7 @@
 		BADBDCAA22A562DB00ECFA03 /* NextGreaterElementIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCA922A562DA00ECFA03 /* NextGreaterElementIII.swift */; };
 		BADBDCAC22A56A5500ECFA03 /* ZigZagConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCAB22A56A5500ECFA03 /* ZigZagConversion.swift */; };
 		BADBDCAE22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCAD22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift */; };
+		BADBDCB022A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */; };
 		BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */; };
 		BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A82286C455009172F1 /* FloodFill.swift */; };
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
@@ -604,6 +605,7 @@
 		BADBDCA922A562DA00ECFA03 /* NextGreaterElementIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementIII.swift; sourceTree = "<group>"; };
 		BADBDCAB22A56A5500ECFA03 /* ZigZagConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigZagConversion.swift; sourceTree = "<group>"; };
 		BADBDCAD22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckCompletenessOfABinaryTree.swift; sourceTree = "<group>"; };
+		BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKPairsWithSmallestSums.swift; sourceTree = "<group>"; };
 		BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2A82286C455009172F1 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
@@ -688,6 +690,7 @@
 				BADBDCA522A442A600ECFA03 /* MinimumSizeSubarraySum.swift */,
 				BADBDCA722A5533300ECFA03 /* FindTheDuplicateNumber.swift */,
 				BADBDCAB22A56A5500ECFA03 /* ZigZagConversion.swift */,
+				BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */,
 				BADBDCA922A562DA00ECFA03 /* NextGreaterElementIII.swift */,
 				BADBDCAD22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift */,
 				BADBDC8A22A05C1500ECFA03 /* Triangle.swift */,
@@ -1137,6 +1140,7 @@
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,
 				BAEF0335228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift in Sources */,
 				BA2EDDA52264CFC500DDAAEF /* ClimbingStairs.swift in Sources */,
+				BADBDCB022A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift in Sources */,
 				BA50A9B5229AD54300141194 /* SortList.swift in Sources */,
 				BA7FE80B228C1164009B8B23 /* PowerfulIntegers.swift in Sources */,
 				BAEF0331228874640084E257 /* FindModeInBinarySearchTree.swift in Sources */,

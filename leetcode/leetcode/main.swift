@@ -317,8 +317,8 @@ import Foundation
 //FindTheDuplicateNumberSolution.init().test()
 //NextGreaterElementIIISolution.init().test()
 //ZigZagConversionSolution.init().test()
-CheckCompletenessOfABinaryTreeSolution.init().test()
-
+//CheckCompletenessOfABinaryTreeSolution.init().test()
+FindKPairsWithSmallestSumsSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
