@@ -9,7 +9,7 @@
 import Foundation
 
 class LetterCombinationsOfAPhoneNumberSolution {
-    func letterCombinations(_ digits: String) -> [String] {{
+    func letterCombinations(_ digits: String) -> [String] {
         let hashs: [Character: [Character]] = ["1": [],
                                                "2": ["a", "b", "c"],
                                                "3": ["d", "e", "f"],
