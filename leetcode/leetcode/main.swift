@@ -320,7 +320,7 @@ import Foundation
 //CheckCompletenessOfABinaryTreeSolution.init().test()
 //FindKPairsWithSmallestSumsSolution.init().test()
 //MovingStonesUntilConsecutiveIISolution.init().test()
-LetterCombinationsOfAPhoneNumberSolution.init().test()
-
+//LetterCombinationsOfAPhoneNumberSolution.init().test()
+LRUCache.init(2).test()
 /* DP Test */
 //BasicPackageSolution.init().test()
