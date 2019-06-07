@@ -319,7 +319,8 @@ import Foundation
 //ZigZagConversionSolution.init().test()
 //CheckCompletenessOfABinaryTreeSolution.init().test()
 //FindKPairsWithSmallestSumsSolution.init().test()
-MovingStonesUntilConsecutiveIISolution.init().test()
+//MovingStonesUntilConsecutiveIISolution.init().test()
+LetterCombinationsOfAPhoneNumberSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

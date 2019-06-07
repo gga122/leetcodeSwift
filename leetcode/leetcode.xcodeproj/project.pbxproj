@@ -276,6 +276,7 @@
 		BADBDCAE22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCAD22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift */; };
 		BADBDCB022A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */; };
 		BADBDCB222AA44E200ECFA03 /* MovingStonesUntilConsecutiveII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCB122AA44E200ECFA03 /* MovingStonesUntilConsecutiveII.swift */; };
+		BADBDCB422AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCB322AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift */; };
 		BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */; };
 		BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A82286C455009172F1 /* FloodFill.swift */; };
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
@@ -608,6 +609,7 @@
 		BADBDCAD22A6DD3A00ECFA03 /* CheckCompletenessOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckCompletenessOfABinaryTree.swift; sourceTree = "<group>"; };
 		BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKPairsWithSmallestSums.swift; sourceTree = "<group>"; };
 		BADBDCB122AA44E200ECFA03 /* MovingStonesUntilConsecutiveII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovingStonesUntilConsecutiveII.swift; sourceTree = "<group>"; };
+		BADBDCB322AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinationsOfAPhoneNumber.swift; sourceTree = "<group>"; };
 		BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2A82286C455009172F1 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
@@ -699,6 +701,7 @@
 				BADBDC8A22A05C1500ECFA03 /* Triangle.swift */,
 				BADBDC9A22A3CBCE00ECFA03 /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */,
 				BA2D26342291440400F18A7D /* ComplexNumberMultiplication.swift */,
+				BADBDCB322AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift */,
 				BADBDC9E22A3DFC000ECFA03 /* 4Sum.swift */,
 				BADBDCA022A40A2300ECFA03 /* WordBreak.swift */,
 				BADBDC9C22A3D9A500ECFA03 /* RectangleArea.swift */,
@@ -1243,6 +1246,7 @@
 				BADBDC9322A2BC9A00ECFA03 /* MaximumWidthOfBinaryTree.swift in Sources */,
 				BA20464E22849244009D184A /* TwoSumIV-InputIsABST.swift in Sources */,
 				BA2ADD1D228DBC0900A6A53B /* CountingBits.swift in Sources */,
+				BADBDCB422AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift in Sources */,
 				BA2D26092290318200F18A7D /* Combinations.swift in Sources */,
 				BA2D2619229060FB00F18A7D /* FindBottomLeftTreeValue.swift in Sources */,
 				BA2D266022944B4C00F18A7D /* 3Sum.swift in Sources */,
