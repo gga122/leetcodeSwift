@@ -318,7 +318,8 @@ import Foundation
 //NextGreaterElementIIISolution.init().test()
 //ZigZagConversionSolution.init().test()
 //CheckCompletenessOfABinaryTreeSolution.init().test()
-FindKPairsWithSmallestSumsSolution.init().test()
+//FindKPairsWithSmallestSumsSolution.init().test()
+MovingStonesUntilConsecutiveIISolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
