@@ -322,6 +322,8 @@ import Foundation
 //MovingStonesUntilConsecutiveIISolution.init().test()
 //LetterCombinationsOfAPhoneNumberSolution.init().test()
 //LRUCache.init(2).test()
-LFUCache.init(10).test()
+//LFUCache.init(10).test()
+CandySolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()
