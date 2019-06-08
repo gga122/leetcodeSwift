@@ -321,6 +321,7 @@ import Foundation
 //FindKPairsWithSmallestSumsSolution.init().test()
 //MovingStonesUntilConsecutiveIISolution.init().test()
 //LetterCombinationsOfAPhoneNumberSolution.init().test()
-LRUCache.init(2).test()
+//LRUCache.init(2).test()
+LFUCache.init(10).test()
 /* DP Test */
 //BasicPackageSolution.init().test()
