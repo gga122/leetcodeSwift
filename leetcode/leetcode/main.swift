@@ -323,7 +323,8 @@ import Foundation
 //LetterCombinationsOfAPhoneNumberSolution.init().test()
 //LRUCache.init(2).test()
 //LFUCache.init(10).test()
-CandySolution.init().test()
+//CandySolution.init().test()
+MergeKSortedListsSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

@@ -280,6 +280,7 @@
 		BADBDCB622AA6D2500ECFA03 /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCB522AA6D2500ECFA03 /* LRUCache.swift */; };
 		BADBDCB822AA99C700ECFA03 /* LFUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCB722AA99C700ECFA03 /* LFUCache.swift */; };
 		BADBDCBA22ABEEF600ECFA03 /* Candy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCB922ABEEF600ECFA03 /* Candy.swift */; };
+		BADBDCBC22AC010C00ECFA03 /* MergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCBB22AC010C00ECFA03 /* MergeKSortedLists.swift */; };
 		BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */; };
 		BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A82286C455009172F1 /* FloodFill.swift */; };
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
@@ -616,6 +617,7 @@
 		BADBDCB522AA6D2500ECFA03 /* LRUCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LRUCache.swift; sourceTree = "<group>"; };
 		BADBDCB722AA99C700ECFA03 /* LFUCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCache.swift; sourceTree = "<group>"; };
 		BADBDCB922ABEEF600ECFA03 /* Candy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Candy.swift; sourceTree = "<group>"; };
+		BADBDCBB22AC010C00ECFA03 /* MergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedLists.swift; sourceTree = "<group>"; };
 		BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2A82286C455009172F1 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
@@ -702,6 +704,7 @@
 				BADBDCB722AA99C700ECFA03 /* LFUCache.swift */,
 				BADBDCA722A5533300ECFA03 /* FindTheDuplicateNumber.swift */,
 				BADBDCB922ABEEF600ECFA03 /* Candy.swift */,
+				BADBDCBB22AC010C00ECFA03 /* MergeKSortedLists.swift */,
 				BADBDCAB22A56A5500ECFA03 /* ZigZagConversion.swift */,
 				BADBDCAF22A8057C00ECFA03 /* FindKPairsWithSmallestSums.swift */,
 				BADBDCA922A562DA00ECFA03 /* NextGreaterElementIII.swift */,
@@ -1200,6 +1203,7 @@
 				BAEF0325228860560084E257 /* RectangleOverlap.swift in Sources */,
 				BA20A5CB2263889F00CBD9D4 /* LongestCommonPrefix.swift in Sources */,
 				BA20A5C5226374FE00CBD9D4 /* PalindromeNumber.swift in Sources */,
+				BADBDCBC22AC010C00ECFA03 /* MergeKSortedLists.swift in Sources */,
 				BA50A9CD229D777B00141194 /* HouseRobberII.swift in Sources */,
 				BA3ACE91226CB5A60065FA51 /* BaseballGame.swift in Sources */,
 				BA2D261322904F8000F18A7D /* CombinationSumIII.swift in Sources */,
