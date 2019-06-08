@@ -49,37 +49,13 @@ class MergeKSortedListsSolution {
             return list1
         }
         
-        var l1 = list1
-        var l2 = list2
-        
-        var begin: ListNode? = nil
-        var node: ListNode? = nil
-        while l1 != nil || l2 != nil {
-            var currentNode: ListNode? = nil
-            if l1 == nil {
-                currentNode = l2
-                l2 = l2!.next
-            } else if l2 == nil {
-                currentNode = l1
-                l1 = l1!.next
-            } else if l1!.val < l2!.val {
-                currentNode = l1
-                l1 = l1!.next
-            } else {
-                currentNode = l2
-                l2 = l2!.next
-            }
-            
-            if node == nil {
-                begin = currentNode
-                node = currentNode
-            } else {
-                node!.next = currentNode
-                node = currentNode
-            }
+        if list1!.val < list2!.val {
+            list1!.next = mergeTwoList(list1!.next, list2)
+            return list1
+        } else {
+            list2!.next = mergeTwoList(list2!.next, list1)
+            return list2
         }
-        
-        return begin
     }
     
     func test() -> Void {
