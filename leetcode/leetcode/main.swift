@@ -325,7 +325,8 @@ import Foundation
 //LFUCache.init(10).test()
 //CandySolution.init().test()
 //MergeKSortedListsSolution.init().test()
-TrappingRainWaterSolution.init().test()
+//TrappingRainWaterSolution.init().test()
+LongestValidParenthesesSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
