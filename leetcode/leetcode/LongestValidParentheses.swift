@@ -19,9 +19,9 @@ class LongestValidParenthesesSolution {
         var dp = [Int].init(repeating: 0, count: chars.count)
         for i in 1..<chars.count {
             if chars[i] == ")" {
-                if chars[i-1] == "(" {
+                if chars[i-1] == "(" { // end with `...()`
                     dp[i] = (i>=2 ? dp[i-2] : 0) + 2
-                } else if i - dp[i-1] > 0 && chars[i-dp[i-1]-1] == "(" {
+                } else if i - dp[i-1] > 0 && chars[i-dp[i-1]-1] == "(" { // end with `...))`
                     dp[i] = dp[i-1] + ((i-dp[i-1]) >= 2 ? dp[i-dp[i-1]-2] : 0) + 2
                 }
                 

@@ -326,7 +326,8 @@ import Foundation
 //CandySolution.init().test()
 //MergeKSortedListsSolution.init().test()
 //TrappingRainWaterSolution.init().test()
-LongestValidParenthesesSolution.init().test()
+//LongestValidParenthesesSolution.init().test()
+EditDistanceSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

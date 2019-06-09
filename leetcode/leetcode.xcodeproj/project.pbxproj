@@ -283,6 +283,7 @@
 		BADBDCBC22AC010C00ECFA03 /* MergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCBB22AC010C00ECFA03 /* MergeKSortedLists.swift */; };
 		BADBDCBE22AC06F300ECFA03 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCBD22AC06F300ECFA03 /* TrappingRainWater.swift */; };
 		BADBDCC022AC4B5E00ECFA03 /* LongestValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */; };
+		BADBDCC222AD4D7900ECFA03 /* EditDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADBDCC122AD4D7900ECFA03 /* EditDistance.swift */; };
 		BADDD2A72286BFA1009172F1 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */; };
 		BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2A82286C455009172F1 /* FloodFill.swift */; };
 		BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */; };
@@ -622,6 +623,7 @@
 		BADBDCBB22AC010C00ECFA03 /* MergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedLists.swift; sourceTree = "<group>"; };
 		BADBDCBD22AC06F300ECFA03 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestValidParentheses.swift; sourceTree = "<group>"; };
+		BADBDCC122AD4D7900ECFA03 /* EditDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDistance.swift; sourceTree = "<group>"; };
 		BADDD2A62286BFA1009172F1 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		BADDD2A82286C455009172F1 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		BADDD2AC2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovesToEqualArrayElements.swift; sourceTree = "<group>"; };
@@ -706,6 +708,7 @@
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
 				BADBDCA522A442A600ECFA03 /* MinimumSizeSubarraySum.swift */,
 				BADBDCB522AA6D2500ECFA03 /* LRUCache.swift */,
+				BADBDCC122AD4D7900ECFA03 /* EditDistance.swift */,
 				BADBDCBD22AC06F300ECFA03 /* TrappingRainWater.swift */,
 				BADBDCB722AA99C700ECFA03 /* LFUCache.swift */,
 				BADBDCA722A5533300ECFA03 /* FindTheDuplicateNumber.swift */,
@@ -1125,6 +1128,7 @@
 				BA50A9BF229C20E300141194 /* DailyTemperatures.swift in Sources */,
 				BA3ACE7F226B40C90065FA51 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				BA3ACE7D226B32B00065FA51 /* CountPrimes.swift in Sources */,
+				BADBDCC222AD4D7900ECFA03 /* EditDistance.swift in Sources */,
 				BA204624227F4C62009D184A /* DesignHashMap.swift in Sources */,
 				BA7FE807228C0DC6009B8B23 /* LargestNumberAtLeastTwiceOfOthers.swift in Sources */,
 				BAA3E8C722774F4F003A9F4B /* RobotReturnToOrigin.swift in Sources */,
