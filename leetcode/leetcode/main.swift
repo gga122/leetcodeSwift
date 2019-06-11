@@ -328,7 +328,8 @@ import Foundation
 //TrappingRainWaterSolution.init().test()
 //LongestValidParenthesesSolution.init().test()
 //EditDistanceSolution.init().test()
-NumberOfAtomsSolution.init().test()
+//NumberOfAtomsSolution.init().test()
+ShortestWordDistanceSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
