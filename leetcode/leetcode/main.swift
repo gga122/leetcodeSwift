@@ -327,7 +327,8 @@ import Foundation
 //MergeKSortedListsSolution.init().test()
 //TrappingRainWaterSolution.init().test()
 //LongestValidParenthesesSolution.init().test()
-EditDistanceSolution.init().test()
+//EditDistanceSolution.init().test()
+NumberOfAtomsSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
