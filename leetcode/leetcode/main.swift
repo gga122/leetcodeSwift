@@ -332,6 +332,8 @@ import Foundation
 //ShortestWordDistanceSolution.init().test()
 //ShortestWordDistanceII.init(["practice", "makes", "perfect", "coding", "makes"]).test()
 //StrobogrammaticNumberSolution.init().test()
-MeetingRoomsSolution.init().test()
+//MeetingRoomsSolution.init().test()
+PaintHouseSolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()
