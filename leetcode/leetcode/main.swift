@@ -330,6 +330,8 @@ import Foundation
 //EditDistanceSolution.init().test()
 //NumberOfAtomsSolution.init().test()
 //ShortestWordDistanceSolution.init().test()
-ShortestWordDistanceII.init(["practice", "makes", "perfect", "coding", "makes"]).test()
+//ShortestWordDistanceII.init(["practice", "makes", "perfect", "coding", "makes"]).test()
+StrobogrammaticNumberSolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()
