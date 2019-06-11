@@ -333,7 +333,7 @@ import Foundation
 //ShortestWordDistanceII.init(["practice", "makes", "perfect", "coding", "makes"]).test()
 //StrobogrammaticNumberSolution.init().test()
 //MeetingRoomsSolution.init().test()
-PaintHouseSolution.init().test()
-
+//PaintHouseSolution.init().test()
+TwoSumIII_DataStructureDesign.init().test()
 /* DP Test */
 //BasicPackageSolution.init().test()
