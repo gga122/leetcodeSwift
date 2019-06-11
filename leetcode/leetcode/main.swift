@@ -329,7 +329,7 @@ import Foundation
 //LongestValidParenthesesSolution.init().test()
 //EditDistanceSolution.init().test()
 //NumberOfAtomsSolution.init().test()
-ShortestWordDistanceSolution.init().test()
-
+//ShortestWordDistanceSolution.init().test()
+ShortestWordDistanceII.init(["practice", "makes", "perfect", "coding", "makes"]).test()
 /* DP Test */
 //BasicPackageSolution.init().test()
