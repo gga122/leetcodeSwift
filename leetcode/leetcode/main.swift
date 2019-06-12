@@ -335,7 +335,8 @@ import Foundation
 //MeetingRoomsSolution.init().test()
 //PaintHouseSolution.init().test()
 //TwoSumIII_DataStructureDesign.init().test()
-PaintFenceSolution.init().test()
+//PaintFenceSolution.init().test()
+NumberOfCornerRectanglesSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
