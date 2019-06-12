@@ -14,11 +14,15 @@ class NumberOfCornerRectanglesSolution {
         let columnCount = grid[0].count
         var res = 0
         for i in 0..<rowCount {
+            var corners = [Int]()
+            for k in 0..<columnCount {
+                if grid[i][k] == 1 { corners.append(k) }
+            }
+            
             for j in i+1..<rowCount {
                 var cnt = 0
-                for k in 0..<columnCount {
-                    if grid[i][k] == 0 { continue }
-                    if grid[j][k] == 0 { continue }
+                for l in 0..<corners.count {
+                    if grid[j][corners[l]] == 0 { continue }
                     
                     cnt += 1
                 }
