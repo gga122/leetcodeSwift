@@ -124,6 +124,7 @@
 		BA2D266622946C9E00F18A7D /* UTF_8Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D266522946C9E00F18A7D /* UTF_8Validation.swift */; };
 		BA2D2668229478F300F18A7D /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2D2667229478F300F18A7D /* SimplifyPath.swift */; };
 		BA2DCB2422B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DCB2322B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift */; };
+		BA2DCB2622B0103700E0ACBD /* PaintFence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DCB2522B0103700E0ACBD /* PaintFence.swift */; };
 		BA2DE12F22720AD900FD620A /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */; };
 		BA2DE131227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */; };
 		BA2DE133227214C100FD620A /* FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */; };
@@ -471,6 +472,7 @@
 		BA2D266522946C9E00F18A7D /* UTF_8Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UTF_8Validation.swift; sourceTree = "<group>"; };
 		BA2D2667229478F300F18A7D /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
 		BA2DCB2322B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSumIII-DataStructureDesign.swift"; sourceTree = "<group>"; };
+		BA2DCB2522B0103700E0ACBD /* PaintFence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintFence.swift; sourceTree = "<group>"; };
 		BA2DE12E22720AD900FD620A /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
 		BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSumII-InputArrayIsSorted.swift"; sourceTree = "<group>"; };
 		BA2DE132227214C100FD620A /* FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroes.swift; sourceTree = "<group>"; };
@@ -723,6 +725,7 @@
 				BADBDCC722AFF48900ECFA03 /* ShortestWordDistanceII.swift */,
 				BADBDCCB22B0083400ECFA03 /* MeetingRooms.swift */,
 				BA2DCB2322B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift */,
+				BA2DCB2522B0103700E0ACBD /* PaintFence.swift */,
 				BADBDCC922B005C900ECFA03 /* StrobogrammaticNumber.swift */,
 				BADBDCA522A442A600ECFA03 /* MinimumSizeSubarraySum.swift */,
 				BADBDCCD22B009AB00ECFA03 /* PaintHouse.swift */,
@@ -1391,6 +1394,7 @@
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */,
 				BA50A9C9229D6C1700141194 /* LexicographicalNumbers.swift in Sources */,
+				BA2DCB2622B0103700E0ACBD /* PaintFence.swift in Sources */,
 				BADBDCBE22AC06F300ECFA03 /* TrappingRainWater.swift in Sources */,
 				BA2D260F2290436E00F18A7D /* ConstructBinarySearchTreeFromPreorderTraversal.swift in Sources */,
 				BA50A9992295AD3600141194 /* KthLargestElementInAnArray.swift in Sources */,

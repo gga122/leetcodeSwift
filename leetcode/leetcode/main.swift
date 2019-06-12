@@ -334,6 +334,8 @@ import Foundation
 //StrobogrammaticNumberSolution.init().test()
 //MeetingRoomsSolution.init().test()
 //PaintHouseSolution.init().test()
-TwoSumIII_DataStructureDesign.init().test()
+//TwoSumIII_DataStructureDesign.init().test()
+PaintFenceSolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()
