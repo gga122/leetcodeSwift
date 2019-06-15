@@ -338,7 +338,8 @@ import Foundation
 //PaintFenceSolution.init().test()
 //NumberOfCornerRectanglesSolution.init().test()
 //MinimumPathSumSolution.init().test()
-UniqueBinarySearchTreesSolution.init().test()
+//UniqueBinarySearchTreesSolution.init().test()
+UniqueBinarySearchTreesIISolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

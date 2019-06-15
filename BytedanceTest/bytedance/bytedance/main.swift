@@ -68,6 +68,7 @@ class Solution {
 }
  */
 
+/*
 class Solution {
     func subsets(_ nums: [Int]) -> [[Int]] {
         if nums.count == 0 {
@@ -97,5 +98,149 @@ class Solution {
         print(subsets([1,2,3]))
     }
 }
+*/
 
-Solution.init().test()
+/*
+class MyQueue {
+    
+    /** Initialize your data structure here. */
+    var stack1 = [Int]()
+    var stack2 = [Int]()
+    init() {
+        
+    }
+    
+    /** Push element x to the back of queue. */
+    func push(_ x: Int) {
+        stack1.append(x)
+    }
+    
+    /** Removes the element from in front of queue and returns that element. */
+    func pop() -> Int {
+        if !stack2.isEmpty {
+            return stack2.removeLast()
+        }
+        
+        while !stack1.isEmpty {
+            stack2.append(stack1.removeLast())
+        }
+        return stack2.removeLast()
+    }
+    
+    /** Get the front element. */
+    func peek() -> Int {
+        if !stack2.isEmpty {
+            return stack2.last!
+        }
+        
+        while !stack1.isEmpty {
+            stack2.append(stack1.removeLast())
+        }
+        return stack2.last!
+    }
+    
+    /** Returns whether the queue is empty. */
+    func empty() -> Bool {
+        return stack1.isEmpty && stack2.isEmpty
+    }
+}
+*/
+
+/*
+class Solution {
+    
+    public class TreeNode {
+        public var val: Int
+        public var left: TreeNode?
+        public var right: TreeNode?
+        public init(_ val: Int) {
+            self.val = val
+            self.left = nil
+            self.right = nil
+        }
+    }
+    
+    func nextLevelNodes(_ nodes: [TreeNode]) -> [TreeNode] {
+        if nodes.isEmpty {
+            return []
+        }
+        
+        var subNodes = [TreeNode]()
+        for node in nodes {
+            if let left = node.left {
+                subNodes.append(left)
+            }
+            if let right = node.right {
+                subNodes.append(right)
+            }
+        }
+        
+        return subNodes
+    }
+    
+    func findBottomLeftValue(_ root: TreeNode?) -> Int {
+        if root == nil {
+            return 0
+        }
+        
+        var nodes: [TreeNode] = [root!]
+        while !nodes.isEmpty {
+            let subNodes = nextLevelNodes(nodes)
+            if subNodes.isEmpty {
+                return nodes.first!.val
+            } else {
+                nodes = subNodes
+            }
+        }
+        
+        return 0
+    }
+}
+*/
+
+/*
+class Solution {
+    
+    public class TreeNode {
+        public var val: Int
+        public var left: TreeNode?
+        public var right: TreeNode?
+        public init(_ val: Int) {
+            self.val = val
+            self.left = nil
+            self.right = nil
+        }
+    }
+    
+    func buildTree(_ inorder: [Int], _ postorder: [Int]) -> TreeNode? {
+        if inorder.count == 0 || postorder.count == 0 {
+            return nil
+        }
+        
+        let rootIndexInPost = postorder.count - 1
+        let rootVal = postorder[rootIndexInPost]
+        let root = TreeNode.init(rootVal)
+        
+        let rootIndexInIn = inorder.firstIndex(of: rootVal)!
+        let leftPartInInorder = Array(inorder[0..<rootIndexInIn])
+        let leftPartInPostorder = Array(postorder[0..<rootIndexInIn])
+        let left = buildTree(leftPartInInorder, leftPartInPostorder)
+        root.left = left
+        
+        let rightPartInInorder = Array(inorder[rootIndexInIn+1..<inorder.count])
+        let rightPartInPostorder = Array(postorder[leftPartInInorder.count..<postorder.count-1])
+        let right = buildTree(rightPartInInorder, rightPartInPostorder)
+        root.right = right
+        
+        return root
+    }
+    
+    func test() -> Void {
+        let tree = buildTree([9,3,15,20,7], [9,15,7,20,3])
+        print(tree)
+    }
+}
+*/
+
+//Solution.init().test()
+
