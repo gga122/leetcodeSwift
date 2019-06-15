@@ -337,7 +337,8 @@ import Foundation
 //TwoSumIII_DataStructureDesign.init().test()
 //PaintFenceSolution.init().test()
 //NumberOfCornerRectanglesSolution.init().test()
-MinimumPathSumSolution.init().test()
+//MinimumPathSumSolution.init().test()
+UniqueBinarySearchTreesSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
