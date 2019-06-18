@@ -340,7 +340,8 @@ import Foundation
 //MinimumPathSumSolution.init().test()
 //UniqueBinarySearchTreesSolution.init().test()
 //UniqueBinarySearchTreesIISolution.init().test()
-ReverseLinkedListIISolution.init().test()
+//ReverseLinkedListIISolution.init().test()
+PathSumIISolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
