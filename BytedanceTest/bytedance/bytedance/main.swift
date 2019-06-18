@@ -242,5 +242,85 @@ class Solution {
 }
 */
 
-//Solution.init().test()
+/*
+class Solution {
+    func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
+        if numbers.count <= 1 {
+            return []
+        }
+        
+        var begin = 0
+        var end = numbers.count - 1
+        while begin < end {
+            if numbers[begin] + numbers[end] == target {
+                return [begin+1, end+1]
+            } else if numbers[begin] + numbers[end] > target {
+                end -= 1
+            } else {
+                begin += 1
+            }
+        }
+        
+        return []
+    }
+}
+*/
 
+/*
+class Solution {
+    func nextGreaterElement(_ n: Int) -> Int {
+        var chars = Array("\(n)")
+        
+        /* find the first decreasing element */
+        var i = chars.count - 1
+        while i - 1 >= 0 {
+            if chars[i-1] < chars[i] {
+                break
+            }
+            i -= 1
+        }
+        if i == 0 {
+            return -1
+        }
+        
+        /* find the min greater element and swap */
+        let pivot = chars[i-1]
+        var j = chars.count - 1
+        while j > i {
+            if chars[j] > pivot {
+                break
+            }
+            j -= 1
+        }
+        chars.swapAt(i-1, j)
+        
+        /* sort the right part as the increase part */
+        let partLeft = chars[0..<i]
+        var partRight = chars[i..<chars.count]
+        partRight.sort()
+        chars = Array(partLeft) + Array(partRight)
+        let v = Int(String(chars))!
+        
+        return v > INT32_MAX ? -1 : v
+    }
+}
+*/
+
+class Solution {
+    func reversePairs(_ nums: [Int]) -> Int {
+        if nums.count <= 1 {
+            return 0
+        }
+        
+        var results = [(Int, Int)]()
+        for i in 0..<nums.count-1 {
+            for j in i+1..<nums.count {
+                if nums[i] > 2*nums[j] {
+                    results.append((i,j))
+                }
+            }
+        }
+        
+        return results.count
+    }
+}
