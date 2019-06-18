@@ -341,7 +341,8 @@ import Foundation
 //UniqueBinarySearchTreesSolution.init().test()
 //UniqueBinarySearchTreesIISolution.init().test()
 //ReverseLinkedListIISolution.init().test()
-PathSumIISolution.init().test()
+//PathSumIISolution.init().test()
+SetMatrixZeroesSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
