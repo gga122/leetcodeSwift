@@ -344,7 +344,8 @@ import Foundation
 //PathSumIISolution.init().test()
 //SetMatrixZeroesSolution.init().test()
 //DivideTwoIntegersSolution.init().test()
-NextPermutationSolution.init().test()
+//NextPermutationSolution.init().test()
+FindFirstAndLastPositionOfElementInSortedArraySolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

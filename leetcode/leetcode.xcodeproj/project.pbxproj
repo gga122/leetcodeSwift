@@ -87,6 +87,7 @@
 		BA2A95A522B94B7F00B246E7 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95A422B94B7F00B246E7 /* SetMatrixZeroes.swift */; };
 		BA2A95A722BAA36C00B246E7 /* DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95A622BAA36C00B246E7 /* DivideTwoIntegers.swift */; };
 		BA2A95A922BBDD4500B246E7 /* NextPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95A822BBDD4400B246E7 /* NextPermutation.swift */; };
+		BA2A95AB22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */; };
 		BA2ADD1D228DBC0900A6A53B /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */; };
 		BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */; };
 		BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC0292268CBD100B3AF4D /* ArrangingCoins.swift */; };
@@ -444,6 +445,7 @@
 		BA2A95A422B94B7F00B246E7 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		BA2A95A622BAA36C00B246E7 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		BA2A95A822BBDD4400B246E7 /* NextPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextPermutation.swift; sourceTree = "<group>"; };
+		BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
 		BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		BA2CC0292268CBD100B3AF4D /* ArrangingCoins.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangingCoins.swift; sourceTree = "<group>"; };
@@ -740,6 +742,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
+				BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 				BA2A959E22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift */,
 				BA2A95A222B933E000B246E7 /* PathSumII.swift */,
 				BA2A959A22B4F0C200B246E7 /* MinimumPathSum.swift */,
@@ -1447,6 +1450,7 @@
 				BAEF03112288033D0084E257 /* MaximumProductOfThreeNumbers.swift in Sources */,
 				BADDD2CF2287342D009172F1 /* ReverseStringII.swift in Sources */,
 				BAA3E8BF227603E9003A9F4B /* ToLowerCase.swift in Sources */,
+				BA2A95AB22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */,
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
