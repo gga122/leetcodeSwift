@@ -343,7 +343,8 @@ import Foundation
 //ReverseLinkedListIISolution.init().test()
 //PathSumIISolution.init().test()
 //SetMatrixZeroesSolution.init().test()
-DivideTwoIntegersSolution.init().test()
+//DivideTwoIntegersSolution.init().test()
+NextPermutationSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
