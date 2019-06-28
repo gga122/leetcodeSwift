@@ -346,7 +346,8 @@ import Foundation
 //DivideTwoIntegersSolution.init().test()
 //NextPermutationSolution.init().test()
 //FindFirstAndLastPositionOfElementInSortedArraySolution.init().test()
-ValidSudokuSolution.init().test()
+//ValidSudokuSolution.init().test()
+HeightCheckerSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

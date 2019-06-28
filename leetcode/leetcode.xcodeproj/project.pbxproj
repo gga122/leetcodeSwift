@@ -90,6 +90,7 @@
 		BA2A95AB22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */; };
 		BA2A95AD22BBFCA200B246E7 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95AC22BBFCA200B246E7 /* ValidSudoku.swift */; };
 		BA2ADD1D228DBC0900A6A53B /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */; };
+		BA2BA38B22C68731002F90B7 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2BA38A22C68731002F90B7 /* HeightChecker.swift */; };
 		BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */; };
 		BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC0292268CBD100B3AF4D /* ArrangingCoins.swift */; };
 		BA2CC02C2268CEC200B3AF4D /* ArrayPartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC02B2268CEC200B3AF4D /* ArrayPartition.swift */; };
@@ -449,6 +450,7 @@
 		BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
 		BA2A95AC22BBFCA200B246E7 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
+		BA2BA38A22C68731002F90B7 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
 		BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		BA2CC0292268CBD100B3AF4D /* ArrangingCoins.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangingCoins.swift; sourceTree = "<group>"; };
 		BA2CC02B2268CEC200B3AF4D /* ArrayPartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayPartition.swift; sourceTree = "<group>"; };
@@ -744,6 +746,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
+				BA2BA38A22C68731002F90B7 /* HeightChecker.swift */,
 				BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 				BA2A959E22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift */,
 				BA2A95A222B933E000B246E7 /* PathSumII.swift */,
@@ -1423,6 +1426,7 @@
 				BA2DCB2422B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
 				BA2D26622294580B00F18A7D /* MergeIntervals.swift in Sources */,
+				BA2BA38B22C68731002F90B7 /* HeightChecker.swift in Sources */,
 				BA50A9C1229C34DA00141194 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
 				BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */,
