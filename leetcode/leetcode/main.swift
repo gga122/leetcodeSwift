@@ -347,7 +347,7 @@ import Foundation
 //NextPermutationSolution.init().test()
 //FindFirstAndLastPositionOfElementInSortedArraySolution.init().test()
 //ValidSudokuSolution.init().test()
-HeightCheckerSolution.init().test()
-
+//HeightCheckerSolution.init().test()
+DuplicateZerosSolution.init().test()
 /* DP Test */
 //BasicPackageSolution.init().test()
