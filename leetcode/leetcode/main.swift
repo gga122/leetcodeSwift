@@ -348,6 +348,8 @@ import Foundation
 //FindFirstAndLastPositionOfElementInSortedArraySolution.init().test()
 //ValidSudokuSolution.init().test()
 //HeightCheckerSolution.init().test()
-DuplicateZerosSolution.init().test()
+//DuplicateZerosSolution.init().test()
+DistributeCandiesToPeopleSolution.init().test()
+
 /* DP Test */
 //BasicPackageSolution.init().test()

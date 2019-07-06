@@ -211,6 +211,7 @@
 		BA7FE817228C6152009B8B23 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE816228C6152009B8B23 /* LongestPalindromicSubstring.swift */; };
 		BA7FE819228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE818228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift */; };
 		BA7FE81B228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */; };
+		BA92A52B22D0D82000349E2B /* DistributeCandiesToPeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -573,6 +574,7 @@
 		BA7FE818228C7CF0009B8B23 /* RevealCardsInIncreasingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RevealCardsInIncreasingOrder.swift; sourceTree = "<group>"; };
 		BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxIncreaseToKeepCitySkyline.swift; sourceTree = "<group>"; };
 		BA92A52822D0D71B00349E2B /* libobjc.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libobjc.tbd; path = usr/lib/libobjc.tbd; sourceTree = SDKROOT; };
+		BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesToPeople.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -753,6 +755,7 @@
 				BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */,
 				BA2BA38A22C68731002F90B7 /* HeightChecker.swift */,
 				BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
+				BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */,
 				BA2A959E22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift */,
 				BA2A95A222B933E000B246E7 /* PathSumII.swift */,
 				BA2A959A22B4F0C200B246E7 /* MinimumPathSum.swift */,
@@ -1241,6 +1244,7 @@
 				BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */,
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,
 				BADBDC8522A031FD00ECFA03 /* SortColors.swift in Sources */,
+				BA92A52B22D0D82000349E2B /* DistributeCandiesToPeople.swift in Sources */,
 				BA50A9A722970C9F00141194 /* SwapNodesInPairs.swift in Sources */,
 				BA2A95A722BAA36C00B246E7 /* DivideTwoIntegers.swift in Sources */,
 				BA2A959F22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift in Sources */,
