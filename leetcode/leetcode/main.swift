@@ -349,7 +349,8 @@ import Foundation
 //ValidSudokuSolution.init().test()
 //HeightCheckerSolution.init().test()
 //DuplicateZerosSolution.init().test()
-DistributeCandiesToPeopleSolution.init().test()
+//DistributeCandiesToPeopleSolution.init().test()
+OccurrencesAfterBigramSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
