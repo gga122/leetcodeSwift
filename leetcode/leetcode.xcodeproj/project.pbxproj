@@ -354,6 +354,7 @@
 		BAEF0335228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */; };
 		BAEF0337228897710084E257 /* SumOfSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */; };
 		BAEF03392288991D0084E257 /* PerfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03382288991D0084E257 /* PerfectNumber.swift */; };
+		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -718,6 +719,7 @@
 		BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsOfSongsWithTotalDurationsDivisibleBy60.swift; sourceTree = "<group>"; };
 		BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNumbers.swift; sourceTree = "<group>"; };
 		BAEF03382288991D0084E257 /* PerfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber.swift; sourceTree = "<group>"; };
+		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1098,6 +1100,7 @@
 				BA3ACE86226C662C0065FA51 /* AvailableCapturesForRook.swift */,
 				BA3ACE84226C5DFE0065FA51 /* AssignCookies.swift */,
 				BA3ACE88226C78600065FA51 /* AverageOfLevelInBinaryTree.swift */,
+				D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -1462,6 +1465,7 @@
 				BA2D262F2290910000F18A7D /* KthSmallestElementInABST.swift in Sources */,
 				BA3ACE8F226CAE000065FA51 /* BalancedBinaryTree.swift in Sources */,
 				BAA3E8B1227491D7003A9F4B /* SquaresOfASortedArray.swift in Sources */,
+				D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
 				BA50A9C9229D6C1700141194 /* LexicographicalNumbers.swift in Sources */,
 				BA2DCB2622B0103700E0ACBD /* PaintFence.swift in Sources */,
 				BADBDCBE22AC06F300ECFA03 /* TrappingRainWater.swift in Sources */,

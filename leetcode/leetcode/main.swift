@@ -350,7 +350,8 @@ import Foundation
 //HeightCheckerSolution.init().test()
 //DuplicateZerosSolution.init().test()
 //DistributeCandiesToPeopleSolution.init().test()
-OccurrencesAfterBigramSolution.init().test()
+//OccurrencesAfterBigramSolution.init().test()
+ConvertBinaryNumberInALinkedListToInteger.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
