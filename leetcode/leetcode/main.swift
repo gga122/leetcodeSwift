@@ -356,7 +356,8 @@ import Foundation
 //ProductOfArrayExceptSelfSolution.init().test()
 //FindAllDuplicatesInAnArraySolution.init().test()
 //RemoveDuplicatesFromSortedArrayIISolution.init().test()
-SearchInRotatedSortedArrayIISolution.init().test()
+//SearchInRotatedSortedArrayIISolution.init().test()
+FindMinimumInRotatedSortedArraySolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
