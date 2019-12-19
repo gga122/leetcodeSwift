@@ -14,18 +14,15 @@ class RemoveDuplicatesFromSortedArraySolution {
             return nums.count
         }
         
-        var current = nums[0]
-        var index = 1
-        while index < nums.count {
-            if nums[index] == current {
-                nums.remove(at: index)
-            } else {
-                current = nums[index]
+        var index = 0
+        for i in 1..<nums.count {
+            if nums[i] != nums[index] {
                 index += 1
+                nums[index] = nums[i]
             }
         }
         
-        return nums.count
+        return index + 1
     }
     
     func test() -> Void {
