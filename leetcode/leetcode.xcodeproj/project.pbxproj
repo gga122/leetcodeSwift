@@ -360,6 +360,7 @@
 		D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */; };
 		D2BC330323ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */; };
 		D2BC330523ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330423ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift */; };
+		D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -730,6 +731,7 @@
 		D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 		D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDuplicatesInAnArray.swift; sourceTree = "<group>"; };
 		D2BC330423ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArrayII.swift; sourceTree = "<group>"; };
+		D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -766,6 +768,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */,
 				D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */,
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
 				BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */,
@@ -1466,6 +1469,7 @@
 				BADBDCA822A5533300ECFA03 /* FindTheDuplicateNumber.swift in Sources */,
 				BA2D263922914E1E00F18A7D /* InsertIntoABinarySearchTree.swift in Sources */,
 				BADBDC8922A0468B00ECFA03 /* 3SumClosest.swift in Sources */,
+				D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */,
 				BA50A98F22958C3300141194 /* StringToInteger(atoi).swift in Sources */,
 				BA2DCB2422B00E0B00E0ACBD /* TwoSumIII-DataStructureDesign.swift in Sources */,
 				BAA3E8D3227759AE003A9F4B /* PeakIndexInAMountainArray.swift in Sources */,
