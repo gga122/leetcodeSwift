@@ -352,7 +352,11 @@ import Foundation
 //DistributeCandiesToPeopleSolution.init().test()
 //OccurrencesAfterBigramSolution.init().test()
 //ConvertBinaryNumberInALinkedListToIntegerSolution.init().test()
-FirstMissingPositiveSolution.init().test()
+GameOfLifeSolution.init().test()
+
+
+/* Failure */
+//FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
