@@ -358,6 +358,7 @@
 		D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A307223ABBE6400CE73F5 /* GameOfLife.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
 		D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */; };
+		D2BC330323ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -726,6 +727,7 @@
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
+		D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDuplicatesInAnArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -761,6 +763,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */,
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
 				BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */,
 				BA2BA38A22C68731002F90B7 /* HeightChecker.swift */,
@@ -1525,6 +1528,7 @@
 				BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */,
 				BADBDC8722A038DD00ECFA03 /* IntegerBreak.swift in Sources */,
 				BA20460D227C9D7F009D184A /* LargestTriangleArea.swift in Sources */,
+				D2BC330323ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift in Sources */,
 				BA2D262B229085B500F18A7D /* ConvertSortedListToBinarySearchTree.swift in Sources */,
 				BADBDC9B22A3CBCE00ECFA03 /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */,
 				BA3ACE87226C662C0065FA51 /* AvailableCapturesForRook.swift in Sources */,

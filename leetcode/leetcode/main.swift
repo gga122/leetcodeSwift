@@ -353,7 +353,8 @@ import Foundation
 //OccurrencesAfterBigramSolution.init().test()
 //ConvertBinaryNumberInALinkedListToIntegerSolution.init().test()
 //GameOfLifeSolution.init().test()
-ProductOfArrayExceptSelfSolution.init().test()
+//ProductOfArrayExceptSelfSolution.init().test()
+FindAllDuplicatesInAnArraySolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
