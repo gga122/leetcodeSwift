@@ -352,8 +352,8 @@ import Foundation
 //DistributeCandiesToPeopleSolution.init().test()
 //OccurrencesAfterBigramSolution.init().test()
 //ConvertBinaryNumberInALinkedListToIntegerSolution.init().test()
-GameOfLifeSolution.init().test()
-
+//GameOfLifeSolution.init().test()
+ProductOfArrayExceptSelfSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()

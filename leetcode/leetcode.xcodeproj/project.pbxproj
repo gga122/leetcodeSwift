@@ -357,6 +357,7 @@
 		D20A307123ABBBB600CE73F5 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */; };
 		D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A307223ABBE6400CE73F5 /* GameOfLife.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
+		D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -724,6 +725,7 @@
 		D20A307223ABBE6400CE73F5 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
+		D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -767,6 +769,7 @@
 				BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */,
 				BA2A959E22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift */,
 				BA2A95A222B933E000B246E7 /* PathSumII.swift */,
+				D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */,
 				BA2A959A22B4F0C200B246E7 /* MinimumPathSum.swift */,
 				BA2A95AC22BBFCA200B246E7 /* ValidSudoku.swift */,
 				BA2A95A022B928C100B246E7 /* ReverseLinkedListII.swift */,
@@ -1231,6 +1234,7 @@
 				BA204620227F47B5009D184A /* SumOfTwoIntegers.swift in Sources */,
 				BADBDC9F22A3DFC000ECFA03 /* 4Sum.swift in Sources */,
 				BA204626227F4F9A009D184A /* RangeSumQuery-Immutable.swift in Sources */,
+				D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */,
 				BA2D261122904BE400F18A7D /* CombinationSum.swift in Sources */,
 				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
