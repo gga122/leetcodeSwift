@@ -354,7 +354,8 @@ import Foundation
 //ConvertBinaryNumberInALinkedListToIntegerSolution.init().test()
 //GameOfLifeSolution.init().test()
 //ProductOfArrayExceptSelfSolution.init().test()
-FindAllDuplicatesInAnArraySolution.init().test()
+//FindAllDuplicatesInAnArraySolution.init().test()
+RemoveDuplicatesFromSortedArrayIISolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
