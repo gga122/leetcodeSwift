@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ConvertBinaryNumberInALinkedListToInteger {
+class ConvertBinaryNumberInALinkedListToIntegerSolution {
 
     public class ListNode {
         public var val: Int

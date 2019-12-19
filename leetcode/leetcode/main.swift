@@ -351,7 +351,8 @@ import Foundation
 //DuplicateZerosSolution.init().test()
 //DistributeCandiesToPeopleSolution.init().test()
 //OccurrencesAfterBigramSolution.init().test()
-ConvertBinaryNumberInALinkedListToInteger.init().test()
+//ConvertBinaryNumberInALinkedListToIntegerSolution.init().test()
+FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()

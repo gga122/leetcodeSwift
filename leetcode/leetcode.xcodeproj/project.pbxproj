@@ -354,6 +354,7 @@
 		BAEF0335228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0334228887050084E257 /* PairsOfSongsWithTotalDurationsDivisibleBy60.swift */; };
 		BAEF0337228897710084E257 /* SumOfSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */; };
 		BAEF03392288991D0084E257 /* PerfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF03382288991D0084E257 /* PerfectNumber.swift */; };
+		D20A307123ABBBB600CE73F5 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
 /* End PBXBuildFile section */
 
@@ -720,6 +721,7 @@
 		BAEF0336228897710084E257 /* SumOfSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNumbers.swift; sourceTree = "<group>"; };
 		BAEF03382288991D0084E257 /* PerfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber.swift; sourceTree = "<group>"; };
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
+		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1101,6 +1103,7 @@
 				BA3ACE84226C5DFE0065FA51 /* AssignCookies.swift */,
 				BA3ACE88226C78600065FA51 /* AverageOfLevelInBinaryTree.swift */,
 				D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
+				D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -1366,6 +1369,7 @@
 				BA15F5332270BCD9008B5516 /* SymmetricTree.swift in Sources */,
 				BA2045EC227A0DBB009D184A /* SmallestRangeI.swift in Sources */,
 				BADBDC9322A2BC9A00ECFA03 /* MaximumWidthOfBinaryTree.swift in Sources */,
+				D20A307123ABBBB600CE73F5 /* FirstMissingPositive.swift in Sources */,
 				BA20464E22849244009D184A /* TwoSumIV-InputIsABST.swift in Sources */,
 				BA2ADD1D228DBC0900A6A53B /* CountingBits.swift in Sources */,
 				BADBDCB422AA69DF00ECFA03 /* LetterCombinationsOfAPhoneNumber.swift in Sources */,
