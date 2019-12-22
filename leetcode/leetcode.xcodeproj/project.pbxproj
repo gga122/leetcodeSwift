@@ -363,6 +363,7 @@
 		D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */; };
 		D2BC330923ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */; };
 		D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */; };
+		D2FD2D2323AF249F00B3A57A /* UniquePathsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -736,6 +737,7 @@
 		D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 		D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumbersWithEvenNumberOfDigits.swift; sourceTree = "<group>"; };
+		D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePathsII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1125,6 +1127,7 @@
 				D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
 				D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */,
 				D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */,
+				D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -1415,6 +1418,7 @@
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,
 				BA20464622833F7C009D184A /* SumOfLeftLeaves.swift in Sources */,
 				BA50A9CB229D756800141194 /* HouseRobberIII.swift in Sources */,
+				D2FD2D2323AF249F00B3A57A /* UniquePathsII.swift in Sources */,
 				BADDD2B52286E2E4009172F1 /* FairCandySwap.swift in Sources */,
 				BADDD2C9228728EA009172F1 /* CountBinarySubstrings.swift in Sources */,
 				BADBDC9722A2DD4B00ECFA03 /* DecodeString.swift in Sources */,

@@ -358,7 +358,8 @@ import Foundation
 //RemoveDuplicatesFromSortedArrayIISolution.init().test()
 //SearchInRotatedSortedArrayIISolution.init().test()
 //FindMinimumInRotatedSortedArraySolution.init().test()
-FindNumbersWithEvenNumberOfDigitsSolution.init().test()
+//FindNumbersWithEvenNumberOfDigitsSolution.init().test()
+UniquePathsIISolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
