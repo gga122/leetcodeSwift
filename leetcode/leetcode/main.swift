@@ -360,7 +360,8 @@ import Foundation
 //FindMinimumInRotatedSortedArraySolution.init().test()
 //FindNumbersWithEvenNumberOfDigitsSolution.init().test()
 //UniquePathsIISolution.init().test()
-MaximumProductSubarraySolution.init().test()
+//MaximumProductSubarraySolution.init().test()
+GroupAnagramsSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
