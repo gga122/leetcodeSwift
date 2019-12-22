@@ -16,16 +16,32 @@ class FindMinimumInRotatedSortedArraySolution {
         if nums.count == 1 {
             return nums.first!
         }
-        
-        if nums.count == 2 {
-            return min(nums[0], nums[1])
+        /* If nums is ascend array, just return the first one. */
+        if nums.first! < nums.last! {
+            return nums.first!
+        }
+    
+        var start = 0
+        var end = nums.count - 1
+        while start < end {
+            let mid = (end - start) / 2 + start;
+            if nums[start] < nums[mid] {
+                /* [start, mid] is ascend, skip it. */
+                start = mid + 1
+            } else {
+                /* [mid, end] is ascend, skip it. */
+                if nums[mid] < nums[end] {
+                    end = mid - 1
+                } else {
+                    /* find the point */
+                    if nums[mid] > nums[mid+1] {
+                        return nums[mid+1]
+                    }
+                }
+            }
         }
         
-        let mid = nums.count / 2;
-        let left = findMin(Array(nums[0...mid]))
-        let right = findMin(Array(nums[mid+1...nums.count-1]))
-        
-        return min(left, right)
+        return nums[start]
     }
     
     func test() -> Void {

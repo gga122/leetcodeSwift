@@ -362,6 +362,7 @@
 		D2BC330523ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330423ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift */; };
 		D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */; };
 		D2BC330923ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */; };
+		D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -734,6 +735,7 @@
 		D2BC330423ABD81C00E92CC0 /* RemoveDuplicatesFromSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArrayII.swift; sourceTree = "<group>"; };
 		D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 		D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
+		D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumbersWithEvenNumberOfDigits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1122,6 +1124,7 @@
 				BA3ACE88226C78600065FA51 /* AverageOfLevelInBinaryTree.swift */,
 				D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
 				D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */,
+				D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -1480,6 +1483,7 @@
 				BA2D26622294580B00F18A7D /* MergeIntervals.swift in Sources */,
 				BA2BA38B22C68731002F90B7 /* HeightChecker.swift in Sources */,
 				BA50A9C1229C34DA00141194 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
+				D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
 				BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
