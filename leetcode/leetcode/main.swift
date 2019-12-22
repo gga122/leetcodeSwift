@@ -361,7 +361,8 @@ import Foundation
 //FindNumbersWithEvenNumberOfDigitsSolution.init().test()
 //UniquePathsIISolution.init().test()
 //MaximumProductSubarraySolution.init().test()
-GroupAnagramsSolution.init().test()
+//GroupAnagramsSolution.init().test()
+MajorityElementIISolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()

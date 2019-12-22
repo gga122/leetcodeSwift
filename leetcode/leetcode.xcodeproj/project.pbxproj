@@ -366,6 +366,7 @@
 		D2FD2D2323AF249F00B3A57A /* UniquePathsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */; };
 		D2FD2D2523AF2A4000B3A57A /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */; };
 		D2FD2D2723AF318000B3A57A /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */; };
+		D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -742,6 +743,7 @@
 		D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePathsII.swift; sourceTree = "<group>"; };
 		D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
+		D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1102,6 +1104,7 @@
 				BA20A5CE2263941E00CBD9D4 /* AddBinary.swift */,
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
 				D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */,
+				D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */,
 				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
 				BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */,
 				BA5724372263BC0600AC8930 /* AddDigits.swift */,
@@ -1562,6 +1565,7 @@
 				BA3ACE87226C662C0065FA51 /* AvailableCapturesForRook.swift in Sources */,
 				BAA3E8DB22775F6A003A9F4B /* UniqueEmailAddresses.swift in Sources */,
 				BA20463022809542009D184A /* IncreasingOrderSearchTree.swift in Sources */,
+				D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */,
 				BA2045FA227C1CDB009D184A /* NextGreaterElementI.swift in Sources */,
 				BA15F519226E22D6008B5516 /* MergeTwoSortedLists.swift in Sources */,
 				BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */,
