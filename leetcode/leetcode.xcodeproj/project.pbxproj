@@ -364,6 +364,7 @@
 		D2BC330923ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */; };
 		D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */; };
 		D2FD2D2323AF249F00B3A57A /* UniquePathsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */; };
+		D2FD2D2523AF2A4000B3A57A /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -738,6 +739,7 @@
 		D2BC330823ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		D2FD2D2023AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumbersWithEvenNumberOfDigits.swift; sourceTree = "<group>"; };
 		D2FD2D2223AF249F00B3A57A /* UniquePathsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePathsII.swift; sourceTree = "<group>"; };
+		D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1111,6 +1113,7 @@
 				BA2A236322663157002865A2 /* Base7.swift */,
 				BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */,
 				BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */,
+				D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */,
 				BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */,
 				BA3ACE8E226CAE000065FA51 /* BalancedBinaryTree.swift */,
 				BA2CC0292268CBD100B3AF4D /* ArrangingCoins.swift */,
@@ -1280,6 +1283,7 @@
 				BAA3E8F92279F6FE003A9F4B /* ShortestDistanceToACharacter.swift in Sources */,
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,
 				BADBDC8522A031FD00ECFA03 /* SortColors.swift in Sources */,
+				D2FD2D2523AF2A4000B3A57A /* MaximumProductSubarray.swift in Sources */,
 				BA92A52B22D0D82000349E2B /* DistributeCandiesToPeople.swift in Sources */,
 				BA50A9A722970C9F00141194 /* SwapNodesInPairs.swift in Sources */,
 				BA2A95A722BAA36C00B246E7 /* DivideTwoIntegers.swift in Sources */,
