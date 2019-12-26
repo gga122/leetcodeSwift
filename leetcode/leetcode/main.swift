@@ -363,7 +363,8 @@ import Foundation
 //MaximumProductSubarraySolution.init().test()
 //GroupAnagramsSolution.init().test()
 //MajorityElementIISolution.init().test()
-FindPeakElementSolution.init().test()
+//FindPeakElementSolution.init().test()
+SummaryRangesSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
