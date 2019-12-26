@@ -10,7 +10,18 @@ import Foundation
 
 class FindPeakElementSolution {
     func findPeakElement(_ nums: [Int]) -> Int {
-        return search(nums, 0, nums.count - 1)
+        var l = 0
+        var r = nums.count - 1
+        while l < r {
+            let mid = (l + r) / 2
+            if nums[mid] > nums[mid + 1] {
+                r = mid
+            } else {
+                l = mid + 1
+            }
+        }
+        
+        return l
     }
     
     func search(_ nums: [Int], _ l: Int, _ r: Int) -> Int {
