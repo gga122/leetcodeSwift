@@ -362,7 +362,8 @@ import Foundation
 //UniquePathsIISolution.init().test()
 //MaximumProductSubarraySolution.init().test()
 //GroupAnagramsSolution.init().test()
-MajorityElementIISolution.init().test()
+//MajorityElementIISolution.init().test()
+FindPeakElementSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()

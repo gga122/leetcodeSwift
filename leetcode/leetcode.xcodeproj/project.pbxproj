@@ -367,6 +367,7 @@
 		D2FD2D2523AF2A4000B3A57A /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */; };
 		D2FD2D2723AF318000B3A57A /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */; };
 		D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */; };
+		D2FD2D2B23AFBF0700B3A57A /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -744,6 +745,7 @@
 		D2FD2D2423AF2A4000B3A57A /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
 		D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII.swift; sourceTree = "<group>"; };
+		D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1105,6 +1107,7 @@
 				BA20A5D02263B1EB00CBD9D4 /* InvertBinaryTree.swift */,
 				D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */,
 				D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */,
+				D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */,
 				BA20A5D22263B57B00CBD9D4 /* SqrtX.swift */,
 				BA2DE130227211E000FD620A /* TwoSumII-InputArrayIsSorted.swift */,
 				BA5724372263BC0600AC8930 /* AddDigits.swift */,
@@ -1379,6 +1382,7 @@
 				BA20463E228326D5009D184A /* FindAllNumbersDisappearedInAnArray.swift in Sources */,
 				BA20463A2281D13C009D184A /* VerifyingAnAlienDictionary.swift in Sources */,
 				D2FD2D2723AF318000B3A57A /* GroupAnagrams.swift in Sources */,
+				D2FD2D2B23AFBF0700B3A57A /* FindPeakElement.swift in Sources */,
 				D2BC330923ABEE7300E92CC0 /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				BA2DE1352272194100FD620A /* MajorityElement.swift in Sources */,
 				BAEF032F228872FE0084E257 /* LongestContinuousIncreasingSubsequence.swift in Sources */,
