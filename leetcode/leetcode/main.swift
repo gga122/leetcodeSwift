@@ -364,7 +364,8 @@ import Foundation
 //GroupAnagramsSolution.init().test()
 //MajorityElementIISolution.init().test()
 //FindPeakElementSolution.init().test()
-SummaryRangesSolution.init().test()
+//SummaryRangesSolution.init().test()
+ThirdMaximumNumberSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
