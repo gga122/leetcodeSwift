@@ -365,7 +365,8 @@ import Foundation
 //MajorityElementIISolution.init().test()
 //FindPeakElementSolution.init().test()
 //SummaryRangesSolution.init().test()
-ThirdMaximumNumberSolution.init().test()
+//ThirdMaximumNumberSolution.init().test()
+TeemoAttackingSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
