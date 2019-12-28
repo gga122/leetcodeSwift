@@ -369,7 +369,8 @@ import Foundation
 //TeemoAttackingSolution.init().test()
 //MagicSquaresInGridSolution.init().test()
 //TaskSchedulerSolution.init().test()
-ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
+//ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
+DeepestLeavesSumSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
