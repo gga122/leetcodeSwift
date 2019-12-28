@@ -370,7 +370,8 @@ import Foundation
 //MagicSquaresInGridSolution.init().test()
 //TaskSchedulerSolution.init().test()
 //ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
-DeepestLeavesSumSolution.init().test()
+//DeepestLeavesSumSolution.init().test()
+SumOfMutatedArrayClosestToTargetSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
