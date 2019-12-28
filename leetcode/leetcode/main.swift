@@ -367,7 +367,8 @@ import Foundation
 //SummaryRangesSolution.init().test()
 //ThirdMaximumNumberSolution.init().test()
 //TeemoAttackingSolution.init().test()
-MagicSquaresInGridSolution.init().test()
+//MagicSquaresInGridSolution.init().test()
+TaskSchedulerSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
