@@ -368,7 +368,8 @@ import Foundation
 //ThirdMaximumNumberSolution.init().test()
 //TeemoAttackingSolution.init().test()
 //MagicSquaresInGridSolution.init().test()
-TaskSchedulerSolution.init().test()
+//TaskSchedulerSolution.init().test()
+ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
