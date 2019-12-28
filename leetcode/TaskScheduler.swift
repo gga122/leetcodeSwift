@@ -25,25 +25,24 @@ class TaskSchedulerSolution {
             return val1 > val2
         }
         
-        var least = 0
-        while entries[0] > 0 {
-            var i = 0
-            while i <= n {
-                if entries[0] == 0 {
-                    break
-                }
-                if i < 26 && entries[i] > 0 {
-                    entries[i] -= 1
-                }
-                least += 1
-                i += 1
+        var maxCount = 0
+        for entry in entries {
+            if entry > 0 {
+                maxCount += 1
+            } else {
+                break
             }
-            entries = entries.sorted(by: { (val1, val2) -> Bool in
-                return val1 > val2
-            })
         }
         
-        return least
+        let maxVal = entries[0] - 1
+        var idleSlots = maxVal * n
+        var i = 1
+        while i < maxCount && entries[i] > 0 {
+            idleSlots -= min(entries[i], maxVal)
+            i += 1
+        }
+        
+        return idleSlots > 0 ? idleSlots + tasks.count : tasks.count
     }
     
     func test() -> Void {
