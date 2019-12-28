@@ -361,6 +361,10 @@
 		D2AED42823B7CF0700E0407B /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED42723B7CF0700E0407B /* FindMinimumInRotatedSortedArray.swift */; };
 		D2AED42B23B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */; };
 		D2AED42C23B7CF3E00E0407B /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED42A23B7CF3E00E0407B /* TaskScheduler.swift */; };
+		D2AED42E23B7CFD400E0407B /* DeepestLeavesSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED42D23B7CFD400E0407B /* DeepestLeavesSum.swift */; };
+		D2AED43023B7D06C00E0407B /* SumOfMutatedArrayClosestToTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED42F23B7D06C00E0407B /* SumOfMutatedArrayClosestToTarget.swift */; };
+		D2AED43223B7D18400E0407B /* NumberOfPathsWithMaxScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43123B7D18400E0407B /* NumberOfPathsWithMaxScore.swift */; };
+		D2AED43423B7E2EA00E0407B /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43323B7E2EA00E0407B /* PartitionList.swift */; };
 		D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */; };
 		D2BC330323ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */; };
 		D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */; };
@@ -746,6 +750,10 @@
 		D2AED42723B7CF0700E0407B /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArrayII.swift; sourceTree = "<group>"; };
 		D2AED42A23B7CF3E00E0407B /* TaskScheduler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
+		D2AED42D23B7CFD400E0407B /* DeepestLeavesSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepestLeavesSum.swift; sourceTree = "<group>"; };
+		D2AED42F23B7D06C00E0407B /* SumOfMutatedArrayClosestToTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfMutatedArrayClosestToTarget.swift; sourceTree = "<group>"; };
+		D2AED43123B7D18400E0407B /* NumberOfPathsWithMaxScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfPathsWithMaxScore.swift; sourceTree = "<group>"; };
+		D2AED43323B7E2EA00E0407B /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
 		D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 		D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDuplicatesInAnArray.swift; sourceTree = "<group>"; };
 		D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
@@ -800,11 +808,15 @@
 				D2AED42723B7CF0700E0407B /* FindMinimumInRotatedSortedArray.swift */,
 				D2AED42523B7CEBB00E0407B /* ReplaceElementsWithGreatestElementOnRightSide.swift */,
 				D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */,
+				D2AED43323B7E2EA00E0407B /* PartitionList.swift */,
 				D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */,
 				BADBDCBF22AC4B5E00ECFA03 /* LongestValidParentheses.swift */,
 				BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */,
 				BA2BA38A22C68731002F90B7 /* HeightChecker.swift */,
 				BA2A95AA22BBF1F400B246E7 /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
+				D2AED42D23B7CFD400E0407B /* DeepestLeavesSum.swift */,
+				D2AED42F23B7D06C00E0407B /* SumOfMutatedArrayClosestToTarget.swift */,
+				D2AED43123B7D18400E0407B /* NumberOfPathsWithMaxScore.swift */,
 				BA92A52C22D0E19300349E2B /* OccurrencesAfterBigram.swift */,
 				BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */,
 				BA2A959E22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift */,
@@ -1249,6 +1261,7 @@
 				BAEF031D22882FD40084E257 /* FindSmallestLetterGreaterThanTarget.swift in Sources */,
 				BA2A959D22B518CA00B246E7 /* UniqueBinarySearchTrees.swift in Sources */,
 				BA15F52F2270B3FE008B5516 /* MergeSortedArray.swift in Sources */,
+				D2AED43223B7D18400E0407B /* NumberOfPathsWithMaxScore.swift in Sources */,
 				BA2D265C2294416000F18A7D /* SearchInRotatedSortedArray.swift in Sources */,
 				D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */,
 				BA7FE813228C4B24009B8B23 /* Dota2Senate.swift in Sources */,
@@ -1531,6 +1544,7 @@
 				D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
 				BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */,
+				D2AED43423B7E2EA00E0407B /* PartitionList.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BADBDCA122A40A2300ECFA03 /* WordBreak.swift in Sources */,
 				BADDD2C722872765009172F1 /* ReverseVowelsOfAString.swift in Sources */,
@@ -1599,6 +1613,8 @@
 				D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */,
 				BA2045FA227C1CDB009D184A /* NextGreaterElementI.swift in Sources */,
 				BA15F519226E22D6008B5516 /* MergeTwoSortedLists.swift in Sources */,
+				D2AED43023B7D06C00E0407B /* SumOfMutatedArrayClosestToTarget.swift in Sources */,
+				D2AED42E23B7CFD400E0407B /* DeepestLeavesSum.swift in Sources */,
 				BA2CC02E2268D96B00B3AF4D /* AddStrings.swift in Sources */,
 				D2CBF47523B522AC00C6DDD0 /* SummaryRanges.swift in Sources */,
 				BA2045F4227B5CE2009D184A /* MiddleOfTheLinkedList.swift in Sources */,

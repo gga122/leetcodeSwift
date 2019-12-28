@@ -371,7 +371,9 @@ import Foundation
 //TaskSchedulerSolution.init().test()
 //ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
 //DeepestLeavesSumSolution.init().test()
-SumOfMutatedArrayClosestToTargetSolution.init().test()
+//SumOfMutatedArrayClosestToTargetSolution.init().test()
+PartitionListSolution.init().test()
+//NumberOfPathsWithMaxScoreSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
