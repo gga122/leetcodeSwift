@@ -376,7 +376,8 @@ import Foundation
 //FindNUniqueIntegersSumUpToZeroSolution.init().test()
 //AllElementsInTwoBinarySearchTreesSolution.init().test()
 //JumpGameIIISolution.init().test()
-VerbalArithmeticPuzzleSolution.init().test()
+K_diffPairsInAnArraySolution.init().test()
+//VerbalArithmeticPuzzleSolution.init().test()
 
 //NumberOfPathsWithMaxScoreSolution.init().test()
 
