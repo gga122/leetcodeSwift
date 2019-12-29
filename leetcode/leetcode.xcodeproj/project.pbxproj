@@ -370,6 +370,7 @@
 		D2AED43A23B8917100E0407B /* JumpGameIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43923B8917100E0407B /* JumpGameIII.swift */; };
 		D2AED43C23B891C800E0407B /* VerbalArithmeticPuzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43B23B891C800E0407B /* VerbalArithmeticPuzzle.swift */; };
 		D2AED43E23B8A97500E0407B /* K-diffPairsInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43D23B8A97500E0407B /* K-diffPairsInAnArray.swift */; };
+		D2AED44023B8B00200E0407B /* MaximumAverageSubarrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AED43F23B8B00200E0407B /* MaximumAverageSubarrayI.swift */; };
 		D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */; };
 		D2BC330323ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */; };
 		D2BC330723ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */; };
@@ -764,6 +765,7 @@
 		D2AED43923B8917100E0407B /* JumpGameIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGameIII.swift; sourceTree = "<group>"; };
 		D2AED43B23B891C800E0407B /* VerbalArithmeticPuzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbalArithmeticPuzzle.swift; sourceTree = "<group>"; };
 		D2AED43D23B8A97500E0407B /* K-diffPairsInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "K-diffPairsInAnArray.swift"; sourceTree = "<group>"; };
+		D2AED43F23B8B00200E0407B /* MaximumAverageSubarrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAverageSubarrayI.swift; sourceTree = "<group>"; };
 		D2BC330023ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 		D2BC330223ABD68F00E92CC0 /* FindAllDuplicatesInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDuplicatesInAnArray.swift; sourceTree = "<group>"; };
 		D2BC330623ABE22A00E92CC0 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
@@ -794,6 +796,7 @@
 		BA20A5A9226338AF00CBD9D4 = {
 			isa = PBXGroup;
 			children = (
+				D2AED43F23B8B00200E0407B /* MaximumAverageSubarrayI.swift */,
 				BADBDCA222A433CA00ECFA03 /* DP_Basic */,
 				BA20A5B4226338AF00CBD9D4 /* leetcode */,
 				BA20A5B3226338AF00CBD9D4 /* Products */,
@@ -1584,6 +1587,7 @@
 				BA2D2617229057C000F18A7D /* AllPossibleFullBinaryTrees.swift in Sources */,
 				BA204628227F52F9009D184A /* MaxConsecutiveOnes.swift in Sources */,
 				BADBDCAA22A562DB00ECFA03 /* NextGreaterElementIII.swift in Sources */,
+				D2AED44023B8B00200E0407B /* MaximumAverageSubarrayI.swift in Sources */,
 				BADDD2BD2287073B009172F1 /* ReverseOnlyLetters.swift in Sources */,
 				BADBDC81229EDA4D00ECFA03 /* SubsetsII.swift in Sources */,
 				BAA3E8AF227490C8003A9F4B /* MissingNumber.swift in Sources */,
