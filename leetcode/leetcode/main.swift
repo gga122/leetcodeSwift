@@ -372,7 +372,9 @@ import Foundation
 //ReplaceElementsWithGreatestElementOnRightSideSolution.init().test()
 //DeepestLeavesSumSolution.init().test()
 //SumOfMutatedArrayClosestToTargetSolution.init().test()
-PartitionListSolution.init().test()
+//PartitionListSolution.init().test()
+FindNUniqueIntegersSumUpToZeroSolution.init().test()
+
 //NumberOfPathsWithMaxScoreSolution.init().test()
 
 /* Failure */
