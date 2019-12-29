@@ -374,7 +374,8 @@ import Foundation
 //SumOfMutatedArrayClosestToTargetSolution.init().test()
 //PartitionListSolution.init().test()
 //FindNUniqueIntegersSumUpToZeroSolution.init().test()
-AllElementsInTwoBinarySearchTreesSolution.init().test()
+//AllElementsInTwoBinarySearchTreesSolution.init().test()
+JumpGameIIISolution.init().test()
 
 //NumberOfPathsWithMaxScoreSolution.init().test()
 
