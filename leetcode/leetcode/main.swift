@@ -373,7 +373,8 @@ import Foundation
 //DeepestLeavesSumSolution.init().test()
 //SumOfMutatedArrayClosestToTargetSolution.init().test()
 //PartitionListSolution.init().test()
-FindNUniqueIntegersSumUpToZeroSolution.init().test()
+//FindNUniqueIntegersSumUpToZeroSolution.init().test()
+AllElementsInTwoBinarySearchTreesSolution.init().test()
 
 //NumberOfPathsWithMaxScoreSolution.init().test()
 
