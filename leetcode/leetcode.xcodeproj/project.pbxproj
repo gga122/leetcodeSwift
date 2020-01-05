@@ -387,6 +387,8 @@
 		D2FD2D2B23AFBF0700B3A57A /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */; };
 		D2FE341223C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */; };
 		D2FE341423C1DDD500550E9E /* XORQueriesOfASubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */; };
+		D2FE341623C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */; };
+		D2FE341823C2452E00550E9E /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -822,6 +824,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				D2AED43D23B8A97500E0407B /* K-diffPairsInAnArray.swift */,
+				D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */,
 				D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */,
 				D2AED43523B8906F00E0407B /* FindNUniqueIntegersSumUpToZero.swift */,
 				D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */,
@@ -1573,6 +1576,7 @@
 				D2FD2D2123AF23ED00B3A57A /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				BADDD2AD2286C8F1009172F1 /* MinimumMovesToEqualArrayElements.swift in Sources */,
 				BAEF032322885BC90084E257 /* PositionsOfLargeGroups.swift in Sources */,
+				D2FE341823C2452E00550E9E /* LongestPalindromicSubsequence.swift in Sources */,
 				D2AED43423B7E2EA00E0407B /* PartitionList.swift in Sources */,
 				BA15F517226E1FD7008B5516 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
 				BADBDCA122A40A2300ECFA03 /* WordBreak.swift in Sources */,

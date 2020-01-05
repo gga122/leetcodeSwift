@@ -381,7 +381,8 @@ import Foundation
 //VerbalArithmeticPuzzleSolution.init().test()
 //NumberOfPathsWithMaxScoreSolution.init().test()
 //DecryptStringFromAlphabetToIntegerMappingSolution.init().test()
-XORQueriesOfASubarraySolution.init().test()
+//XORQueriesOfASubarraySolution.init().test()
+LongestPalindromicSubsequenceSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
