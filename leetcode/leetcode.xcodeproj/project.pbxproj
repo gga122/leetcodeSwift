@@ -386,6 +386,7 @@
 		D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */; };
 		D2FD2D2B23AFBF0700B3A57A /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */; };
 		D2FE341223C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */; };
+		D2FE341423C1DDD500550E9E /* XORQueriesOfASubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -782,6 +783,7 @@
 		D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII.swift; sourceTree = "<group>"; };
 		D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 		D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptStringFromAlphabetToIntegerMapping.swift; sourceTree = "<group>"; };
+		D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XORQueriesOfASubarray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -820,6 +822,7 @@
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
 				D2AED43D23B8A97500E0407B /* K-diffPairsInAnArray.swift */,
+				D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */,
 				D2AED43523B8906F00E0407B /* FindNUniqueIntegersSumUpToZero.swift */,
 				D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */,
 				D2AED42A23B7CF3E00E0407B /* TaskScheduler.swift */,
@@ -1429,6 +1432,7 @@
 				BADBDC9522A2C75100ECFA03 /* LargestNumber.swift in Sources */,
 				BA92A52D22D0E19300349E2B /* OccurrencesAfterBigram.swift in Sources */,
 				BA204602227C40D7009D184A /* DesignHashSet.swift in Sources */,
+				D2FE341423C1DDD500550E9E /* XORQueriesOfASubarray.swift in Sources */,
 				BA3ACE9D226CDC0F0065FA51 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				BA7FE817228C6152009B8B23 /* LongestPalindromicSubstring.swift in Sources */,
 				BA50A9C5229C4ED600141194 /* LongestIncreasingSubsequence.swift in Sources */,
