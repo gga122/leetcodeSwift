@@ -389,6 +389,7 @@
 		D2FE341423C1DDD500550E9E /* XORQueriesOfASubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */; };
 		D2FE341623C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */; };
 		D2FE341823C2452E00550E9E /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */; };
+		D2FE341A23C252D600550E9E /* PermutationSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341923C252D600550E9E /* PermutationSequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -788,6 +789,7 @@
 		D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XORQueriesOfASubarray.swift; sourceTree = "<group>"; };
 		D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumInsertionStepsToMakeAStringPalindrome.swift; sourceTree = "<group>"; };
 		D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
+		D2FE341923C252D600550E9E /* PermutationSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationSequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -829,6 +831,7 @@
 				D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */,
 				D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */,
 				D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */,
+				D2FE341923C252D600550E9E /* PermutationSequence.swift */,
 				D2AED43523B8906F00E0407B /* FindNUniqueIntegersSumUpToZero.swift */,
 				D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */,
 				D2AED42A23B7CF3E00E0407B /* TaskScheduler.swift */,
@@ -1501,6 +1504,7 @@
 				BADDD2CD228730D3009172F1 /* DegreeOfAnArray.swift in Sources */,
 				BA2D262122907B4000F18A7D /* BinaryTreeInorderTraversal.swift in Sources */,
 				BA7FE815228C53D1009B8B23 /* MedianOfTwoSortedArrays.swift in Sources */,
+				D2FE341A23C252D600550E9E /* PermutationSequence.swift in Sources */,
 				BA20464022832B71009D184A /* ComplementOfBase10Integer.swift in Sources */,
 				BAA3E8D722775D36003A9F4B /* SelfDividingNumbers.swift in Sources */,
 				BADDD2A92286C455009172F1 /* FloodFill.swift in Sources */,

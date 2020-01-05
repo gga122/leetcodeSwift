@@ -383,7 +383,8 @@ import Foundation
 //DecryptStringFromAlphabetToIntegerMappingSolution.init().test()
 //XORQueriesOfASubarraySolution.init().test()
 //LongestPalindromicSubsequenceSolution.init().test()
-MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
+//MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
+PermutationSequenceSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
