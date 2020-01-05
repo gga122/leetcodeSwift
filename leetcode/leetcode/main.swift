@@ -382,7 +382,8 @@ import Foundation
 //NumberOfPathsWithMaxScoreSolution.init().test()
 //DecryptStringFromAlphabetToIntegerMappingSolution.init().test()
 //XORQueriesOfASubarraySolution.init().test()
-LongestPalindromicSubsequenceSolution.init().test()
+//LongestPalindromicSubsequenceSolution.init().test()
+MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()

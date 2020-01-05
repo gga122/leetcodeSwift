@@ -786,6 +786,8 @@
 		D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 		D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptStringFromAlphabetToIntegerMapping.swift; sourceTree = "<group>"; };
 		D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XORQueriesOfASubarray.swift; sourceTree = "<group>"; };
+		D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumInsertionStepsToMakeAStringPalindrome.swift; sourceTree = "<group>"; };
+		D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -826,6 +828,7 @@
 				D2AED43D23B8A97500E0407B /* K-diffPairsInAnArray.swift */,
 				D2FE341723C2452E00550E9E /* LongestPalindromicSubsequence.swift */,
 				D2FE341323C1DDD500550E9E /* XORQueriesOfASubarray.swift */,
+				D2FE341523C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift */,
 				D2AED43523B8906F00E0407B /* FindNUniqueIntegersSumUpToZero.swift */,
 				D2AED42923B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift */,
 				D2AED42A23B7CF3E00E0407B /* TaskScheduler.swift */,
@@ -1615,6 +1618,7 @@
 				BADDD2CB22872CFB009172F1 /* TwoCityScheduling.swift in Sources */,
 				BAA3E8D122775922003A9F4B /* NimGame.swift in Sources */,
 				BA20462A227F540F009D184A /* MoveZeroes.swift in Sources */,
+				D2FE341623C1DE7A00550E9E /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */,
 				BA20464822834302009D184A /* RelativeRanks.swift in Sources */,
 				BAEF032B228869130084E257 /* LongPressedName.swift in Sources */,
 				BA15F5512270DA1B008B5516 /* ValidPalindrome.swift in Sources */,
