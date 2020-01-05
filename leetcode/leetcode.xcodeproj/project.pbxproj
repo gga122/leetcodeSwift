@@ -385,6 +385,7 @@
 		D2FD2D2723AF318000B3A57A /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */; };
 		D2FD2D2923AF9B9900B3A57A /* MajorityElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */; };
 		D2FD2D2B23AFBF0700B3A57A /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */; };
+		D2FE341223C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -780,6 +781,7 @@
 		D2FD2D2623AF318000B3A57A /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
 		D2FD2D2823AF9B9900B3A57A /* MajorityElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII.swift; sourceTree = "<group>"; };
 		D2FD2D2A23AFBF0700B3A57A /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
+		D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptStringFromAlphabetToIntegerMapping.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -797,6 +799,7 @@
 			isa = PBXGroup;
 			children = (
 				D2AED43F23B8B00200E0407B /* MaximumAverageSubarrayI.swift */,
+				D2FE341123C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift */,
 				BADBDCA222A433CA00ECFA03 /* DP_Basic */,
 				BA20A5B4226338AF00CBD9D4 /* leetcode */,
 				BA20A5B3226338AF00CBD9D4 /* Products */,
@@ -1513,6 +1516,7 @@
 				BAEF032D22886ECD0084E257 /* LongestHarmoniousSubsequence.swift in Sources */,
 				BA2D261F22906A9C00F18A7D /* DifferentWaysToAddParentheses.swift in Sources */,
 				BA204609227C90CF009D184A /* ProjectionAreaOf3DShapes.swift in Sources */,
+				D2FE341223C1DD5000550E9E /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */,
 				BADBDCB622AA6D2500ECFA03 /* LRUCache.swift in Sources */,
 				BA2046382281CC28009D184A /* RotatedDigits.swift in Sources */,
 				BA2D263F2292F04600F18A7D /* PalindromePartitioning.swift in Sources */,

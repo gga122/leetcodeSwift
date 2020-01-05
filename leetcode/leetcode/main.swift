@@ -377,10 +377,10 @@ import Foundation
 //AllElementsInTwoBinarySearchTreesSolution.init().test()
 //JumpGameIIISolution.init().test()
 //K_diffPairsInAnArraySolution.init().test()
-MaximumAverageSubarrayISolution.init().test()
+//MaximumAverageSubarrayISolution.init().test()
 //VerbalArithmeticPuzzleSolution.init().test()
-
 //NumberOfPathsWithMaxScoreSolution.init().test()
+DecryptStringFromAlphabetToIntegerMappingSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
