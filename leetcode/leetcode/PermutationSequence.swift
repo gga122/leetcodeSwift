@@ -11,6 +11,52 @@ import Foundation
 class PermutationSequenceSolution {
     
     func getPermutation(_ n: Int, _ k: Int) -> String {
+        var k = k
+        
+        let facts = [1,1,2,6,24,120,720,5040,40320,362880]
+        var flags = [Bool].init(repeating: false, count: n+1)
+        
+        var result = [Int]()
+        for i in (0..<n).reversed() {
+            let v = facts[i]
+            let divVal = k / v
+            let modVal = k % v
+            if divVal > 0 {
+                var current = divVal
+                if modVal > 0 {
+                    current += 1
+                }
+                
+                if flags[current] {
+                    for j in 1..<flags.count {
+                        if !flags[j] {
+                            current = j
+                        }
+                    }
+                }
+                
+                result.append(current)
+                flags[current] = true
+            }
+            
+            k -= (divVal-1) * i
+        }
+        for j in 1..<flags.count {
+            if !flags[j] {
+                result.append(j)
+            }
+        }
+        
+        var str = ""
+        for ele in result {
+            str += "\(ele)"
+        }
+        
+        return str
+    }
+    
+    /* 直接回溯会超时
+    func getPermutation(_ n: Int, _ k: Int) -> String {
         var results = [[Int]]()
         var usedFlags = [Bool].init(repeating: false, count: n)
         var tmp = [Int]()
@@ -48,7 +94,7 @@ class PermutationSequenceSolution {
             flags[i] = false
         }
     }
-     
+     */
  
     func test() -> Void {
         print(getPermutation(3, 3))
