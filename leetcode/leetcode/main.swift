@@ -385,7 +385,8 @@ import Foundation
 //LongestPalindromicSubsequenceSolution.init().test()
 //MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
 //PermutationSequenceSolution.init().test()
-UniqueNumberOfOccurrencesSolution.init().test()
+//UniqueNumberOfOccurrencesSolution.init().test()
+H_IndexSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()

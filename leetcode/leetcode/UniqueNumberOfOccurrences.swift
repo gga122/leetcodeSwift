@@ -28,6 +28,6 @@ class UniqueNumberOfOccurrencesSolution {
     }
     
     func test() -> Void {
-        print(uniqueOccurrences([1,2,2,1,1,3])
+        print(uniqueOccurrences([1,2,2,1,1,3]))
     }
 }
