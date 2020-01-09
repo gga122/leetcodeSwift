@@ -14,42 +14,18 @@ class PermutationSequenceSolution {
         var k = k
         
         let facts = [1,1,2,6,24,120,720,5040,40320,362880]
-        var flags = [Bool].init(repeating: false, count: n+1)
+        var flags = [1,2,3,4,5,6,7,8,9]
         
-        var result = [Int]()
+        var str = ""
+        k -= 1
         for i in (0..<n).reversed() {
             let v = facts[i]
             let divVal = k / v
-            let modVal = k % v
-            if divVal > 0 {
-                var current = divVal
-                if modVal > 0 {
-                    current += 1
-                }
-                
-                if flags[current] {
-                    for j in 1..<flags.count {
-                        if !flags[j] {
-                            current = j
-                        }
-                    }
-                }
-                
-                result.append(current)
-                flags[current] = true
-            }
             
-            k -= (divVal-1) * i
-        }
-        for j in 1..<flags.count {
-            if !flags[j] {
-                result.append(j)
-            }
-        }
-        
-        var str = ""
-        for ele in result {
-            str += "\(ele)"
+            let c = flags.remove(at: divVal)
+            str += "\(c)"
+            
+            k -= divVal * v
         }
         
         return str
@@ -97,6 +73,7 @@ class PermutationSequenceSolution {
      */
  
     func test() -> Void {
+        print(getPermutation(3, 2))
         print(getPermutation(3, 3))
         print(getPermutation(4, 9))
         print(getPermutation(9, 116907))

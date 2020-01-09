@@ -384,9 +384,9 @@ import Foundation
 //XORQueriesOfASubarraySolution.init().test()
 //LongestPalindromicSubsequenceSolution.init().test()
 //MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
-//PermutationSequenceSolution.init().test()
+PermutationSequenceSolution.init().test()
 //UniqueNumberOfOccurrencesSolution.init().test()
-H_IndexSolution.init().test()
+//H_IndexSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
