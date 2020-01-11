@@ -387,7 +387,8 @@ import Foundation
 //PermutationSequenceSolution.init().test()
 //UniqueNumberOfOccurrencesSolution.init().test()
 //H_IndexSolution.init().test()
-LastStoneWeightSolution.init().test()
+//LastStoneWeightSolution.init().test()
+DefangingAnIPAddressSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
