@@ -384,12 +384,184 @@ import Foundation
 //XORQueriesOfASubarraySolution.init().test()
 //LongestPalindromicSubsequenceSolution.init().test()
 //MinimumInsertionStepsToMakeAStringPalindromeSolution.init().test()
-PermutationSequenceSolution.init().test()
+//PermutationSequenceSolution.init().test()
 //UniqueNumberOfOccurrencesSolution.init().test()
 //H_IndexSolution.init().test()
+LastStoneWeightSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
+
+//class Solution {
+//    func decompressRLElist(_ nums: [Int]) -> [Int] {
+//        var res = [Int]()
+//        var i = 0
+//        while 2 * i + 1 < nums.count {
+//            let a = nums[2*i]
+//            let b = nums[2*i+1]
+//
+//            for _ in 1...a {
+//                res.append(b)
+//            }
+//
+//            i += 1
+//        }
+//
+//        return res
+//    }
+//
+//    func test() -> Void {
+//        print(decompressRLElist([1,2,3,4]))
+//    }
+//}
+
+//class Solution {
+//
+//    public class TreeNode {
+//        public var val: Int
+//        public var left: TreeNode?
+//        public var right: TreeNode?
+//        public init(_ val: Int) {
+//            self.val = val
+//            self.left = nil
+//            self.right = nil
+//        }
+//    }
+//
+//    func sumEvenGrandparent(_ root: TreeNode?) -> Int {
+//        if root == nil {
+//            return 0
+//        }
+//
+//        var result = 0
+//        var nodes = [root!]
+//        while nodes.count > 0 {
+//            let subnodes = getSubnodes(nodes)
+//            for n in nodes {
+//                if n.val % 2 == 0 {
+//                    result += getGrandsonsSum(n)
+//                }
+//            }
+//            nodes = subnodes
+//        }
+//
+//        return result
+//    }
+//
+//    func getGrandsonsSum(_ node: TreeNode?) -> Int {
+//        if node == nil {
+//            return 0
+//        }
+//
+//        var subnodes = getSubnodes([node!])
+//        if subnodes.count == 0 {
+//            return 0
+//        }
+//        subnodes = getSubnodes(subnodes)
+//        if subnodes.count == 0 {
+//            return 0
+//        }
+//        var result = 0
+//        for n in subnodes {
+//            result += n.val
+//        }
+//
+//        return result
+//    }
+//
+//    func getSubnodes(_ nodes: [TreeNode]?) -> [TreeNode] {
+//        if nodes == nil {
+//            return []
+//        }
+//
+//        var subnodes = [TreeNode]()
+//        for node in nodes! {
+//            if let left = node.left {
+//                subnodes.append(left)
+//            }
+//            if let right = node.right {
+//                subnodes.append(right)
+//            }
+//        }
+//
+//        return subnodes
+//    }
+//
+//    func test() -> Void {
+//        let n0 = TreeNode.init(6)
+//        let n1 = TreeNode.init(7)
+//        n0.left = n1
+//        let n2 = TreeNode.init(8)
+//        n0.right = n2
+//
+//        let n3 = TreeNode.init(2)
+//        n1.left = n3
+//        let n4 = TreeNode.init(7)
+//        n1.right = n4
+//
+//        let n5 = TreeNode.init(1)
+//        n2.left = n5
+//        let n6 = TreeNode.init(3)
+//        n2.right = n6
+//
+//        let n7 = TreeNode.init(9)
+//        n3.left = n7
+//        let n9 = TreeNode.init(1)
+//        n4.left = n9
+//        let n10 = TreeNode.init(4)
+//        n4.right = n10
+//
+//        let n14 = TreeNode.init(5)
+//        n6.right = n14
+//
+//        print(sumEvenGrandparent(n0))
+//    }
+//}
+
+//class Solution {
+//    func matrixBlockSum(_ mat: [[Int]], _ K: Int) -> [[Int]] {
+//        if mat.count == 0 {
+//            return mat
+//        }
+//        if mat[0].count == 0 {
+//            return mat
+//        }
+//        if K == 0 {
+//            return mat
+//        }
+//
+//        var map = [String: Int]()
+//        var res = mat
+//        for i in 0..<mat.count {
+//            for j in 0..<mat[i].count {
+//                let minR = max(i - K, 0)
+//                let maxR = min(i + K, mat.count-1)
+//                let minC = max(j - K, 0)
+//                let maxC = min(j + K, mat[i].count-1)
+//
+//                res[i][j] = 0
+//                for r in minR...maxR {
+//                    let k = "\(r)-\(minC)_\(maxC)"
+//                    var v = map[k]
+//                    if v == nil {
+//                        let sub = mat[r][minC...maxC]
+//                        v = sub.reduce(0, +)
+//                        map[k] = v
+//                    }
+//
+//                    res[i][j] += v!
+//                }
+//            }
+//        }
+//
+//        return res
+//    }
+//
+//    func test() -> Void {
+//        print(matrixBlockSum([[1,2,3],[4,5,6],[7,8,9]], 1))
+//        print(matrixBlockSum([[1,2,3],[4,5,6],[7,8,9]], 2))
+//    }
+//}
