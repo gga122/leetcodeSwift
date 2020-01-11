@@ -388,36 +388,14 @@ import Foundation
 //UniqueNumberOfOccurrencesSolution.init().test()
 //H_IndexSolution.init().test()
 //LastStoneWeightSolution.init().test()
-DefangingAnIPAddressSolution.init().test()
+//DefangingAnIPAddressSolution.init().test()
+DecompressRun_LengthEncodedListSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
-
-//class Solution {
-//    func decompressRLElist(_ nums: [Int]) -> [Int] {
-//        var res = [Int]()
-//        var i = 0
-//        while 2 * i + 1 < nums.count {
-//            let a = nums[2*i]
-//            let b = nums[2*i+1]
-//
-//            for _ in 1...a {
-//                res.append(b)
-//            }
-//
-//            i += 1
-//        }
-//
-//        return res
-//    }
-//
-//    func test() -> Void {
-//        print(decompressRLElist([1,2,3,4]))
-//    }
-//}
 
 //class Solution {
 //
