@@ -391,10 +391,143 @@ import Foundation
 //DefangingAnIPAddressSolution.init().test()
 //DecompressRun_LengthEncodedListSolution.init().test()
 //NodesWithEven_ValuedGrandparentSolution.init().test()
-MatrixBlockSumSolution.init().test()
+//MatrixBlockSumSolution.init().test()
+CapacityToShipPackagesWithinDDaysSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
+
+//class Solution {
+//    func getNoZeroIntegers(_ n: Int) -> [Int] {
+//        var target = 0
+//        for i in 1...n/2 {
+//            if containZero(i) {
+//                continue
+//            }
+//            if containZero(n-i) {
+//                continue
+//            }
+//            target = i
+//            break
+//        }
+//
+//        return [target, n-target]
+//    }
+//
+//    func containZero(_ num: Int) -> Bool {
+//        if num == 0 {
+//            return true
+//        }
+//        var num = num
+//        while num > 0 {
+//            if num % 10 == 0 {
+//                return true
+//            }
+//            num = num / 10
+//        }
+//
+//        return false
+//    }
+//
+//    func test() -> Void {
+//        print(getNoZeroIntegers(2))
+//        print(getNoZeroIntegers(11))
+//        print(getNoZeroIntegers(10000))
+//    }
+//}
+
+//class Solution {
+//    func minFlips(_ a: Int, _ b: Int, _ c: Int) -> Int {
+//        let binaryA = getBinary(a)
+//        let binaryB = getBinary(b)
+//        let binaryC = getBinary(c)
+//
+//        var count = 0
+//        for i in 0...64 {
+//            var bitA = 0
+//            if i < binaryA.count {
+//                bitA = binaryA[i]
+//            }
+//            var bitB = 0
+//            if i < binaryB.count {
+//                bitB = binaryB[i]
+//            }
+//            var bitC = 0
+//            if i < binaryC.count {
+//                bitC = binaryC[i]
+//            }
+//
+//            if bitA | bitB == bitC {
+//                continue
+//            }
+//            let distance = bitA + bitB - bitC
+//            count += abs(distance)
+//        }
+//
+//        return count
+//    }
+//
+//    func getBinary(_ n: Int) -> [Int] {
+//        var n = n
+//        var res = [Int]()
+//        while n > 0 {
+//            let bit = n % 2
+//            n = n / 2
+//            res.append(bit)
+//        }
+//
+//        return res
+//    }
+//
+//    func test() -> Void {
+//        print(minFlips(2, 6, 5))
+//        print(minFlips(4, 2, 7))
+//        print(minFlips(1, 2, 3))
+//    }
+//}
+
+//class Solution {
+//    func makeConnected(_ n: Int, _ connections: [[Int]]) -> Int {
+//        if connections.count < n - 1 {
+//            return -1
+//        }
+//
+//        var connections = connections
+//        var connectedCount = [Int: Int]()
+//        for connection in connections {
+//            let computer0 = connection[0]
+//            let computer1 = connection[1]
+//            if let count = connectedCount[computer0] {
+//                connectedCount[computer0] = count + 1
+//            } else {
+//                connectedCount[computer0] = 1
+//            }
+//            if let count = connectedCount[computer1] {
+//                connectedCount[computer1] = count + 1
+//            } else {
+//                connectedCount[computer1] = 1
+//            }
+//        }
+//
+//        var count = 0
+//        for (k,v) in connectedCount {
+//            if v > 1 {
+//                count += 1
+//            }
+//        }
+//
+//        return count
+//    }
+//
+//    func test() -> Void {
+//        print(makeConnected(6, [[0,1],[0,2],[0,3],[1,2],[1,3]]))
+//        print(makeConnected(6, [[0,1],[0,2],[0,3],[1,2]]))
+//        print(makeConnected(5, [[0,1],[0,2],[3,4],[2,3]]))
+//        print(makeConnected(4, [[0,1],[0,2],[1,2]]))
+//    }
+//}
+//
+//Solution.init().test()
