@@ -8,41 +8,52 @@
 
 import Foundation
 
-class MinimumFlipsToMakeAORBEqualToCSolution {
-    func getNoZeroIntegers(_ n: Int) -> [Int] {
-        var target = 0
-        for i in 1...n/2 {
-            if containZero(i) {
+class MinimumFlipsToMakeAORBEqualToCSolutionSolution {
+    func minFlips(_ a: Int, _ b: Int, _ c: Int) -> Int {
+        let binaryA = getBinary(a)
+        let binaryB = getBinary(b)
+        let binaryC = getBinary(c)
+
+        var count = 0
+        for i in 0...64 {
+            var bitA = 0
+            if i < binaryA.count {
+                bitA = binaryA[i]
+            }
+            var bitB = 0
+            if i < binaryB.count {
+                bitB = binaryB[i]
+            }
+            var bitC = 0
+            if i < binaryC.count {
+                bitC = binaryC[i]
+            }
+
+            if bitA | bitB == bitC {
                 continue
             }
-            if containZero(n-i) {
-                continue
-            }
-            target = i
-            break
+            let distance = bitA + bitB - bitC
+            count += abs(distance)
         }
 
-        return [target, n-target]
+        return count
     }
 
-    func containZero(_ num: Int) -> Bool {
-        if num == 0 {
-            return true
-        }
-        var num = num
-        while num > 0 {
-            if num % 10 == 0 {
-                return true
-            }
-            num = num / 10
+    func getBinary(_ n: Int) -> [Int] {
+        var n = n
+        var res = [Int]()
+        while n > 0 {
+            let bit = n % 2
+            n = n / 2
+            res.append(bit)
         }
 
-        return false
+        return res
     }
 
     func test() -> Void {
-        print(getNoZeroIntegers(2))
-        print(getNoZeroIntegers(11))
-        print(getNoZeroIntegers(10000))
+        print(minFlips(2, 6, 5))
+        print(minFlips(4, 2, 7))
+        print(minFlips(1, 2, 3))
     }
 }
