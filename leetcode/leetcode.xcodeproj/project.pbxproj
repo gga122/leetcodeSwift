@@ -79,6 +79,7 @@
 		BA22A67823CA4C1C00A39AF1 /* CapacityToShipPackagesWithinDDays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA22A67723CA4C1C00A39AF1 /* CapacityToShipPackagesWithinDDays.swift */; };
 		BA22A67A23CB8E8600A39AF1 /* MinimumFlipsToMakeAORBEqualToC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA22A67923CB8E8600A39AF1 /* MinimumFlipsToMakeAORBEqualToC.swift */; };
 		BA22A67C23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA22A67B23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift */; };
+		BA22A67E23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA22A67D23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift */; };
 		BA2A23622266302D002865A2 /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A23612266302D002865A2 /* FibonacciNumber.swift */; };
 		BA2A236422663157002865A2 /* Base7.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A236322663157002865A2 /* Base7.swift */; };
 		BA2A959922B150A200B246E7 /* NumberOfCornerRectangles.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A959822B150A200B246E7 /* NumberOfCornerRectangles.swift */; };
@@ -488,6 +489,7 @@
 		BA22A67723CA4C1C00A39AF1 /* CapacityToShipPackagesWithinDDays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapacityToShipPackagesWithinDDays.swift; sourceTree = "<group>"; };
 		BA22A67923CB8E8600A39AF1 /* MinimumFlipsToMakeAORBEqualToC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFlipsToMakeAORBEqualToC.swift; sourceTree = "<group>"; };
 		BA22A67B23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift"; sourceTree = "<group>"; };
+		BA22A67D23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOperationsToMakeNetworkConnected.swift; sourceTree = "<group>"; };
 		BA2A23612266302D002865A2 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		BA2A236322663157002865A2 /* Base7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Base7.swift; sourceTree = "<group>"; };
 		BA2A959822B150A200B246E7 /* NumberOfCornerRectangles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfCornerRectangles.swift; sourceTree = "<group>"; };
@@ -848,6 +850,7 @@
 				BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */,
 				BA710A5B23CA4A7000A46630 /* MatrixBlockSum.swift */,
 				BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */,
+				BA22A67D23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				BA22A67B23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift */,
 				BA7719D323C7A4EF00C63693 /* LastStoneWeight.swift */,
 				D2D896C823C50BC700644C06 /* UniqueNumberOfOccurrences.swift */,
@@ -1702,6 +1705,7 @@
 				D2CBF47523B522AC00C6DDD0 /* SummaryRanges.swift in Sources */,
 				BA22A67C23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift in Sources */,
 				BA2045F4227B5CE2009D184A /* MiddleOfTheLinkedList.swift in Sources */,
+				BA22A67E23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */,
 				BA2D262D229089A700F18A7D /* PartitionLabels.swift in Sources */,
 				BA15F54B2270C5F1008B5516 /* MinStack.swift in Sources */,
 				BA2D2656229302E900F18A7D /* K-thSmallestInLexicographicalOrder.swift in Sources */,
