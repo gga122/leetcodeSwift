@@ -396,7 +396,8 @@ import Foundation
 //MinimumFlipsToMakeAORBEqualToCSolutionSolution.init().test()
 //ConvertIntegerToTheSumOfTwoNo_ZeroIntegersSolution.init().test()
 //NumberOfOperationsToMakeNetworkConnectedSolution.init().test()
-RotateListSolution.init().test()
+//RotateListSolution.init().test()
+PerfectSquaresSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
