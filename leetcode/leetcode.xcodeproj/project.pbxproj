@@ -222,6 +222,7 @@
 		BA7FE81B228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7FE81A228C85EF009B8B23 /* MaxIncreaseToKeepCitySkyline.swift */; };
 		BA92A52B22D0D82000349E2B /* DistributeCandiesToPeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */; };
 		BA92A52D22D0E19300349E2B /* OccurrencesAfterBigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA92A52C22D0E19300349E2B /* OccurrencesAfterBigram.swift */; };
+		BA99594323CCEB2B00194D7E /* RotateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA99594223CCEB2B00194D7E /* RotateList.swift */; };
 		BAA3E89922736FF9003A9F4B /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89822736FF9003A9F4B /* HappyNumber.swift */; };
 		BAA3E89B227373B1003A9F4B /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89A227373B1003A9F4B /* HouseRobber.swift */; };
 		BAA3E89F22737A5C003A9F4B /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */; };
@@ -633,6 +634,7 @@
 		BA92A52822D0D71B00349E2B /* libobjc.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libobjc.tbd; path = usr/lib/libobjc.tbd; sourceTree = SDKROOT; };
 		BA92A52A22D0D82000349E2B /* DistributeCandiesToPeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesToPeople.swift; sourceTree = "<group>"; };
 		BA92A52C22D0E19300349E2B /* OccurrencesAfterBigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OccurrencesAfterBigram.swift; sourceTree = "<group>"; };
+		BA99594223CCEB2B00194D7E /* RotateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateList.swift; sourceTree = "<group>"; };
 		BAA3E89822736FF9003A9F4B /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		BAA3E89A227373B1003A9F4B /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		BAA3E89E22737A5C003A9F4B /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
@@ -828,6 +830,7 @@
 		BA20A5A9226338AF00CBD9D4 = {
 			isa = PBXGroup;
 			children = (
+				BA99594223CCEB2B00194D7E /* RotateList.swift */,
 				BADBDCA222A433CA00ECFA03 /* DP_Basic */,
 				BA20A5B4226338AF00CBD9D4 /* leetcode */,
 				BA20A5B3226338AF00CBD9D4 /* Products */,
@@ -1396,6 +1399,7 @@
 				BAA3E8DD227761FF003A9F4B /* KeyboardRow.swift in Sources */,
 				BADBDC8522A031FD00ECFA03 /* SortColors.swift in Sources */,
 				D2FD2D2523AF2A4000B3A57A /* MaximumProductSubarray.swift in Sources */,
+				BA99594323CCEB2B00194D7E /* RotateList.swift in Sources */,
 				D2CBF47723B524E900C6DDD0 /* RandomizedSet.swift in Sources */,
 				BA92A52B22D0D82000349E2B /* DistributeCandiesToPeople.swift in Sources */,
 				D2CBF47D23B5362600C6DDD0 /* MagicSquaresInGrid.swift in Sources */,

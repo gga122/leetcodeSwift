@@ -395,7 +395,8 @@ import Foundation
 //CapacityToShipPackagesWithinDDaysSolution.init().test()
 //MinimumFlipsToMakeAORBEqualToCSolutionSolution.init().test()
 //ConvertIntegerToTheSumOfTwoNo_ZeroIntegersSolution.init().test()
-NumberOfOperationsToMakeNetworkConnectedSolution.init().test()
+//NumberOfOperationsToMakeNetworkConnectedSolution.init().test()
+RotateListSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
