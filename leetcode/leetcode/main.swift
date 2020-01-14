@@ -397,7 +397,8 @@ import Foundation
 //ConvertIntegerToTheSumOfTwoNo_ZeroIntegersSolution.init().test()
 //NumberOfOperationsToMakeNetworkConnectedSolution.init().test()
 //RotateListSolution.init().test()
-PerfectSquaresSolution.init().test()
+//PerfectSquaresSolution.init().test()
+ShortestUnsortedContinuousSubarraySolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
