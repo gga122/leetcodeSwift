@@ -836,7 +836,6 @@
 		BA20A5A9226338AF00CBD9D4 = {
 			isa = PBXGroup;
 			children = (
-				BA99594223CCEB2B00194D7E /* RotateList.swift */,
 				BADBDCA222A433CA00ECFA03 /* DP_Basic */,
 				BA20A5B4226338AF00CBD9D4 /* leetcode */,
 				BA20A5B3226338AF00CBD9D4 /* Products */,
@@ -856,6 +855,7 @@
 			isa = PBXGroup;
 			children = (
 				BA20A5BC2263394100CBD9D4 /* main.swift */,
+				BA99594223CCEB2B00194D7E /* RotateList.swift */,
 				BA99594423CE187700194D7E /* PerfectSquares.swift */,
 				BA8FBF7823CF623C00440716 /* PalindromicSubstrings.swift */,
 				BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */,
