@@ -398,7 +398,8 @@ import Foundation
 //NumberOfOperationsToMakeNetworkConnectedSolution.init().test()
 //RotateListSolution.init().test()
 //PerfectSquaresSolution.init().test()
-ShortestUnsortedContinuousSubarraySolution.init().test()
+//ShortestUnsortedContinuousSubarraySolution.init().test()
+PalindromicSubstringsSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
