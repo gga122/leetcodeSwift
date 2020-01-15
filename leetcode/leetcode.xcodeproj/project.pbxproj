@@ -95,6 +95,7 @@
 		BA2A95AD22BBFCA200B246E7 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2A95AC22BBFCA200B246E7 /* ValidSudoku.swift */; };
 		BA2ADD1D228DBC0900A6A53B /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */; };
 		BA2B9E0723CF7ABB00232F79 /* MaxStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2B9E0623CF7ABB00232F79 /* MaxStack.swift */; };
+		BA2B9E0923CF7EB200232F79 /* ClosestBinarySearchTreeValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2B9E0823CF7EB200232F79 /* ClosestBinarySearchTreeValue.swift */; };
 		BA2BA38B22C68731002F90B7 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2BA38A22C68731002F90B7 /* HeightChecker.swift */; };
 		BA2BA38D22C69113002F90B7 /* DuplicateZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */; };
 		BA2CC0282268C12D00B3AF4D /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */; };
@@ -510,6 +511,7 @@
 		BA2A95AC22BBFCA200B246E7 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		BA2ADD1C228DBC0900A6A53B /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		BA2B9E0623CF7ABB00232F79 /* MaxStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxStack.swift; sourceTree = "<group>"; };
+		BA2B9E0823CF7EB200232F79 /* ClosestBinarySearchTreeValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestBinarySearchTreeValue.swift; sourceTree = "<group>"; };
 		BA2BA38A22C68731002F90B7 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
 		BA2BA38C22C69113002F90B7 /* DuplicateZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuplicateZeros.swift; sourceTree = "<group>"; };
 		BA2CC0272268C12D00B3AF4D /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
@@ -864,6 +866,7 @@
 				BA710A5B23CA4A7000A46630 /* MatrixBlockSum.swift */,
 				BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */,
 				BA22A67D23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift */,
+				BA2B9E0823CF7EB200232F79 /* ClosestBinarySearchTreeValue.swift */,
 				BA2B9E0623CF7ABB00232F79 /* MaxStack.swift */,
 				BA99594823CE28B600194D7E /* ShortestUnsortedContinuousSubarray.swift */,
 				BA22A67B23CB8EED00A39AF1 /* ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.swift */,
@@ -1727,6 +1730,7 @@
 				BA2045F4227B5CE2009D184A /* MiddleOfTheLinkedList.swift in Sources */,
 				BA22A67E23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */,
 				BA2D262D229089A700F18A7D /* PartitionLabels.swift in Sources */,
+				BA2B9E0923CF7EB200232F79 /* ClosestBinarySearchTreeValue.swift in Sources */,
 				BA15F54B2270C5F1008B5516 /* MinStack.swift in Sources */,
 				BA2D2656229302E900F18A7D /* K-thSmallestInLexicographicalOrder.swift in Sources */,
 				BAA3E8BD2276012E003A9F4B /* RangeSumOfBST.swift in Sources */,

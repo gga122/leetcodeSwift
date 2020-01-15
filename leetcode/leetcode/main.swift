@@ -399,7 +399,8 @@ import Foundation
 //RotateListSolution.init().test()
 //PerfectSquaresSolution.init().test()
 //ShortestUnsortedContinuousSubarraySolution.init().test()
-PalindromicSubstringsSolution.init().test()
+//PalindromicSubstringsSolution.init().test()
+ClosestBinarySearchTreeValueSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
