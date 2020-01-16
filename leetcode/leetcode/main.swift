@@ -400,7 +400,8 @@ import Foundation
 //PerfectSquaresSolution.init().test()
 //ShortestUnsortedContinuousSubarraySolution.init().test()
 //PalindromicSubstringsSolution.init().test()
-ClosestBinarySearchTreeValueSolution.init().test()
+//ClosestBinarySearchTreeValueSolution.init().test()
+StringCompressionSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
