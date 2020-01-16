@@ -402,7 +402,8 @@ import Foundation
 //PalindromicSubstringsSolution.init().test()
 //ClosestBinarySearchTreeValueSolution.init().test()
 //StringCompressionSolution.init().test()
-MostCommonWordSolution.init().test()
+//MostCommonWordSolution.init().test()
+IsSubsequenceSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
