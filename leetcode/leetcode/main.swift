@@ -401,7 +401,8 @@ import Foundation
 //ShortestUnsortedContinuousSubarraySolution.init().test()
 //PalindromicSubstringsSolution.init().test()
 //ClosestBinarySearchTreeValueSolution.init().test()
-StringCompressionSolution.init().test()
+//StringCompressionSolution.init().test()
+MostCommonWordSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
