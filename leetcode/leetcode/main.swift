@@ -403,7 +403,8 @@ import Foundation
 //ClosestBinarySearchTreeValueSolution.init().test()
 //StringCompressionSolution.init().test()
 //MostCommonWordSolution.init().test()
-IsSubsequenceSolution.init().test()
+//IsSubsequenceSolution.init().test()
+AndroidUnlockPatternsSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
