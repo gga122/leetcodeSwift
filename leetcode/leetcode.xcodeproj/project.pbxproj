@@ -205,6 +205,7 @@
 		BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA57243D2263F39700AC8930 /* PascalTriangle.swift */; };
 		BA60B0E0226784F200F1BEAA /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */; };
 		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
+		BA630FBD23D3598100FBB123 /* SparseMatrixMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */; };
 		BA710A5623CA48A000A46630 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */; };
 		BA710A5823CA496700A46630 /* DecompressRun-LengthEncodedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */; };
 		BA710A5A23CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */; };
@@ -625,6 +626,7 @@
 		BA57243D2263F39700AC8930 /* PascalTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalTriangle.swift; sourceTree = "<group>"; };
 		BA60B0DF226784F200F1BEAA /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
 		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
+		BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseMatrixMultiplication.swift; sourceTree = "<group>"; };
 		BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DecompressRun-LengthEncodedList.swift"; sourceTree = "<group>"; };
 		BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfNodesWithEven-ValuedGrandparent.swift"; sourceTree = "<group>"; };
@@ -875,6 +877,7 @@
 				BA710A5B23CA4A7000A46630 /* MatrixBlockSum.swift */,
 				BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */,
 				BAF08A3A23D0E64200E5FC43 /* AndroidUnlockPatterns.swift */,
+				BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */,
 				BAF08A3823D0E19100E5FC43 /* IsSubsequence.swift */,
 				BAF08A3623D0CE7A00E5FC43 /* MostCommonWord.swift */,
 				BA22A67D23CB902600A39AF1 /* NumberOfOperationsToMakeNetworkConnected.swift */,
@@ -1478,6 +1481,7 @@
 				BAEF031B228826160084E257 /* DiameterOfBinaryTree.swift in Sources */,
 				BADBDCC022AC4B5E00ECFA03 /* LongestValidParentheses.swift in Sources */,
 				BADDD2B32286DDBC009172F1 /* BinaryTreeTilt.swift in Sources */,
+				BA630FBD23D3598100FBB123 /* SparseMatrixMultiplication.swift in Sources */,
 				D2CBF47B23B528A700C6DDD0 /* TeemoAttacking.swift in Sources */,
 				BADBDCA622A442A600ECFA03 /* MinimumSizeSubarraySum.swift in Sources */,
 				BADDD2D722875179009172F1 /* ConvertANumberToHexadecimal.swift in Sources */,
