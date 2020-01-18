@@ -207,6 +207,7 @@
 		BA60B0E22267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */; };
 		BA630FBD23D3598100FBB123 /* SparseMatrixMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */; };
 		BA630FBF23D35CD900FBB123 /* MeetingRoomsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */; };
+		BA630FC123D362CD00FBB123 /* WiggleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FC023D362CD00FBB123 /* WiggleSort.swift */; };
 		BA710A5623CA48A000A46630 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */; };
 		BA710A5823CA496700A46630 /* DecompressRun-LengthEncodedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */; };
 		BA710A5A23CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */; };
@@ -629,6 +630,7 @@
 		BA60B0E12267913700F1BEAA /* BinaryNumberWithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits.swift; sourceTree = "<group>"; };
 		BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseMatrixMultiplication.swift; sourceTree = "<group>"; };
 		BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRoomsII.swift; sourceTree = "<group>"; };
+		BA630FC023D362CD00FBB123 /* WiggleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiggleSort.swift; sourceTree = "<group>"; };
 		BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DecompressRun-LengthEncodedList.swift"; sourceTree = "<group>"; };
 		BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfNodesWithEven-ValuedGrandparent.swift"; sourceTree = "<group>"; };
@@ -874,6 +876,7 @@
 				BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */,
 				BAF08A3423CF825600E5FC43 /* StringCompression.swift */,
 				BA99594223CCEB2B00194D7E /* RotateList.swift */,
+				BA630FC023D362CD00FBB123 /* WiggleSort.swift */,
 				BA99594423CE187700194D7E /* PerfectSquares.swift */,
 				BA8FBF7823CF623C00440716 /* PalindromicSubstrings.swift */,
 				BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */,
@@ -1445,6 +1448,7 @@
 				BA2A95A722BAA36C00B246E7 /* DivideTwoIntegers.swift in Sources */,
 				BA2A959F22B5336E00B246E7 /* UniqueBinarySearchTreesIISolution.swift in Sources */,
 				BA2DE13E22722A4300FD620A /* ReverseLinkedList.swift in Sources */,
+				BA630FC123D362CD00FBB123 /* WiggleSort.swift in Sources */,
 				D2AED43823B890F600E0407B /* AllElementsInTwoBinarySearchTrees.swift in Sources */,
 				BA2045FC227C24F3009D184A /* ToeplitzMatrix.swift in Sources */,
 				BA3ACE89226C78600065FA51 /* AverageOfLevelInBinaryTree.swift in Sources */,

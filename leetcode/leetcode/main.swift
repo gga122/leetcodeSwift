@@ -406,7 +406,8 @@ import Foundation
 //IsSubsequenceSolution.init().test()
 //AndroidUnlockPatternsSolution.init().test()
 //SparseMatrixMultiplicationSolution.init().test()
-MeetingRoomsIISolution.init().test()
+//MeetingRoomsIISolution.init().test()
+WiggleSortSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
