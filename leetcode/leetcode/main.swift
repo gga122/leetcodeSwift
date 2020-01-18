@@ -405,7 +405,8 @@ import Foundation
 //MostCommonWordSolution.init().test()
 //IsSubsequenceSolution.init().test()
 //AndroidUnlockPatternsSolution.init().test()
-SparseMatrixMultiplicationSolution.init().test()
+//SparseMatrixMultiplicationSolution.init().test()
+MeetingRoomsIISolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
