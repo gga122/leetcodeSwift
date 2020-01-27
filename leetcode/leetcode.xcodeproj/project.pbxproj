@@ -208,6 +208,7 @@
 		BA630FBD23D3598100FBB123 /* SparseMatrixMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */; };
 		BA630FBF23D35CD900FBB123 /* MeetingRoomsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */; };
 		BA630FC123D362CD00FBB123 /* WiggleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FC023D362CD00FBB123 /* WiggleSort.swift */; };
+		BA630FC323D363FA00FBB123 /* ReverseNodesInK-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA630FC223D363FA00FBB123 /* ReverseNodesInK-Group.swift */; };
 		BA710A5623CA48A000A46630 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */; };
 		BA710A5823CA496700A46630 /* DecompressRun-LengthEncodedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */; };
 		BA710A5A23CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */; };
@@ -631,6 +632,7 @@
 		BA630FBC23D3598100FBB123 /* SparseMatrixMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseMatrixMultiplication.swift; sourceTree = "<group>"; };
 		BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRoomsII.swift; sourceTree = "<group>"; };
 		BA630FC023D362CD00FBB123 /* WiggleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiggleSort.swift; sourceTree = "<group>"; };
+		BA630FC223D363FA00FBB123 /* ReverseNodesInK-Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReverseNodesInK-Group.swift"; sourceTree = "<group>"; };
 		BA710A5523CA489F00A46630 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DecompressRun-LengthEncodedList.swift"; sourceTree = "<group>"; };
 		BA710A5923CA49EB00A46630 /* SumOfNodesWithEven-ValuedGrandparent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfNodesWithEven-ValuedGrandparent.swift"; sourceTree = "<group>"; };
@@ -877,6 +879,7 @@
 				BAF08A3423CF825600E5FC43 /* StringCompression.swift */,
 				BA99594223CCEB2B00194D7E /* RotateList.swift */,
 				BA630FC023D362CD00FBB123 /* WiggleSort.swift */,
+				BA630FC223D363FA00FBB123 /* ReverseNodesInK-Group.swift */,
 				BA99594423CE187700194D7E /* PerfectSquares.swift */,
 				BA8FBF7823CF623C00440716 /* PalindromicSubstrings.swift */,
 				BA710A5723CA496700A46630 /* DecompressRun-LengthEncodedList.swift */,
@@ -1428,6 +1431,7 @@
 				BA57243C2263C03500AC8930 /* ValidParentheses.swift in Sources */,
 				BA20A5C322636CC500CBD9D4 /* PathSum.swift in Sources */,
 				BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */,
+				BA630FC323D363FA00FBB123 /* ReverseNodesInK-Group.swift in Sources */,
 				BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */,
 				BADBDCC422AD771600ECFA03 /* NumberOfAtoms.swift in Sources */,
 				BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */,

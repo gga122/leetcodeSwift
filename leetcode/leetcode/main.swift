@@ -407,7 +407,8 @@ import Foundation
 //AndroidUnlockPatternsSolution.init().test()
 //SparseMatrixMultiplicationSolution.init().test()
 //MeetingRoomsIISolution.init().test()
-WiggleSortSolution.init().test()
+//WiggleSortSolution.init().test()
+ReverseNodesInK_GroupSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
