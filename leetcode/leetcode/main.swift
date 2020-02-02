@@ -413,7 +413,8 @@ import Foundation
 //ReduceArraySizeToTheHalfSolution.init().test()
 //JumpGameVSolution.init().test()
 //ValidateIPAddressSolution.init().test()
-MinimumIncrementToMakeArrayUniqueSolution.init().test()
+//MinimumIncrementToMakeArrayUniqueSolution.init().test()
+ReorderedPowerOf2Solution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
