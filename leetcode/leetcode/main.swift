@@ -411,7 +411,8 @@ import Foundation
 //ReverseNodesInK_GroupSolution.init().test()
 //TheKWeakestRowsInAMatrixSolution.init().test()
 //ReduceArraySizeToTheHalfSolution.init().test()
-JumpGameVSolution.init().test()
+//JumpGameVSolution.init().test()
+ValidateIPAddressSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
