@@ -409,7 +409,8 @@ import Foundation
 //MeetingRoomsIISolution.init().test()
 //WiggleSortSolution.init().test()
 //ReverseNodesInK_GroupSolution.init().test()
-TheKWeakestRowsInAMatrixSolution.init().test()
+//TheKWeakestRowsInAMatrixSolution.init().test()
+ReduceArraySizeToTheHalfSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
