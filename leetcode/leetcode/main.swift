@@ -410,7 +410,8 @@ import Foundation
 //WiggleSortSolution.init().test()
 //ReverseNodesInK_GroupSolution.init().test()
 //TheKWeakestRowsInAMatrixSolution.init().test()
-ReduceArraySizeToTheHalfSolution.init().test()
+//ReduceArraySizeToTheHalfSolution.init().test()
+JumpGameVSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
