@@ -412,7 +412,8 @@ import Foundation
 //TheKWeakestRowsInAMatrixSolution.init().test()
 //ReduceArraySizeToTheHalfSolution.init().test()
 //JumpGameVSolution.init().test()
-ValidateIPAddressSolution.init().test()
+//ValidateIPAddressSolution.init().test()
+MinimumIncrementToMakeArrayUniqueSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
