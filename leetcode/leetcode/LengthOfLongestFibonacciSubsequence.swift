@@ -10,35 +10,34 @@ import Foundation
 
 class LengthOfLongestFibonacciSubsequenceSolution {
     func lenLongestFibSubseq(_ A: [Int]) -> Int {
-        var set = Set<Int>()
-        for num in A {
-            set.insert(num)
+        let N = A.count
+        
+        var indexes = [Int: Int]()
+        for i in 0..<N {
+            indexes[A[i]] = i
         }
-                
+        
+        var longest = [Int: Int]()
         var res = 0
-        for i in 0..<A.count {
-            for j in i+1..<A.count {
-                var x = A[j]
-                var y = A[i]+A[j]
+        
+        for k in 0..<N {
+            for j in 0..<k {
+                let i = indexes[A[k]-A[j]] ?? -1
                 
-                var length = 2
-                while set.contains(y) {
-                    /* x, y -> y, x+y */
-                    
-                    let tmp = x
-                    x = y
-                    y += tmp
-                    length += 1
-                    res = max(length, res)
+                if i >= 0 && i < j {
+                    /* Treat Tuple (i,j) as Int (i * N + j) */
+                    let cand = (longest[i*N+j] ?? 2) + 1
+                    longest[j*N+k] = cand
+                    res = max(res, cand)
                 }
             }
         }
         
-        return res
+        return res >= 3 ? res : 0
     }
     
     func test() -> Void {
         print(lenLongestFibSubseq([1,2,3,4,5,6,7,8]))
-        print(lenLongestFibSubseq([1,3,7,11,12,14,18]))
+//        print(lenLongestFibSubseq([1,3,7,11,12,14,18]))
     }
 }
