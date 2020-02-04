@@ -415,7 +415,8 @@ import Foundation
 //ValidateIPAddressSolution.init().test()
 //MinimumIncrementToMakeArrayUniqueSolution.init().test()
 //ReorderedPowerOf2Solution.init().test()
-EvaluateReversePolishNotationSolution.init().test()
+//EvaluateReversePolishNotationSolution.init().test()
+LengthOfLongestFibonacciSubsequenceSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
