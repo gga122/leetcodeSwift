@@ -423,7 +423,8 @@ import Foundation
 //SumOfDigitsInTheMinimumNumberSolution.init().test()
 //IntersectionOfThreeSortedArraysSolution.init().test()
 //ArmstrongNumberSolution.init().test()
-FindAnagramMappingsSolution.init().test()
+//FindAnagramMappingsSolution.init().test()
+CountSubstringsWithOnlyOneDistinctLetterSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
