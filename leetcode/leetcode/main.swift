@@ -420,7 +420,8 @@ import Foundation
 //LongestArithmeticSequenceSolution.init().test()
 //RemoveVowelsFromAStringSolution.init().test()
 //Single_RowKeyboardSolution.init().test()
-SumOfDigitsInTheMinimumNumberSolution.init().test()
+//SumOfDigitsInTheMinimumNumberSolution.init().test()
+IntersectionOfThreeSortedArraysSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
