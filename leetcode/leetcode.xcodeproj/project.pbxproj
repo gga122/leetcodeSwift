@@ -380,6 +380,7 @@
 		D2016A5623EB06FB000CB3A5 /* SumOfDigitsInTheMinimumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016A5523EB06FB000CB3A5 /* SumOfDigitsInTheMinimumNumber.swift */; };
 		D2016A5823EB0815000CB3A5 /* IntersectionOfThreeSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016A5723EB0815000CB3A5 /* IntersectionOfThreeSortedArrays.swift */; };
 		D2016A5A23EB090B000CB3A5 /* ArmstrongNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016A5923EB090B000CB3A5 /* ArmstrongNumber.swift */; };
+		D2016A5C23EB0AD3000CB3A5 /* FindAnagramMappings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016A5B23EB0AD3000CB3A5 /* FindAnagramMappings.swift */; };
 		D20A307123ABBBB600CE73F5 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */; };
 		D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A307223ABBE6400CE73F5 /* GameOfLife.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
@@ -820,6 +821,7 @@
 		D2016A5523EB06FB000CB3A5 /* SumOfDigitsInTheMinimumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfDigitsInTheMinimumNumber.swift; sourceTree = "<group>"; };
 		D2016A5723EB0815000CB3A5 /* IntersectionOfThreeSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfThreeSortedArrays.swift; sourceTree = "<group>"; };
 		D2016A5923EB090B000CB3A5 /* ArmstrongNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmstrongNumber.swift; sourceTree = "<group>"; };
+		D2016A5B23EB0AD3000CB3A5 /* FindAnagramMappings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAnagramMappings.swift; sourceTree = "<group>"; };
 		D20A307223ABBE6400CE73F5 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
@@ -913,6 +915,7 @@
 				D2B700A623E7191B00A534D8 /* MinimumIncrementToMakeArrayUnique.swift */,
 				D2016A5723EB0815000CB3A5 /* IntersectionOfThreeSortedArrays.swift */,
 				D2B700A823E7250300A534D8 /* ReorderedPowerOf2.swift */,
+				D2016A5B23EB0AD3000CB3A5 /* FindAnagramMappings.swift */,
 				D2B700AA23E7287A00A534D8 /* LongestArithmeticSequence.swift */,
 				D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */,
 				BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */,
@@ -1480,6 +1483,7 @@
 				BAEF0329228867AA0084E257 /* IntersectionOfTwoArraysII.swift in Sources */,
 				BA630FC323D363FA00FBB123 /* ReverseNodesInK-Group.swift in Sources */,
 				BADDD2AF2286CE00009172F1 /* PathSumIII.swift in Sources */,
+				D2016A5C23EB0AD3000CB3A5 /* FindAnagramMappings.swift in Sources */,
 				BADBDCC422AD771600ECFA03 /* NumberOfAtoms.swift in Sources */,
 				BAEF030D22875CFE0084E257 /* PowerOfFour.swift in Sources */,
 				BA50A9A32296E70D00141194 /* Pow(x, n).swift in Sources */,

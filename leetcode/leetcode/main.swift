@@ -422,7 +422,8 @@ import Foundation
 //Single_RowKeyboardSolution.init().test()
 //SumOfDigitsInTheMinimumNumberSolution.init().test()
 //IntersectionOfThreeSortedArraysSolution.init().test()
-ArmstrongNumberSolution.init().test()
+//ArmstrongNumberSolution.init().test()
+FindAnagramMappingsSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
