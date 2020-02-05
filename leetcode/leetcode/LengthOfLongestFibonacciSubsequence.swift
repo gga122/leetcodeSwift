@@ -20,10 +20,13 @@ class LengthOfLongestFibonacciSubsequenceSolution {
         var longest = [Int: Int]()
         var res = 0
         
+        /* We search `i` in [0, ... j, k] */
         for k in 0..<N {
             for j in 0..<k {
+                /* The number we expected is `A[k]-A[j]`, check if exist in array. */
                 let i = indexes[A[k]-A[j]] ?? -1
                 
+                /* if the number is behind `j`, skip it. */
                 if i >= 0 && i < j {
                     /* Treat Tuple (i,j) as Int (i * N + j) */
                     let cand = (longest[i*N+j] ?? 2) + 1

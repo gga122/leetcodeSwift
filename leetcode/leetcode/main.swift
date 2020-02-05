@@ -416,11 +416,11 @@ import Foundation
 //MinimumIncrementToMakeArrayUniqueSolution.init().test()
 //ReorderedPowerOf2Solution.init().test()
 //EvaluateReversePolishNotationSolution.init().test()
-LengthOfLongestFibonacciSubsequenceSolution.init().test()
+//LengthOfLongestFibonacciSubsequenceSolution.init().test()
+LongestArithmeticSequenceSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
-//LongestArithmeticSequenceSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
