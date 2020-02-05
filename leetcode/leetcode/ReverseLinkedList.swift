@@ -21,7 +21,7 @@ class ReverseLinkedListSolution {
     
     func reverseList(_ head: ListNode?) -> ListNode? {
         if head == nil || head?.next == nil {
-            return head;
+            return head
         }
         
         var current = head

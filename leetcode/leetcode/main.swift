@@ -425,7 +425,8 @@ import Foundation
 //ArmstrongNumberSolution.init().test()
 //FindAnagramMappingsSolution.init().test()
 //CountSubstringsWithOnlyOneDistinctLetterSolution.init().test()
-LargestUniqueNumberSolution.init().test()
+//LargestUniqueNumberSolution.init().test()
+PlusOneLinkedListSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
