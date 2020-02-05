@@ -424,7 +424,8 @@ import Foundation
 //IntersectionOfThreeSortedArraysSolution.init().test()
 //ArmstrongNumberSolution.init().test()
 //FindAnagramMappingsSolution.init().test()
-CountSubstringsWithOnlyOneDistinctLetterSolution.init().test()
+//CountSubstringsWithOnlyOneDistinctLetterSolution.init().test()
+LargestUniqueNumberSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
