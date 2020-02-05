@@ -418,7 +418,8 @@ import Foundation
 //EvaluateReversePolishNotationSolution.init().test()
 //LengthOfLongestFibonacciSubsequenceSolution.init().test()
 //LongestArithmeticSequenceSolution.init().test()
-RemoveVowelsFromAStringSolution.init().test()
+//RemoveVowelsFromAStringSolution.init().test()
+Single_RowKeyboardSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
