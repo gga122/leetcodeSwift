@@ -417,7 +417,8 @@ import Foundation
 //ReorderedPowerOf2Solution.init().test()
 //EvaluateReversePolishNotationSolution.init().test()
 //LengthOfLongestFibonacciSubsequenceSolution.init().test()
-LongestArithmeticSequenceSolution.init().test()
+//LongestArithmeticSequenceSolution.init().test()
+RemoveVowelsFromAStringSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
