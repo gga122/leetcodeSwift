@@ -421,7 +421,8 @@ import Foundation
 //RemoveVowelsFromAStringSolution.init().test()
 //Single_RowKeyboardSolution.init().test()
 //SumOfDigitsInTheMinimumNumberSolution.init().test()
-IntersectionOfThreeSortedArraysSolution.init().test()
+//IntersectionOfThreeSortedArraysSolution.init().test()
+ArmstrongNumberSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
