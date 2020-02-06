@@ -427,7 +427,7 @@ import Foundation
 //CountSubstringsWithOnlyOneDistinctLetterSolution.init().test()
 //LargestUniqueNumberSolution.init().test()
 //PlusOneLinkedListSolution.init().test()
-MaximumDistanceInArraysSolution.init().test()
+//MaximumDistanceInArraysSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
