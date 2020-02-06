@@ -429,7 +429,8 @@ import Foundation
 //PlusOneLinkedListSolution.init().test()
 //MaximumDistanceInArraysSolution.init().test()
 //ReverseWordsInAStringIISolution.init().test()
-CheckIfANumberIsMajorityElementInASortedArraySolution.init().test()
+//CheckIfANumberIsMajorityElementInASortedArraySolution.init().test()
+SortTransformedArraySolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
