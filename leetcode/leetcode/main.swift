@@ -430,7 +430,8 @@ import Foundation
 //MaximumDistanceInArraysSolution.init().test()
 //ReverseWordsInAStringIISolution.init().test()
 //CheckIfANumberIsMajorityElementInASortedArraySolution.init().test()
-SortTransformedArraySolution.init().test()
+//SortTransformedArraySolution.init().test()
+FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
