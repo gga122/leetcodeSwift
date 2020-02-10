@@ -434,7 +434,8 @@ import Foundation
 //FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
 //PalindromePermutationSolution.init().test()
 //SentenceSimilaritySolution.init().test()
-FixedPointSolution.init().test()
+//FixedPointSolution.init().test()
+TwoSumLessThanKSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
