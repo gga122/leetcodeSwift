@@ -435,7 +435,8 @@ import Foundation
 //PalindromePermutationSolution.init().test()
 //SentenceSimilaritySolution.init().test()
 //FixedPointSolution.init().test()
-TwoSumLessThanKSolution.init().test()
+//TwoSumLessThanKSolution.init().test()
+TernaryExpressionParserSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
