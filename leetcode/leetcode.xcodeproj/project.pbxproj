@@ -395,6 +395,7 @@
 		D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A307223ABBE6400CE73F5 /* GameOfLife.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
 		D24A326823F1AD41009A06E1 /* PalindromePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */; };
+		D24A326A23F1AEAA009A06E1 /* SentenceSimilarity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */; };
 		D27B77FF23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */; };
 		D27B794323EB02E2001CBD81 /* RemoveVowelsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */; };
 		D27B794523EB046B001CBD81 /* Single-RowKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794423EB046B001CBD81 /* Single-RowKeyboard.swift */; };
@@ -846,6 +847,7 @@
 		D20A307223ABBE6400CE73F5 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 		D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePermutation.swift; sourceTree = "<group>"; };
+		D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceSimilarity.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestFibonacciSubsequence.swift; sourceTree = "<group>"; };
 		D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveVowelsFromAString.swift; sourceTree = "<group>"; };
@@ -943,6 +945,7 @@
 				D2016A5D23EB0C9F000CB3A5 /* CountSubstringsWithOnlyOneDistinctLetter.swift */,
 				D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */,
 				D2016C4923EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift */,
+				D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */,
 				BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */,
 				D2CF054623E6A7E5005F3948 /* TheKWeakestRowsInAMatrix.swift */,
 				D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */,
@@ -1724,6 +1727,7 @@
 				BA2046382281CC28009D184A /* RotatedDigits.swift in Sources */,
 				BA2D263F2292F04600F18A7D /* PalindromePartitioning.swift in Sources */,
 				BA57243A2263BEE200AC8930 /* PowerOfThree.swift in Sources */,
+				D24A326A23F1AEAA009A06E1 /* SentenceSimilarity.swift in Sources */,
 				BA2CC02A2268CBD100B3AF4D /* ArrangingCoins.swift in Sources */,
 				BA3ACE93226CC8370065FA51 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				BA2D261D2290680100F18A7D /* AllPathsFromSourceToTarget.swift in Sources */,

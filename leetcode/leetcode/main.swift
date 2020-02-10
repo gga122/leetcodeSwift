@@ -432,7 +432,8 @@ import Foundation
 //CheckIfANumberIsMajorityElementInASortedArraySolution.init().test()
 //SortTransformedArraySolution.init().test()
 //FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
-PalindromePermutationSolution.init().test()
+//PalindromePermutationSolution.init().test()
+SentenceSimilaritySolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
