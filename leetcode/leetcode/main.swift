@@ -431,10 +431,159 @@ import Foundation
 //ReverseWordsInAStringIISolution.init().test()
 //CheckIfANumberIsMajorityElementInASortedArraySolution.init().test()
 //SortTransformedArraySolution.init().test()
-FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
+//FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
+PalindromePermutationSolution.init().test()
+
+//BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
 /* Failure */
 //FirstMissingPositiveSolution.init().test()
 
 /* DP Test */
 //BasicPackageSolution.init().test()
+
+
+
+
+/* 第 19 次双周赛 */
+
+//class Solution {
+//    func numberOfSteps (_ num: Int) -> Int {
+//        var num = num
+//
+//        var count = 0
+//        while num != 0 {
+//            if num % 2 == 0 {
+//                num /= 2
+//                count += 1
+//            } else {
+//                num -= 1
+//                count += 1
+//            }
+//        }
+//
+//        return count
+//    }
+//
+//    func test() -> Void {
+//        print(numberOfSteps(14))
+//        print(numberOfSteps(8))
+//        print(numberOfSteps(123))
+//    }
+//}
+
+//class Solution {
+//    func numOfSubarrays(_ arr: [Int], _ k: Int, _ threshold: Int) -> Int {
+//        if k == 0 || k > arr.count {
+//            return 0
+//        }
+//
+//        let pivot = k * threshold
+//        var count = 0
+//        var sum = arr[0..<k].reduce(0, +)
+//        if sum >= pivot {
+//            count += 1
+//        }
+//        for i in k..<arr.count {
+//            let newSum = sum + arr[i] - arr[i-k]
+//            if newSum >= pivot {
+//                count += 1
+//            }
+//            sum = newSum
+//        }
+//
+//        return count
+//    }
+//
+//    func test() -> Void {
+//        print(numOfSubarrays([2,2,2,2,5,5,5,8], 3, 4))
+//        print(numOfSubarrays([1,1,1,1,1], 1, 0))
+//        print(numOfSubarrays([11,13,17,23,29,31,7,5,2,3], 3, 5))
+//        print(numOfSubarrays([7,7,7,7,7,7,7], 7, 7))
+//        print(numOfSubarrays([4,4,4,4], 4, 1))
+//    }
+//}
+
+//class Solution {
+//    func angleClock(_ hour: Int, _ minutes: Int) -> Double {
+//        let minPercent = Double(minutes) / 60
+//        var hourPercent = (Double(hour) + minPercent) / 12
+//        if hourPercent >= 1.0 {
+//            hourPercent -= 1.0
+//        }
+//
+//        let minAngle = minPercent * 360
+//        let hourAngle = hourPercent * 360
+//
+//        let minAng = min(minAngle, hourAngle)
+//        let maxAng = max(minAngle, hourAngle)
+//
+//        var dis = maxAng - minAng
+//        if dis > 180.0 {
+//            dis = 360 - maxAng + minAng
+//        }
+//
+//        return dis
+//    }
+//
+//    func test() -> Void {
+//        print(angleClock(1, 57))
+//        print(angleClock(12, 30))
+//        print(angleClock(3, 30))
+//        print(angleClock(3, 15))
+//        print(angleClock(4, 50))
+//        print(angleClock(12, 0))
+//    }
+//}
+
+//class Solution {
+//    func minJumps(_ arr: [Int]) -> Int {
+//        if arr.count <= 1 {
+//            return 0
+//        }
+//
+//        let count = arr.count
+//
+//        var indexesMap = [Int: [Int]]()
+//        for i in 0..<count {
+//            let num = arr[i]
+//            if var indexes = indexesMap[num] {
+//                indexes.append(i)
+//                indexesMap[num] = indexes
+//            } else {
+//                indexesMap[num] = [i]
+//            }
+//        }
+//
+//        var dp = [Int].init(repeating: count-1, count: count)
+//        for j in 0..<count {
+//            dp[j] = j
+//            for i in 0..<j {
+//                if arr[i] == arr[j] {
+//                    dp[j] = min(dp[i]+1, dp[j])
+//                } else {
+//                    if i-1 >= 0 {
+//                        dp[i] = min(dp[i], dp[i-1]+1)
+//                    }
+//                    if i+1 < j {
+//                        dp[i] = min(dp[i], dp[i+1]+1)
+//                    }
+//                }
+//            }
+//
+//            print(dp)
+//        }
+//
+//        return dp[count-1]
+//    }
+//
+//    func test() -> Void {
+//        print(minJumps([100,-23,-23,404,100,23,23,23,3,404]))
+//        print(minJumps([7]))
+//        print(minJumps([7,6,9,6,9,6,9,7]))
+//        print(minJumps([6,1,9]))
+//        print(minJumps([11,22,7,7,7,7,7,7,7,22,13]))
+//    }
+//}
+//
+//Solution.init().test()

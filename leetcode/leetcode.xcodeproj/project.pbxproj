@@ -390,9 +390,11 @@
 		D2016C4423EC59AB000CB3A5 /* CheckIfANumberIsMajorityElementInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016C4323EC59AB000CB3A5 /* CheckIfANumberIsMajorityElementInASortedArray.swift */; };
 		D2016C4623EC5A66000CB3A5 /* SortTransformedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016C4523EC5A66000CB3A5 /* SortTransformedArray.swift */; };
 		D2016C4823EC6277000CB3A5 /* FindK-LengthSubstringsWithNoRepeatedCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016C4723EC6277000CB3A5 /* FindK-LengthSubstringsWithNoRepeatedCharacters.swift */; };
+		D2016C4A23EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2016C4923EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift */; };
 		D20A307123ABBBB600CE73F5 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */; };
 		D20A307323ABBE6400CE73F5 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A307223ABBE6400CE73F5 /* GameOfLife.swift */; };
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
+		D24A326823F1AD41009A06E1 /* PalindromePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */; };
 		D27B77FF23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */; };
 		D27B794323EB02E2001CBD81 /* RemoveVowelsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */; };
 		D27B794523EB046B001CBD81 /* Single-RowKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794423EB046B001CBD81 /* Single-RowKeyboard.swift */; };
@@ -840,8 +842,10 @@
 		D2016C4323EC59AB000CB3A5 /* CheckIfANumberIsMajorityElementInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfANumberIsMajorityElementInASortedArray.swift; sourceTree = "<group>"; };
 		D2016C4523EC5A66000CB3A5 /* SortTransformedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortTransformedArray.swift; sourceTree = "<group>"; };
 		D2016C4723EC6277000CB3A5 /* FindK-LengthSubstringsWithNoRepeatedCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FindK-LengthSubstringsWithNoRepeatedCharacters.swift"; sourceTree = "<group>"; };
+		D2016C4923EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStockWithCooldown.swift; sourceTree = "<group>"; };
 		D20A307223ABBE6400CE73F5 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
+		D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePermutation.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestFibonacciSubsequence.swift; sourceTree = "<group>"; };
 		D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveVowelsFromAString.swift; sourceTree = "<group>"; };
@@ -938,8 +942,10 @@
 				D2016A6123EB23A4000CB3A5 /* PlusOneLinkedList.swift */,
 				D2016A5D23EB0C9F000CB3A5 /* CountSubstringsWithOnlyOneDistinctLetter.swift */,
 				D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */,
+				D2016C4923EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift */,
 				BA630FBE23D35CD900FBB123 /* MeetingRoomsII.swift */,
 				D2CF054623E6A7E5005F3948 /* TheKWeakestRowsInAMatrix.swift */,
+				D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */,
 				D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */,
 				D2016C4123EC5513000CB3A5 /* ReverseWordsInAStringII.swift */,
 				D2016A6523EB31B8000CB3A5 /* TwoSumBSTs.swift */,
@@ -1493,6 +1499,7 @@
 				D2BC330123ABD15700E92CC0 /* ProductOfArrayExceptSelf.swift in Sources */,
 				BA8FBF7923CF623C00440716 /* PalindromicSubstrings.swift in Sources */,
 				BA2D261122904BE400F18A7D /* CombinationSum.swift in Sources */,
+				D2016C4A23EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift in Sources */,
 				BAA3E8C522774CF3003A9F4B /* UniqueMorseCodeWords.swift in Sources */,
 				D2AED42B23B7CF3E00E0407B /* RemoveDuplicatesFromSortedArrayII.swift in Sources */,
 				BA57243E2263F39700AC8930 /* PascalTriangle.swift in Sources */,
@@ -1752,6 +1759,7 @@
 				BAA3E8A122737F41003A9F4B /* IsomorphicStrings.swift in Sources */,
 				BAA3E8F32278BC39003A9F4B /* DistributeCandies.swift in Sources */,
 				BAA3E8EB2278A918003A9F4B /* UnivaluedBinaryTree.swift in Sources */,
+				D24A326823F1AD41009A06E1 /* PalindromePermutation.swift in Sources */,
 				BA20464222832FF4009D184A /* SurfaceAreaOf3DShapes.swift in Sources */,
 				BADBDC7D229ECEA900ECFA03 /* GasStation.swift in Sources */,
 				BA20465022849749009D184A /* ReorderLogFiles.swift in Sources */,
