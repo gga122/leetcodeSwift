@@ -396,6 +396,7 @@
 		D231A25F23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */; };
 		D24A326823F1AD41009A06E1 /* PalindromePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */; };
 		D24A326A23F1AEAA009A06E1 /* SentenceSimilarity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */; };
+		D24A326C23F1B1B0009A06E1 /* FixedPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326B23F1B1B0009A06E1 /* FixedPoint.swift */; };
 		D27B77FF23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */; };
 		D27B794323EB02E2001CBD81 /* RemoveVowelsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */; };
 		D27B794523EB046B001CBD81 /* Single-RowKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794423EB046B001CBD81 /* Single-RowKeyboard.swift */; };
@@ -848,6 +849,7 @@
 		D231A25E23A912AB007EC378 /* ConvertBinaryNumberInALinkedListToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinaryNumberInALinkedListToInteger.swift; sourceTree = "<group>"; };
 		D24A326723F1AD41009A06E1 /* PalindromePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePermutation.swift; sourceTree = "<group>"; };
 		D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceSimilarity.swift; sourceTree = "<group>"; };
+		D24A326B23F1B1B0009A06E1 /* FixedPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixedPoint.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestFibonacciSubsequence.swift; sourceTree = "<group>"; };
 		D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveVowelsFromAString.swift; sourceTree = "<group>"; };
@@ -952,6 +954,7 @@
 				D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */,
 				D2016C4123EC5513000CB3A5 /* ReverseWordsInAStringII.swift */,
 				D2016A6523EB31B8000CB3A5 /* TwoSumBSTs.swift */,
+				D24A326B23F1B1B0009A06E1 /* FixedPoint.swift */,
 				BAF08A3423CF825600E5FC43 /* StringCompression.swift */,
 				D2B49CEB23E9B1AB002C080A /* EvaluateReversePolishNotation.swift */,
 				BA99594223CCEB2B00194D7E /* RotateList.swift */,
@@ -1666,6 +1669,7 @@
 				BA50A9B9229AF10400141194 /* MaxConsecutiveOnesIII.swift in Sources */,
 				BAA3E8F72279F2A7003A9F4B /* TransposeMatrix.swift in Sources */,
 				BAA3E8D522775AF8003A9F4B /* NumberComplement.swift in Sources */,
+				D24A326C23F1B1B0009A06E1 /* FixedPoint.swift in Sources */,
 				BAA3E8B922749C65003A9F4B /* ValidAnagram.swift in Sources */,
 				BADDD2B72286FE34009172F1 /* LongestPalindrome.swift in Sources */,
 				D2B700A123E6F3DE00A534D8 /* JumpGameV.swift in Sources */,

@@ -433,7 +433,8 @@ import Foundation
 //SortTransformedArraySolution.init().test()
 //FindK_LengthSubstringsWithNoRepeatedCharactersSolution.init().test()
 //PalindromePermutationSolution.init().test()
-SentenceSimilaritySolution.init().test()
+//SentenceSimilaritySolution.init().test()
+FixedPointSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
