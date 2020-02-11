@@ -399,6 +399,7 @@
 		D24A326C23F1B1B0009A06E1 /* FixedPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326B23F1B1B0009A06E1 /* FixedPoint.swift */; };
 		D24A326E23F1B241009A06E1 /* TwoSumLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326D23F1B241009A06E1 /* TwoSumLessThanK.swift */; };
 		D24A327023F1CB6F009A06E1 /* TernaryExpressionParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A326F23F1CB6F009A06E1 /* TernaryExpressionParser.swift */; };
+		D24A327223F24494009A06E1 /* SortCharactersByFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24A327123F24494009A06E1 /* SortCharactersByFrequency.swift */; };
 		D27B77FF23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */; };
 		D27B794323EB02E2001CBD81 /* RemoveVowelsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */; };
 		D27B794523EB046B001CBD81 /* Single-RowKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B794423EB046B001CBD81 /* Single-RowKeyboard.swift */; };
@@ -854,6 +855,7 @@
 		D24A326B23F1B1B0009A06E1 /* FixedPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixedPoint.swift; sourceTree = "<group>"; };
 		D24A326D23F1B241009A06E1 /* TwoSumLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumLessThanK.swift; sourceTree = "<group>"; };
 		D24A326F23F1CB6F009A06E1 /* TernaryExpressionParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryExpressionParser.swift; sourceTree = "<group>"; };
+		D24A327123F24494009A06E1 /* SortCharactersByFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCharactersByFrequency.swift; sourceTree = "<group>"; };
 		D2628CAD23AB9FB400781AB2 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		D27B77FE23E9B4AE001CBD81 /* LengthOfLongestFibonacciSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestFibonacciSubsequence.swift; sourceTree = "<group>"; };
 		D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveVowelsFromAString.swift; sourceTree = "<group>"; };
@@ -949,6 +951,7 @@
 				D2B700AA23E7287A00A534D8 /* LongestArithmeticSequence.swift */,
 				D2016A6123EB23A4000CB3A5 /* PlusOneLinkedList.swift */,
 				D2016A5D23EB0C9F000CB3A5 /* CountSubstringsWithOnlyOneDistinctLetter.swift */,
+				D24A327123F24494009A06E1 /* SortCharactersByFrequency.swift */,
 				D27B794223EB02E2001CBD81 /* RemoveVowelsFromAString.swift */,
 				D2016C4923EC6950000CB3A5 /* BestTimeToBuyAndSellStockWithCooldown.swift */,
 				D24A326923F1AEAA009A06E1 /* SentenceSimilarity.swift */,
@@ -1476,6 +1479,7 @@
 				BAEF0319228821320084E257 /* PartitionArrayIntoThreePartsWithEqualSum.swift in Sources */,
 				BA7FE805228C0B56009B8B23 /* WordPattern.swift in Sources */,
 				BAA3E8FD227A04A0003A9F4B /* NumberOfLinesToWriteString.swift in Sources */,
+				D24A327223F24494009A06E1 /* SortCharactersByFrequency.swift in Sources */,
 				BAF08A3923D0E19100E5FC43 /* IsSubsequence.swift in Sources */,
 				BA2D26352291440400F18A7D /* ComplexNumberMultiplication.swift in Sources */,
 				BA2B9E0723CF7ABB00232F79 /* MaxStack.swift in Sources */,
