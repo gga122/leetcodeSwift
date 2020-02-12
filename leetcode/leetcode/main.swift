@@ -437,7 +437,8 @@ import Foundation
 //FixedPointSolution.init().test()
 //TwoSumLessThanKSolution.init().test()
 //TernaryExpressionParserSolution.init().test()
-SortCharactersByFrequencySolution.init().test()
+//SortCharactersByFrequencySolution.init().test()
+VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
