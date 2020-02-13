@@ -438,7 +438,8 @@ import Foundation
 //TwoSumLessThanKSolution.init().test()
 //TernaryExpressionParserSolution.init().test()
 //SortCharactersByFrequencySolution.init().test()
-VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
+//VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
+BasicCalculatorSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 

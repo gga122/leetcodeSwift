@@ -18,6 +18,7 @@ class VerifyPreorderSequenceInBinarySearchTreeSolution {
                 return false
             }
             
+            /* Find right node */
             while !stack.isEmpty && val > stack.last! {
                 minVal = stack.removeLast()
             }
