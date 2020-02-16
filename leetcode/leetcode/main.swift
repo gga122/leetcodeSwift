@@ -440,7 +440,8 @@ import Foundation
 //SortCharactersByFrequencySolution.init().test()
 //VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
 //BasicCalculatorSolution.init().test()
-BasicCalculatorIISolution.init().test()
+//BasicCalculatorIISolution.init().test()
+SurroundedRegionsSolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
