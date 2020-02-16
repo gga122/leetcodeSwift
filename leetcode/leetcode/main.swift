@@ -439,7 +439,8 @@ import Foundation
 //TernaryExpressionParserSolution.init().test()
 //SortCharactersByFrequencySolution.init().test()
 //VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
-BasicCalculatorSolution.init().test()
+//BasicCalculatorSolution.init().test()
+BasicCalculatorIISolution.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
