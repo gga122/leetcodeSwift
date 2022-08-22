@@ -441,7 +441,8 @@ import Foundation
 //VerifyPreorderSequenceInBinarySearchTreeSolution.init().test()
 //BasicCalculatorSolution.init().test()
 //BasicCalculatorIISolution.init().test()
-SurroundedRegionsSolution.init().test()
+//SurroundedRegionsSolution.init().test()
+Solution1662.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
