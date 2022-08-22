@@ -442,7 +442,8 @@ import Foundation
 //BasicCalculatorSolution.init().test()
 //BasicCalculatorIISolution.init().test()
 //SurroundedRegionsSolution.init().test()
-Solution1662.init().test()
+//Solution1662.init().test()
+Solution151.init().test()
 
 //BestTimeToBuyAndSellStockWithCooldownSolution.init().test()
 
