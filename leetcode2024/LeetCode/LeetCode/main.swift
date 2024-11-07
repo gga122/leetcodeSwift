@@ -8,8 +8,10 @@
 import Foundation
 
 //print(Solution_1.init().twoSum([2,7,11,15], 9))
-Solution_2.init().ttt()
+//Solution_2.init()
+//print(Solution_3.init().lengthOfLongestSubstring("dvdf"))
+print(Solution_3.init().lengthOfLongestSubstring("abba"))
 
 //Solution_88.init().test()
 //Solution_27.init().test()
-Solution_2053.init().test()
+//Solution_2053.init().test()
