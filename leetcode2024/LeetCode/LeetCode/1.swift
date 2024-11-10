@@ -1,5 +1,5 @@
 //
-//  1.swift.swift
+//  1.swift
 //  LeetCode
 //
 //  Created by henry on 2024/10/22.
