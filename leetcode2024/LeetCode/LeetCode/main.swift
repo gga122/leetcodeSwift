@@ -12,6 +12,8 @@ import Foundation
 //print(Solution_3.init().lengthOfLongestSubstring("dvdf"))
 //print(Solution_3.init().lengthOfLongestSubstring("abba"))
 
+Solution_1143.init().longestCommonSubsequence("abcde", "abc")
+
 //Solution_88.init().test()
 //Solution_27.init().test()
 //Solution_2053.init().test()

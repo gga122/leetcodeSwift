@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution_128 {
     func longestConsecutive(_ nums: [Int]) -> Int {
         /*
          类似这种对时间复杂度存在要求的问题, 一般都会用到哈希表这种数据结构

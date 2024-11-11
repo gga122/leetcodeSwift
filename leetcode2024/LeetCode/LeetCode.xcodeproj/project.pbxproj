@@ -16,6 +16,7 @@
 		BAA30D7E2CDD208E00C7D1CE /* 160.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA30D7D2CDD208E00C7D1CE /* 160.swift */; };
 		BAA30D802CDD294200C7D1CE /* 560.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA30D7F2CDD294200C7D1CE /* 560.swift */; };
 		BAAEE6E72CE110F90068D7F9 /* 128.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAEE6E62CE110F90068D7F9 /* 128.swift */; };
+		BAAEE6E92CE1170B0068D7F9 /* 1143.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAEE6E82CE1170B0068D7F9 /* 1143.swift */; };
 		BAEDBB7B2CC7D17A00DC430F /* 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEDBB7A2CC7D17A00DC430F /* 1.swift */; };
 		BAEDBB7D2CC7D45F00DC430F /* 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEDBB7C2CC7D45F00DC430F /* 2.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +44,7 @@
 		BAA30D7D2CDD208E00C7D1CE /* 160.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 160.swift; sourceTree = "<group>"; };
 		BAA30D7F2CDD294200C7D1CE /* 560.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 560.swift; sourceTree = "<group>"; };
 		BAAEE6E62CE110F90068D7F9 /* 128.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 128.swift; sourceTree = "<group>"; };
+		BAAEE6E82CE1170B0068D7F9 /* 1143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1143.swift; sourceTree = "<group>"; };
 		BAEDBB7A2CC7D17A00DC430F /* 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.swift; sourceTree = "<group>"; };
 		BAEDBB7C2CC7D45F00DC430F /* 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -81,6 +83,7 @@
 				BAA30D7D2CDD208E00C7D1CE /* 160.swift */,
 				BAA30D7F2CDD294200C7D1CE /* 560.swift */,
 				BAAEE6E62CE110F90068D7F9 /* 128.swift */,
+				BAAEE6E82CE1170B0068D7F9 /* 1143.swift */,
 				BA81F97E2C9B3F2100812AE9 /* 2053.swift */,
 				BA81F9802C9B438700812AE9 /* 2576.swift */,
 				BA81F9782C9B1F1300812AE9 /* 88.swift */,
@@ -156,6 +159,7 @@
 				BAAEE6E72CE110F90068D7F9 /* 128.swift in Sources */,
 				BAA30D802CDD294200C7D1CE /* 560.swift in Sources */,
 				BAEDBB7D2CC7D45F00DC430F /* 2.swift in Sources */,
+				BAAEE6E92CE1170B0068D7F9 /* 1143.swift in Sources */,
 				BA81F9792C9B1F1300812AE9 /* 88.swift in Sources */,
 				BA1F2FC42CCA78F800EB6F7B /* 3.swift in Sources */,
 				BAA30D7E2CDD208E00C7D1CE /* 160.swift in Sources */,
