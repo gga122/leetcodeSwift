@@ -16,7 +16,8 @@ import Foundation
 //print(Solution_55.init().canJump([3,2,1,0,4]))
 //print(Solution_55.init().canJump([2,3,1,1,4]))
 //print(Solution_55.init().canJump([0,2,3]))
-print(Solution_45.init().jump([1,2]))
+//print(Solution_45.init().jump([1,2]))
+print(Solution_1137.init().tribonacci(25))
 
 //Solution_88.init().test()
 //Solution_27.init().test()
