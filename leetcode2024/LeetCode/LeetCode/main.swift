@@ -18,7 +18,8 @@ import Foundation
 //print(Solution_55.init().canJump([0,2,3]))
 //print(Solution_45.init().jump([1,2]))
 //print(Solution_1137.init().tribonacci(25))
-print(Solution_3258.init().countKConstraintSubstrings("10101", 1))
+//print(Solution_3258.init().countKConstraintSubstrings("10101", 1))
+print(Solution_2239.init().findClosestNumber([-4,-2,1,4,8]))
 
 //Solution_88.init().test()
 //Solution_27.init().test()
