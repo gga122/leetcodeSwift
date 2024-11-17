@@ -21,7 +21,8 @@ import Foundation
 //print(Solution_3258.init().countKConstraintSubstrings("10101", 1))
 //print(Solution_2239.init().findClosestNumber([-4,-2,1,4,8]))
 //print(Solution_1222.init().queensAttacktheKing([[0,1],[1,0],[4,0],[0,4],[3,3],[2,4]], [0,0]))
-print(Solution_165.init().compareVersion("1.2", "1.10"))
+//print(Solution_165.init().compareVersion("1.2", "1.10"))
+print(Solution_3239.init().minFlips([[1,0,0],[0,0,0],[0,0,1]]))
 
 //Solution_88.init().test()
 //Solution_27.init().test()
